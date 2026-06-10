@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Wed, 10 June 2026, 02:22 pm (Adelaide time) · run #1
+**Last updated:** Wed, 10 June 2026, 02:24 pm (Adelaide time) · run #2
 
 ## Right now
 
@@ -29,6 +29,14 @@ Cloud & DevOps              1  #...........................
 Other Tech                  5  ######......................
 ```
 
+## Trend
+
+Open roles tracked across the last 2 runs:
+
+<svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 712.0,112.0" />
+  <circle cx="712.0" cy="112.0" r="3.5" fill="#22d3ee" />
+</svg>
 
 ## Companies hiring the most
 
