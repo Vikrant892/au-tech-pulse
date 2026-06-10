@@ -1,0 +1,18 @@
+{
+  "name": "au-tech-pulse",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An open, auto-updating dataset of the Australian tech job market, with an Adelaide and remote breakdown.",
+  "scripts": {
+    "pulse": "tsx src/run.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0",
+    "vitest": "^3.0.0"
+  }
+}

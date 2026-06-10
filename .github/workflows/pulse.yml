@@ -1,0 +1,62 @@
+name: Pulse
+
+on:
+  schedule:
+    # Every three hours. Each run records a fresh measurement of the
+    # market and commits the real result, so the history builds itself.
+    - cron: '7 */3 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: pulse
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Typecheck and test
+        run: |
+          npm run typecheck
+          npm test
+
+      - name: Collect the pulse
+        run: npm run pulse
+
+      - name: Commit the new measurement
+        run: |
+          set -euo pipefail
+          # Author the commit as the repository owner so it counts toward
+          # the contribution graph. No bot or third-party attribution.
+          git config user.name "Vikrant892"
+          git config user.email "96935861+Vikrant892@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain README.md data/)" ]]; then
+            git add README.md data/
+            git commit -m "data: pulse $(date -u +'%Y-%m-%d %H:%M UTC')"
+            for attempt in 1 2 3; do
+              git pull --rebase --autostash origin main || true
+              if git push; then
+                exit 0
+              fi
+              echo "push attempt $attempt failed, retrying in 5s"
+              sleep 5
+            done
+            echo "push failed after retries"
+            exit 1
+          else
+            echo "No change in the market since the last run."
+          fi
