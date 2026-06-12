@@ -22,6 +22,28 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
+    "id": "lever:brighte:05ee3c74-5cb3-496e-840f-b74f13c43f47",
+    "company": "Brighte",
+    "title": "Junior Developer",
+    "location": "Sydney, NSW",
+    "url": "https://jobs.lever.co/brighte/05ee3c74-5cb3-496e-840f-b74f13c43f47",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-12T04:56:49.404Z"
+  },
+  {
+    "id": "lever:brighte:d517f33f-d99b-4a53-ba7c-507812ca00d4",
+    "company": "Brighte",
+    "title": "Junior Developer",
+    "location": "Sydney, NSW",
+    "url": "https://jobs.lever.co/brighte/d517f33f-d99b-4a53-ba7c-507812ca00d4",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-12T04:56:49.404Z"
+  },
+  {
     "id": "gh:cultureamp:7994439",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
@@ -391,17 +413,6 @@
     "location": "Sydney",
     "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5090393007",
     "category": "Cloud & DevOps",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
-    "id": "ashby:vow:787273ef-9acc-481e-8928-f638079294bd",
-    "company": "Vow",
-    "title": "Automation Engineer",
-    "location": "Sydney",
-    "url": "https://jobs.ashbyhq.com/vow/787273ef-9acc-481e-8928-f638079294bd",
-    "category": "Other Tech",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"

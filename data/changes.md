@@ -1,5 +1,11 @@
 # Change log
 
+## 2026-06-12T04:56:49.404Z
+
+- new: Junior Developer at Brighte (Sydney, NSW)
+- new: Junior Developer at Brighte (Sydney, NSW)
+- closed: Automation Engineer at Vow
+
 ## 2026-06-10T04:52:13.396Z
 
 - new: Analytics Engineer at Brighte (Sydney, NSW)
