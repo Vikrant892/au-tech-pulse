@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Sat, 13 June 2026, 08:13 am (Adelaide time) · run #16
+**Last updated:** Sat, 13 June 2026, 02:13 pm (Adelaide time) · run #17
 
 ## Right now
 
@@ -31,10 +31,10 @@ Other Tech                  4  ####........................
 
 ## Trend
 
-Open roles tracked across the last 16 runs:
+Open roles tracked across the last 17 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 54.9,112.0 101.9,112.0 148.8,112.0 195.7,112.0 242.7,112.0 289.6,112.0 336.5,112.0 383.5,112.0 430.4,112.0 477.3,112.0 524.3,8.0 571.2,8.0 618.1,8.0 665.1,8.0 712.0,8.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 52.0,112.0 96.0,112.0 140.0,112.0 184.0,112.0 228.0,112.0 272.0,112.0 316.0,112.0 360.0,112.0 404.0,112.0 448.0,112.0 492.0,8.0 536.0,8.0 580.0,8.0 624.0,8.0 668.0,8.0 712.0,8.0" />
   <circle cx="712.0" cy="8.0" r="3.5" fill="#22d3ee" />
 </svg>
 
