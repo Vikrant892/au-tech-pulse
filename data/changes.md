@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-06-15T05:21:39.625Z
+
+- closed: Junior Developer at Brighte
+
 ## 2026-06-12T04:56:49.404Z
 
 - new: Junior Developer at Brighte (Sydney, NSW)

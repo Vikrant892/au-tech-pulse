@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Mon, 15 June 2026, 07:48 am (Adelaide time) · run #28
+**Last updated:** Mon, 15 June 2026, 02:51 pm (Adelaide time) · run #29
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **38** |
+| Open tech roles tracked | **37** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **1** |
 | Companies hiring | **6** |
@@ -21,21 +21,21 @@ touching a keyboard.
 ## By field
 
 ```
-Data Engineering            3  ###.........................
-Machine Learning & AI       4  ####........................
+Data Engineering            3  ####........................
+Machine Learning & AI       4  #####.......................
 Cyber Security              1  #...........................
-Software Engineering       25  ############################
+Software Engineering       24  ############################
 Cloud & DevOps              1  #...........................
-Other Tech                  4  ####........................
+Other Tech                  4  #####.......................
 ```
 
 ## Trend
 
-Open roles tracked across the last 28 runs:
+Open roles tracked across the last 29 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 34.1,112.0 60.1,112.0 86.2,112.0 112.3,112.0 138.4,112.0 164.4,112.0 190.5,112.0 216.6,112.0 242.7,112.0 268.7,112.0 294.8,8.0 320.9,8.0 347.0,8.0 373.0,8.0 399.1,8.0 425.2,8.0 451.3,8.0 477.3,8.0 503.4,8.0 529.5,8.0 555.6,8.0 581.6,8.0 607.7,8.0 633.8,8.0 659.9,8.0 685.9,8.0 712.0,8.0" />
-  <circle cx="712.0" cy="8.0" r="3.5" fill="#22d3ee" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 33.1,112.0 58.3,112.0 83.4,112.0 108.6,112.0 133.7,112.0 158.9,112.0 184.0,112.0 209.1,112.0 234.3,112.0 259.4,112.0 284.6,8.0 309.7,8.0 334.9,8.0 360.0,8.0 385.1,8.0 410.3,8.0 435.4,8.0 460.6,8.0 485.7,8.0 510.9,8.0 536.0,8.0 561.1,8.0 586.3,8.0 611.4,8.0 636.6,8.0 661.7,8.0 686.9,8.0 712.0,112.0" />
+  <circle cx="712.0" cy="112.0" r="3.5" fill="#22d3ee" />
 </svg>
 
 ## Companies hiring the most
@@ -45,7 +45,7 @@ Open roles tracked across the last 28 runs:
 | 1 | Easygo | 18 |
 | 2 | The Trade Desk | 6 |
 | 3 | Deputy | 5 |
-| 4 | Brighte | 4 |
+| 4 | Brighte | 3 |
 | 5 | Relevance AI | 3 |
 | 6 | Culture Amp | 2 |
 
@@ -53,7 +53,6 @@ Open roles tracked across the last 28 runs:
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
-| [Junior Developer](https://jobs.lever.co/brighte/05ee3c74-5cb3-496e-840f-b74f13c43f47) | Brighte | Sydney, NSW | Software Engineering |
 | [Junior Developer](https://jobs.lever.co/brighte/d517f33f-d99b-4a53-ba7c-507812ca00d4) | Brighte | Sydney, NSW | Software Engineering |
 | [Analytics Engineer](https://jobs.lever.co/brighte/e608ba39-9212-4496-95cf-ffc04443d9a7) | Brighte | Sydney, NSW | Data Engineering |
 | [Data Engineer](https://jobs.lever.co/brighte/808e8761-1ad9-41ba-8892-0405a5405b1a) | Brighte | Sydney, NSW | Data Engineering |
@@ -68,6 +67,7 @@ Open roles tracked across the last 28 runs:
 | [Senior Backend Engineer - KICK Platform Trust](https://job-boards.greenhouse.io/easygo/jobs/5146144007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Data Analyst - Kick](https://job-boards.greenhouse.io/easygo/jobs/5097649007) | Easygo | Melbourne, Australia | Data Engineering |
 | [Senior Front-End Software Engineer, Sportsbook](https://job-boards.greenhouse.io/easygo/jobs/4540003007) | Easygo | Melbourne, Australia | Software Engineering |
+| [Senior Frontend Engineer - KICK Creator Tools & Engagement](https://job-boards.greenhouse.io/easygo/jobs/5000593007) | Easygo | Melbourne, Australia | Software Engineering |
 
 ## How it works
 
