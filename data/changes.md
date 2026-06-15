@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-06-15T12:38:13.408Z
+
+- new: Senior Software Engineer - Device Experience at Easygo (Melbourne, Australia)
+- closed: Senior Frontend Engineer - KICK Creator Tools & Engagement at Easygo
+
 ## 2026-06-15T05:21:39.625Z
 
 - closed: Junior Developer at Brighte

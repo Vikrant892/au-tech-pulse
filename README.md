@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Mon, 15 June 2026, 02:51 pm (Adelaide time) · run #29
+**Last updated:** Mon, 15 June 2026, 10:08 pm (Adelaide time) · run #30
 
 ## Right now
 
@@ -31,10 +31,10 @@ Other Tech                  4  #####.......................
 
 ## Trend
 
-Open roles tracked across the last 29 runs:
+Open roles tracked across the last 30 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 33.1,112.0 58.3,112.0 83.4,112.0 108.6,112.0 133.7,112.0 158.9,112.0 184.0,112.0 209.1,112.0 234.3,112.0 259.4,112.0 284.6,8.0 309.7,8.0 334.9,8.0 360.0,8.0 385.1,8.0 410.3,8.0 435.4,8.0 460.6,8.0 485.7,8.0 510.9,8.0 536.0,8.0 561.1,8.0 586.3,8.0 611.4,8.0 636.6,8.0 661.7,8.0 686.9,8.0 712.0,112.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 32.3,112.0 56.6,112.0 80.8,112.0 105.1,112.0 129.4,112.0 153.7,112.0 177.9,112.0 202.2,112.0 226.5,112.0 250.8,112.0 275.0,8.0 299.3,8.0 323.6,8.0 347.9,8.0 372.1,8.0 396.4,8.0 420.7,8.0 445.0,8.0 469.2,8.0 493.5,8.0 517.8,8.0 542.1,8.0 566.3,8.0 590.6,8.0 614.9,8.0 639.2,8.0 663.4,8.0 687.7,112.0 712.0,112.0" />
   <circle cx="712.0" cy="112.0" r="3.5" fill="#22d3ee" />
 </svg>
 
@@ -53,6 +53,7 @@ Open roles tracked across the last 29 runs:
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [Senior Software Engineer - Device Experience](https://job-boards.greenhouse.io/easygo/jobs/5164497007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Junior Developer](https://jobs.lever.co/brighte/d517f33f-d99b-4a53-ba7c-507812ca00d4) | Brighte | Sydney, NSW | Software Engineering |
 | [Analytics Engineer](https://jobs.lever.co/brighte/e608ba39-9212-4496-95cf-ffc04443d9a7) | Brighte | Sydney, NSW | Data Engineering |
 | [Data Engineer](https://jobs.lever.co/brighte/808e8761-1ad9-41ba-8892-0405a5405b1a) | Brighte | Sydney, NSW | Data Engineering |
@@ -67,7 +68,6 @@ Open roles tracked across the last 29 runs:
 | [Senior Backend Engineer - KICK Platform Trust](https://job-boards.greenhouse.io/easygo/jobs/5146144007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Data Analyst - Kick](https://job-boards.greenhouse.io/easygo/jobs/5097649007) | Easygo | Melbourne, Australia | Data Engineering |
 | [Senior Front-End Software Engineer, Sportsbook](https://job-boards.greenhouse.io/easygo/jobs/4540003007) | Easygo | Melbourne, Australia | Software Engineering |
-| [Senior Frontend Engineer - KICK Creator Tools & Engagement](https://job-boards.greenhouse.io/easygo/jobs/5000593007) | Easygo | Melbourne, Australia | Software Engineering |
 
 ## How it works
 

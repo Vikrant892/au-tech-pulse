@@ -154,17 +154,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:easygo:5000593007",
-    "company": "Easygo",
-    "title": "Senior Frontend Engineer - KICK Creator Tools & Engagement",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5000593007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
     "id": "gh:easygo:4990428007",
     "company": "Easygo",
     "title": "Senior Full-Stack Engineer, Sportsbook",
@@ -196,6 +185,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
+  },
+  {
+    "id": "gh:easygo:5164497007",
+    "company": "Easygo",
+    "title": "Senior Software Engineer - Device Experience",
+    "location": "Melbourne, Australia",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5164497007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-15T12:38:13.408Z"
   },
   {
     "id": "gh:easygo:4996791007",
