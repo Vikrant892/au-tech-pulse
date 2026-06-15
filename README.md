@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Mon, 15 June 2026, 10:08 pm (Adelaide time) · run #30
+**Last updated:** Tue, 16 June 2026, 04:37 am (Adelaide time) · run #31
 
 ## Right now
 
@@ -31,10 +31,10 @@ Other Tech                  4  #####.......................
 
 ## Trend
 
-Open roles tracked across the last 30 runs:
+Open roles tracked across the last 31 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 32.3,112.0 56.6,112.0 80.8,112.0 105.1,112.0 129.4,112.0 153.7,112.0 177.9,112.0 202.2,112.0 226.5,112.0 250.8,112.0 275.0,8.0 299.3,8.0 323.6,8.0 347.9,8.0 372.1,8.0 396.4,8.0 420.7,8.0 445.0,8.0 469.2,8.0 493.5,8.0 517.8,8.0 542.1,8.0 566.3,8.0 590.6,8.0 614.9,8.0 639.2,8.0 663.4,8.0 687.7,112.0 712.0,112.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 31.5,112.0 54.9,112.0 78.4,112.0 101.9,112.0 125.3,112.0 148.8,112.0 172.3,112.0 195.7,112.0 219.2,112.0 242.7,112.0 266.1,8.0 289.6,8.0 313.1,8.0 336.5,8.0 360.0,8.0 383.5,8.0 406.9,8.0 430.4,8.0 453.9,8.0 477.3,8.0 500.8,8.0 524.3,8.0 547.7,8.0 571.2,8.0 594.7,8.0 618.1,8.0 641.6,8.0 665.1,112.0 688.5,112.0 712.0,112.0" />
   <circle cx="712.0" cy="112.0" r="3.5" fill="#22d3ee" />
 </svg>
 
