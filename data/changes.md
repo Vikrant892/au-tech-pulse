@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-06-17T11:13:43.702Z
+
+- new: Senior Frontend Engineer - KICK Creator Tools & Engagement at Easygo (Melbourne, Australia)
+- new: Senior Software Engineer at The Trade Desk (Sydney)
+
 ## 2026-06-17T05:05:08.949Z
 
 - closed: Senior Data Analyst - Kick at Easygo
