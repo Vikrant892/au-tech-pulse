@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-06-17T05:05:08.949Z
+
+- closed: Senior Data Analyst - Kick at Easygo
+
 ## 2026-06-15T12:38:13.408Z
 
 - new: Senior Software Engineer - Device Experience at Easygo (Melbourne, Australia)
