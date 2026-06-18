@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Thu, 18 June 2026, 02:24 pm (Adelaide time) · run #42
+**Last updated:** Thu, 18 June 2026, 08:13 pm (Adelaide time) · run #43
 
 ## Right now
 
@@ -31,10 +31,10 @@ Other Tech                  4  ####........................
 
 ## Trend
 
-Open roles tracked across the last 42 runs:
+Open roles tracked across the last 43 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,60.0 25.2,60.0 42.3,60.0 59.5,60.0 76.7,60.0 93.9,60.0 111.0,60.0 128.2,60.0 145.4,60.0 162.5,60.0 179.7,60.0 196.9,8.0 214.0,8.0 231.2,8.0 248.4,8.0 265.6,8.0 282.7,8.0 299.9,8.0 317.1,8.0 334.2,8.0 351.4,8.0 368.6,8.0 385.8,8.0 402.9,8.0 420.1,8.0 437.3,8.0 454.4,8.0 471.6,8.0 488.8,60.0 506.0,60.0 523.1,60.0 540.3,60.0 557.5,60.0 574.6,60.0 591.8,60.0 609.0,60.0 626.1,112.0 643.3,8.0 660.5,8.0 677.7,8.0 694.8,8.0 712.0,8.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,60.0 24.8,60.0 41.5,60.0 58.3,60.0 75.0,60.0 91.8,60.0 108.6,60.0 125.3,60.0 142.1,60.0 158.9,60.0 175.6,60.0 192.4,8.0 209.1,8.0 225.9,8.0 242.7,8.0 259.4,8.0 276.2,8.0 293.0,8.0 309.7,8.0 326.5,8.0 343.2,8.0 360.0,8.0 376.8,8.0 393.5,8.0 410.3,8.0 427.0,8.0 443.8,8.0 460.6,8.0 477.3,60.0 494.1,60.0 510.9,60.0 527.6,60.0 544.4,60.0 561.1,60.0 577.9,60.0 594.7,60.0 611.4,112.0 628.2,8.0 645.0,8.0 661.7,8.0 678.5,8.0 695.2,8.0 712.0,8.0" />
   <circle cx="712.0" cy="8.0" r="3.5" fill="#22d3ee" />
 </svg>
 
@@ -59,8 +59,8 @@ Open roles tracked across the last 42 runs:
 | [Junior Developer](https://jobs.lever.co/brighte/d517f33f-d99b-4a53-ba7c-507812ca00d4) | Brighte | Sydney, NSW | Software Engineering |
 | [Analytics Engineer](https://jobs.lever.co/brighte/e608ba39-9212-4496-95cf-ffc04443d9a7) | Brighte | Sydney, NSW | Data Engineering |
 | [Data Engineer](https://jobs.lever.co/brighte/808e8761-1ad9-41ba-8892-0405a5405b1a) | Brighte | Sydney, NSW | Data Engineering |
-| [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994437) | Culture Amp | Melbourne | Machine Learning & AI |
 | [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994439) | Culture Amp | Sydney | Machine Learning & AI |
+| [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994437) | Culture Amp | Melbourne | Machine Learning & AI |
 | [Lead Platform Security Engineer](https://jobs.lever.co/deputy/5b856e9e-63ac-4be5-ba84-5564ff93f7c5) | Deputy | Australia | Cyber Security |
 | [Senior Design Systems Engineer](https://jobs.lever.co/deputy/5f469019-9067-4707-8419-afdcaf8b275f) | Deputy | Sydney | Other Tech |
 | [Software Engineer 3: Backend - 12 Month Fixed Term Contract](https://jobs.lever.co/deputy/183c3782-3b25-45cc-96a7-295746d08b75) | Deputy | Sydney | Software Engineering |
