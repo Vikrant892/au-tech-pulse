@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-06-22T05:23:10.765Z
+
+- new: Senior Software Engineer - (Full Stack) - Casino team at Easygo (Melbourne, Australia)
+
 ## 2026-06-17T11:13:43.702Z
 
 - new: Senior Frontend Engineer - KICK Creator Tools & Engagement at Easygo (Melbourne, Australia)
