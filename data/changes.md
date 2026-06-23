@@ -1,5 +1,11 @@
 # Change log
 
+## 2026-06-23T04:15:47.933Z
+
+- new: Application Security Engineer at Bugcrowd (Remote - Brazil)
+- closed: Data Engineer at Brighte
+- closed: Senior Software Engineer - Payments (Crypto & Fiat) at Easygo
+
 ## 2026-06-22T12:22:15.354Z
 
 - new: Senior Software Quality Engineer - Payments at Easygo (Melbourne)
