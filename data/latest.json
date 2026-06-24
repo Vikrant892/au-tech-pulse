@@ -33,22 +33,22 @@
     "firstSeen": "2026-06-23T04:15:47.933Z"
   },
   {
-    "id": "gh:cultureamp:7994437",
+    "id": "gh:cultureamp:7994439",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Melbourne",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:cultureamp:7994439",
+    "id": "gh:cultureamp:7994437",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
+    "location": "Melbourne",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
@@ -231,39 +231,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:easygo:5123536007",
-    "company": "Easygo",
-    "title": "Senior Software Engineer (Casino team)",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5123536007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
-    "id": "gh:easygo:5123541007",
-    "company": "Easygo",
-    "title": "Senior Software Engineer, (Full-Stack) - Engagement team",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5123541007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
-    "id": "gh:easygo:5167990007",
-    "company": "Easygo",
-    "title": "Senior Software Quality Engineer - Payments",
-    "location": "Melbourne",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5167990007",
-    "category": "Other Tech",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-22T12:22:15.354Z"
-  },
-  {
     "id": "gh:easygo:5153906007",
     "company": "Easygo",
     "title": "Staff Frontend Software Engineer",
@@ -374,17 +341,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:thetradedesk:5166572007",
-    "company": "The Trade Desk",
-    "title": "Senior Software Engineer",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5166572007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-17T11:13:43.702Z"
-  },
-  {
     "id": "gh:thetradedesk:5087851007",
     "company": "The Trade Desk",
     "title": "Senior Software Engineer",
@@ -394,6 +350,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
+  },
+  {
+    "id": "gh:thetradedesk:5166572007",
+    "company": "The Trade Desk",
+    "title": "Senior Software Engineer",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5166572007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-17T11:13:43.702Z"
   },
   {
     "id": "gh:thetradedesk:5159472007",

@@ -1,5 +1,11 @@
 # Change log
 
+## 2026-06-24T09:48:17.212Z
+
+- closed: Senior Software Engineer (Casino team) at Easygo
+- closed: Senior Software Engineer, (Full-Stack) - Engagement team at Easygo
+- closed: Senior Software Quality Engineer - Payments at Easygo
+
 ## 2026-06-23T04:15:47.933Z
 
 - new: Application Security Engineer at Bugcrowd (Remote - Brazil)
