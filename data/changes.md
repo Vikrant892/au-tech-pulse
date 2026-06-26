@@ -1,5 +1,12 @@
 # Change log
 
+## 2026-06-26T04:25:02.884Z
+
+- new: Business Systems Engineer at Deputy (Sydney)
+- new: Senior Frontend Engineer - Payments (Crypto & Fiat) at Easygo (Melbourne, Australia)
+- closed: Analytics Engineer at Brighte
+- closed: Junior Developer at Brighte
+
 ## 2026-06-24T09:48:17.212Z
 
 - closed: Senior Software Engineer (Casino team) at Easygo

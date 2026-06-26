@@ -1,27 +1,5 @@
 [
   {
-    "id": "lever:brighte:e608ba39-9212-4496-95cf-ffc04443d9a7",
-    "company": "Brighte",
-    "title": "Analytics Engineer",
-    "location": "Sydney, NSW",
-    "url": "https://jobs.lever.co/brighte/e608ba39-9212-4496-95cf-ffc04443d9a7",
-    "category": "Data Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
-    "id": "lever:brighte:d517f33f-d99b-4a53-ba7c-507812ca00d4",
-    "company": "Brighte",
-    "title": "Junior Developer",
-    "location": "Sydney, NSW",
-    "url": "https://jobs.lever.co/brighte/d517f33f-d99b-4a53-ba7c-507812ca00d4",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-12T04:56:49.404Z"
-  },
-  {
     "id": "gh:bugcrowd:8012371",
     "company": "Bugcrowd",
     "title": "Application Security Engineer",
@@ -31,6 +9,17 @@
     "adelaide": false,
     "remote": true,
     "firstSeen": "2026-06-23T04:15:47.933Z"
+  },
+  {
+    "id": "gh:cultureamp:7994437",
+    "company": "Culture Amp",
+    "title": "Staff Applied AI Scientist",
+    "location": "Melbourne",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
+    "category": "Machine Learning & AI",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
     "id": "gh:cultureamp:7994439",
@@ -44,15 +33,15 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:cultureamp:7994437",
-    "company": "Culture Amp",
-    "title": "Staff Applied AI Scientist",
-    "location": "Melbourne",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
-    "category": "Machine Learning & AI",
+    "id": "lever:deputy:92507d93-e289-4ec0-8fff-060855512d51",
+    "company": "Deputy",
+    "title": "Business Systems Engineer",
+    "location": "Sydney",
+    "url": "https://jobs.lever.co/deputy/92507d93-e289-4ec0-8fff-060855512d51",
+    "category": "Other Tech",
     "adelaide": false,
     "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
+    "firstSeen": "2026-06-26T04:25:02.884Z"
   },
   {
     "id": "lever:deputy:5b856e9e-63ac-4be5-ba84-5564ff93f7c5",
@@ -152,6 +141,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-17T11:13:43.702Z"
+  },
+  {
+    "id": "gh:easygo:5174724007",
+    "company": "Easygo",
+    "title": "Senior Frontend Engineer - Payments (Crypto & Fiat)",
+    "location": "Melbourne, Australia",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5174724007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-26T04:25:02.884Z"
   },
   {
     "id": "gh:easygo:4990428007",
@@ -341,17 +341,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:thetradedesk:5087851007",
-    "company": "The Trade Desk",
-    "title": "Senior Software Engineer",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5087851007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
     "id": "gh:thetradedesk:5166572007",
     "company": "The Trade Desk",
     "title": "Senior Software Engineer",
@@ -361,6 +350,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-17T11:13:43.702Z"
+  },
+  {
+    "id": "gh:thetradedesk:5087851007",
+    "company": "The Trade Desk",
+    "title": "Senior Software Engineer",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5087851007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
     "id": "gh:thetradedesk:4972481007",
