@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-06-26T09:47:00.682Z
+
+- closed: Senior Design Systems Engineer at Deputy
+
 ## 2026-06-26T04:25:02.884Z
 
 - new: Business Systems Engineer at Deputy (Sydney)

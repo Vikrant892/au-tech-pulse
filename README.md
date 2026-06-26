@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Fri, 26 June 2026, 01:55 pm (Adelaide time) · run #60
+**Last updated:** Fri, 26 June 2026, 07:17 pm (Adelaide time) · run #60
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **36** |
+| Open tech roles tracked | **35** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **2** |
 | Companies hiring | **6** |
@@ -26,7 +26,7 @@ Machine Learning & AI       4  #####.......................
 Cyber Security              2  ##..........................
 Software Engineering       24  ############################
 Cloud & DevOps              1  #...........................
-Other Tech                  5  ######......................
+Other Tech                  4  #####.......................
 ```
 
 ## Trend
@@ -34,7 +34,7 @@ Other Tech                  5  ######......................
 Open roles tracked across the last 60 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,60.0 19.9,60.0 31.9,60.0 43.8,86.0 55.7,86.0 67.7,86.0 79.6,86.0 91.5,86.0 103.5,86.0 115.4,86.0 127.3,86.0 139.3,112.0 151.2,60.0 163.1,60.0 175.1,60.0 187.0,60.0 198.9,60.0 210.8,60.0 222.8,60.0 234.7,60.0 246.6,60.0 258.6,60.0 270.5,60.0 282.4,60.0 294.4,60.0 306.3,60.0 318.2,60.0 330.2,60.0 342.1,60.0 354.0,60.0 366.0,60.0 377.9,60.0 389.8,60.0 401.8,60.0 413.7,60.0 425.6,60.0 437.6,60.0 449.5,60.0 461.4,34.0 473.4,8.0 485.3,8.0 497.2,8.0 509.2,34.0 521.1,34.0 533.0,34.0 544.9,34.0 556.9,34.0 568.8,34.0 580.7,112.0 592.7,112.0 604.6,112.0 616.5,112.0 628.5,112.0 640.4,112.0 652.3,112.0 664.3,112.0 676.2,112.0 688.1,112.0 700.1,112.0 712.0,112.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,49.6 19.9,49.6 31.9,70.4 43.8,70.4 55.7,70.4 67.7,70.4 79.6,70.4 91.5,70.4 103.5,70.4 115.4,70.4 127.3,91.2 139.3,49.6 151.2,49.6 163.1,49.6 175.1,49.6 187.0,49.6 198.9,49.6 210.8,49.6 222.8,49.6 234.7,49.6 246.6,49.6 258.6,49.6 270.5,49.6 282.4,49.6 294.4,49.6 306.3,49.6 318.2,49.6 330.2,49.6 342.1,49.6 354.0,49.6 366.0,49.6 377.9,49.6 389.8,49.6 401.8,49.6 413.7,49.6 425.6,49.6 437.6,49.6 449.5,28.8 461.4,8.0 473.4,8.0 485.3,8.0 497.2,28.8 509.2,28.8 521.1,28.8 533.0,28.8 544.9,28.8 556.9,28.8 568.8,91.2 580.7,91.2 592.7,91.2 604.6,91.2 616.5,91.2 628.5,91.2 640.4,91.2 652.3,91.2 664.3,91.2 676.2,91.2 688.1,91.2 700.1,91.2 712.0,112.0" />
   <circle cx="712.0" cy="112.0" r="3.5" fill="#22d3ee" />
 </svg>
 
@@ -44,7 +44,7 @@ Open roles tracked across the last 60 runs:
 | --- | --- | --- |
 | 1 | Easygo | 17 |
 | 2 | The Trade Desk | 7 |
-| 3 | Deputy | 6 |
+| 3 | Deputy | 5 |
 | 4 | Relevance AI | 3 |
 | 5 | Culture Amp | 2 |
 | 6 | Bugcrowd | 1 |
@@ -63,11 +63,11 @@ Open roles tracked across the last 60 runs:
 | [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994437) | Culture Amp | Melbourne | Machine Learning & AI |
 | [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994439) | Culture Amp | Sydney | Machine Learning & AI |
 | [Lead Platform Security Engineer](https://jobs.lever.co/deputy/5b856e9e-63ac-4be5-ba84-5564ff93f7c5) | Deputy | Australia | Cyber Security |
-| [Senior Design Systems Engineer](https://jobs.lever.co/deputy/5f469019-9067-4707-8419-afdcaf8b275f) | Deputy | Sydney | Other Tech |
 | [Software Engineer 3: Backend - 12 Month Fixed Term Contract](https://jobs.lever.co/deputy/183c3782-3b25-45cc-96a7-295746d08b75) | Deputy | Sydney | Software Engineering |
 | [Technical Support Engineer - Tier 3](https://jobs.lever.co/deputy/5bb3ec32-8157-4115-8c34-b2e6ee04440c) | Deputy | Sydney | Other Tech |
 | [Website Developer](https://jobs.lever.co/deputy/c52fd923-09aa-4d88-9843-52a38e1a620b) | Deputy | Sydney | Software Engineering |
 | [Junior MLOps Engineer](https://job-boards.greenhouse.io/easygo/jobs/5159569007) | Easygo | Melbourne, Australia | Machine Learning & AI |
+| [Senior Backend Engineer - KICK Platform Trust](https://job-boards.greenhouse.io/easygo/jobs/5146144007) | Easygo | Melbourne, Australia | Software Engineering |
 
 ## How it works
 
