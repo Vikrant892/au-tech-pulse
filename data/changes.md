@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-06-29T04:54:17.719Z
+
+- new: Staff Software Engineer, Full-Stack (Sydney) at Easygo (Sydney, Australia)
+
 ## 2026-06-26T09:47:00.682Z
 
 - closed: Senior Design Systems Engineer at Deputy
