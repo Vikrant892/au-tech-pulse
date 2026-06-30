@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-06-30T04:20:11.473Z
+
+- new: Senior AI Engineer - Applied AI at Culture Amp (Melbourne)
+
 ## 2026-06-29T04:54:17.719Z
 
 - new: Staff Software Engineer, Full-Stack (Sydney) at Easygo (Sydney, Australia)
