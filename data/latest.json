@@ -13,7 +13,7 @@
   {
     "id": "gh:cultureamp:7573350",
     "company": "Culture Amp",
-    "title": "Senior AI Engineer - Applied AI",
+    "title": "Senior Applied AI Engineer",
     "location": "Melbourne",
     "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7573350",
     "category": "Machine Learning & AI",
@@ -119,6 +119,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
+  },
+  {
+    "id": "gh:easygo:5097649007",
+    "company": "Easygo",
+    "title": "Senior Data Analyst - Kick (Modelling)",
+    "location": "Melbourne, Australia",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5097649007",
+    "category": "Data Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-30T09:56:35.759Z"
   },
   {
     "id": "gh:easygo:4540003007",
