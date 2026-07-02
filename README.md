@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Fri, 03 July 2026, 02:28 am (Adelaide time) · run #60
+**Last updated:** Fri, 03 July 2026, 05:15 am (Adelaide time) · run #60
 
 ## Right now
 
@@ -34,7 +34,7 @@ Other Tech                  4  ####........................
 Open roles tracked across the last 60 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,8.0 19.9,8.0 31.9,8.0 43.8,28.8 55.7,28.8 67.7,28.8 79.6,28.8 91.5,28.8 103.5,28.8 115.4,91.2 127.3,91.2 139.3,91.2 151.2,91.2 163.1,91.2 175.1,91.2 187.0,91.2 198.9,91.2 210.8,91.2 222.8,91.2 234.7,91.2 246.6,91.2 258.6,112.0 270.5,112.0 282.4,112.0 294.4,112.0 306.3,112.0 318.2,112.0 330.2,112.0 342.1,112.0 354.0,112.0 366.0,112.0 377.9,112.0 389.8,112.0 401.8,112.0 413.7,112.0 425.6,112.0 437.6,112.0 449.5,112.0 461.4,112.0 473.4,91.2 485.3,91.2 497.2,91.2 509.2,91.2 521.1,91.2 533.0,70.4 544.9,49.6 556.9,49.6 568.8,49.6 580.7,49.6 592.7,49.6 604.6,49.6 616.5,49.6 628.5,49.6 640.4,49.6 652.3,49.6 664.3,49.6 676.2,49.6 688.1,49.6 700.1,49.6 712.0,49.6" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,8.0 19.9,8.0 31.9,28.8 43.8,28.8 55.7,28.8 67.7,28.8 79.6,28.8 91.5,28.8 103.5,91.2 115.4,91.2 127.3,91.2 139.3,91.2 151.2,91.2 163.1,91.2 175.1,91.2 187.0,91.2 198.9,91.2 210.8,91.2 222.8,91.2 234.7,91.2 246.6,112.0 258.6,112.0 270.5,112.0 282.4,112.0 294.4,112.0 306.3,112.0 318.2,112.0 330.2,112.0 342.1,112.0 354.0,112.0 366.0,112.0 377.9,112.0 389.8,112.0 401.8,112.0 413.7,112.0 425.6,112.0 437.6,112.0 449.5,112.0 461.4,91.2 473.4,91.2 485.3,91.2 497.2,91.2 509.2,91.2 521.1,70.4 533.0,49.6 544.9,49.6 556.9,49.6 568.8,49.6 580.7,49.6 592.7,49.6 604.6,49.6 616.5,49.6 628.5,49.6 640.4,49.6 652.3,49.6 664.3,49.6 676.2,49.6 688.1,49.6 700.1,49.6 712.0,49.6" />
   <circle cx="712.0" cy="49.6" r="3.5" fill="#22d3ee" />
 </svg>
 
@@ -63,8 +63,8 @@ Open roles tracked across the last 60 runs:
 | [Senior Frontend Engineer - KICK Creator Tools & Engagement](https://job-boards.greenhouse.io/easygo/jobs/5000593007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer](https://job-boards.greenhouse.io/thetradedesk/jobs/5166572007) | The Trade Desk | Sydney | Software Engineering |
 | [Senior Software Engineer - Device Experience](https://job-boards.greenhouse.io/easygo/jobs/5164497007) | Easygo | Melbourne, Australia | Software Engineering |
-| [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994437) | Culture Amp | Melbourne | Machine Learning & AI |
 | [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994439) | Culture Amp | Sydney | Machine Learning & AI |
+| [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994437) | Culture Amp | Melbourne | Machine Learning & AI |
 | [Lead Platform Security Engineer](https://jobs.lever.co/deputy/5b856e9e-63ac-4be5-ba84-5564ff93f7c5) | Deputy | Australia | Cyber Security |
 | [Software Engineer 3: Backend - 12 Month Fixed Term Contract](https://jobs.lever.co/deputy/183c3782-3b25-45cc-96a7-295746d08b75) | Deputy | Sydney | Software Engineering |
 | [Technical Support Engineer - Tier 3](https://jobs.lever.co/deputy/5bb3ec32-8157-4115-8c34-b2e6ee04440c) | Deputy | Sydney | Other Tech |
