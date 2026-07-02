@@ -363,17 +363,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:thetradedesk:5166572007",
-    "company": "The Trade Desk",
-    "title": "Senior Software Engineer",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5166572007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-17T11:13:43.702Z"
-  },
-  {
     "id": "gh:thetradedesk:5087851007",
     "company": "The Trade Desk",
     "title": "Senior Software Engineer",
@@ -385,15 +374,15 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:thetradedesk:4972481007",
+    "id": "gh:thetradedesk:5166572007",
     "company": "The Trade Desk",
-    "title": "Software Engineer II",
+    "title": "Senior Software Engineer",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5166572007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
+    "firstSeen": "2026-06-17T11:13:43.702Z"
   },
   {
     "id": "gh:thetradedesk:5159472007",
@@ -401,6 +390,17 @@
     "title": "Software Engineer II",
     "location": "Sydney",
     "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-10T04:52:13.396Z"
+  },
+  {
+    "id": "gh:thetradedesk:4972481007",
+    "company": "The Trade Desk",
+    "title": "Software Engineer II",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
