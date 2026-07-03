@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-03T04:01:47.585Z
+
+- closed: Senior Full-Stack Engineer, Sportsbook at Easygo
+
 ## 2026-06-30T09:56:35.759Z
 
 - new: Senior Data Analyst - Kick (Modelling) at Easygo (Melbourne, Australia)
