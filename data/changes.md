@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-03T09:31:45.544Z
+
+- closed: Senior Frontend Engineer - Payments (Crypto & Fiat) at Easygo
+
 ## 2026-07-03T04:01:47.585Z
 
 - closed: Senior Full-Stack Engineer, Sportsbook at Easygo
