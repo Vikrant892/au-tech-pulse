@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-07-06T10:56:41.885Z
+
+- new: DevOps Engineer at Brighte (Sydney, NSW)
+- new: Senior Design Systems Engineer at Deputy (Sydney)
+
 ## 2026-07-03T09:31:45.544Z
 
 - closed: Senior Frontend Engineer - Payments (Crypto & Fiat) at Easygo

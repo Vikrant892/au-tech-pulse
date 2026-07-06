@@ -1,5 +1,16 @@
 [
   {
+    "id": "lever:brighte:98f020ad-a2a2-4e97-8920-92136bb48e3e",
+    "company": "Brighte",
+    "title": "DevOps Engineer",
+    "location": "Sydney, NSW",
+    "url": "https://jobs.lever.co/brighte/98f020ad-a2a2-4e97-8920-92136bb48e3e",
+    "category": "Cloud & DevOps",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-07-06T10:56:41.885Z"
+  },
+  {
     "id": "gh:bugcrowd:8012371",
     "company": "Bugcrowd",
     "title": "Application Security Engineer",
@@ -64,6 +75,17 @@
     "adelaide": false,
     "remote": true,
     "firstSeen": "2026-06-10T04:52:13.396Z"
+  },
+  {
+    "id": "lever:deputy:5dcaffbc-79bd-4e4f-9494-c7d243d5ce06",
+    "company": "Deputy",
+    "title": "Senior Design Systems Engineer",
+    "location": "Sydney",
+    "url": "https://jobs.lever.co/deputy/5dcaffbc-79bd-4e4f-9494-c7d243d5ce06",
+    "category": "Other Tech",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-07-06T10:56:41.885Z"
   },
   {
     "id": "lever:deputy:183c3782-3b25-45cc-96a7-295746d08b75",
@@ -341,17 +363,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:thetradedesk:5087851007",
-    "company": "The Trade Desk",
-    "title": "Senior Software Engineer",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5087851007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
     "id": "gh:thetradedesk:5166572007",
     "company": "The Trade Desk",
     "title": "Senior Software Engineer",
@@ -361,6 +372,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-17T11:13:43.702Z"
+  },
+  {
+    "id": "gh:thetradedesk:5087851007",
+    "company": "The Trade Desk",
+    "title": "Senior Software Engineer",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5087851007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
     "id": "gh:thetradedesk:4972481007",
