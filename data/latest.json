@@ -33,22 +33,22 @@
     "firstSeen": "2026-06-30T04:20:11.473Z"
   },
   {
-    "id": "gh:cultureamp:7994439",
+    "id": "gh:cultureamp:7994437",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
+    "location": "Melbourne",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:cultureamp:7994437",
+    "id": "gh:cultureamp:7994439",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Melbourne",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
@@ -121,15 +121,15 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:easygo:5159569007",
+    "id": "gh:easygo:5153842007",
     "company": "Easygo",
-    "title": "Junior MLOps Engineer",
+    "title": "Atlassian Engineer",
     "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5159569007",
-    "category": "Machine Learning & AI",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5153842007",
+    "category": "Other Tech",
     "adelaide": false,
     "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
+    "firstSeen": "2026-07-07T04:11:28.825Z"
   },
   {
     "id": "gh:easygo:5146144007",
@@ -308,6 +308,17 @@
     "firstSeen": "2026-06-29T04:54:17.719Z"
   },
   {
+    "id": "ashby:relevanceai:a104c172-046e-4e47-962c-de14f184b022",
+    "company": "Relevance AI",
+    "title": "AI Deployment Strategist",
+    "location": "Sydney, Australia",
+    "url": "https://jobs.ashbyhq.com/relevanceai/a104c172-046e-4e47-962c-de14f184b022",
+    "category": "Other Tech",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-07-07T04:11:28.825Z"
+  },
+  {
     "id": "ashby:relevanceai:a13f1860-17db-4026-9b17-7c77d6738c08",
     "company": "Relevance AI",
     "title": "Senior Software Engineer",
@@ -363,17 +374,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:thetradedesk:5166572007",
-    "company": "The Trade Desk",
-    "title": "Senior Software Engineer",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5166572007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-17T11:13:43.702Z"
-  },
-  {
     "id": "gh:thetradedesk:5087851007",
     "company": "The Trade Desk",
     "title": "Senior Software Engineer",
@@ -385,15 +385,15 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:thetradedesk:4972481007",
+    "id": "gh:thetradedesk:5166572007",
     "company": "The Trade Desk",
-    "title": "Software Engineer II",
+    "title": "Senior Software Engineer",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5166572007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
+    "firstSeen": "2026-06-17T11:13:43.702Z"
   },
   {
     "id": "gh:thetradedesk:5159472007",
@@ -401,6 +401,17 @@
     "title": "Software Engineer II",
     "location": "Sydney",
     "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-10T04:52:13.396Z"
+  },
+  {
+    "id": "gh:thetradedesk:4972481007",
+    "company": "The Trade Desk",
+    "title": "Software Engineer II",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,

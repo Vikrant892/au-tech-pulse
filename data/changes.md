@@ -1,5 +1,11 @@
 # Change log
 
+## 2026-07-07T04:11:28.825Z
+
+- new: Atlassian Engineer at Easygo (Melbourne, Australia)
+- new: AI Deployment Strategist at Relevance AI (Sydney, Australia)
+- closed: Junior MLOps Engineer at Easygo
+
 ## 2026-07-06T10:56:41.885Z
 
 - new: DevOps Engineer at Brighte (Sydney, NSW)
