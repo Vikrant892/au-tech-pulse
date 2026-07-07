@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-07T09:57:42.044Z
+
+- closed: Website Developer at Deputy
+
 ## 2026-07-07T04:11:28.825Z
 
 - new: Atlassian Engineer at Easygo (Melbourne, Australia)

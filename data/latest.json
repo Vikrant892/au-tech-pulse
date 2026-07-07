@@ -110,17 +110,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "lever:deputy:c52fd923-09aa-4d88-9843-52a38e1a620b",
-    "company": "Deputy",
-    "title": "Website Developer",
-    "location": "Sydney",
-    "url": "https://jobs.lever.co/deputy/c52fd923-09aa-4d88-9843-52a38e1a620b",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
     "id": "gh:easygo:5153842007",
     "company": "Easygo",
     "title": "Atlassian Engineer",
