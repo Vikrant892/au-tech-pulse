@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-09T09:54:31.372Z
+
+- new: Software Engineer - Design Systems at Easygo (Melbourne, Australia)
+
 ## 2026-07-09T04:06:15.287Z
 
 - closed: Software Engineer 3: Backend - 12 Month Fixed Term Contract at Deputy

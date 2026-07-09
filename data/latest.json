@@ -66,6 +66,17 @@
     "firstSeen": "2026-06-26T04:25:02.884Z"
   },
   {
+    "id": "lever:deputy:5dcaffbc-79bd-4e4f-9494-c7d243d5ce06",
+    "company": "Deputy",
+    "title": "Design Systems Engineer",
+    "location": "Sydney",
+    "url": "https://jobs.lever.co/deputy/5dcaffbc-79bd-4e4f-9494-c7d243d5ce06",
+    "category": "Other Tech",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-07-06T10:56:41.885Z"
+  },
+  {
     "id": "lever:deputy:5b856e9e-63ac-4be5-ba84-5564ff93f7c5",
     "company": "Deputy",
     "title": "Lead Platform Security Engineer",
@@ -75,17 +86,6 @@
     "adelaide": false,
     "remote": true,
     "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
-    "id": "lever:deputy:5dcaffbc-79bd-4e4f-9494-c7d243d5ce06",
-    "company": "Deputy",
-    "title": "Senior Design Systems Engineer",
-    "location": "Sydney",
-    "url": "https://jobs.lever.co/deputy/5dcaffbc-79bd-4e4f-9494-c7d243d5ce06",
-    "category": "Other Tech",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-07-06T10:56:41.885Z"
   },
   {
     "id": "lever:deputy:5bb3ec32-8157-4115-8c34-b2e6ee04440c",
@@ -220,6 +220,17 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
+    "id": "gh:easygo:4585417007",
+    "company": "Easygo",
+    "title": "Software Engineer - Design Systems",
+    "location": "Melbourne, Australia",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/4585417007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-07-09T09:54:31.372Z"
+  },
+  {
     "id": "gh:easygo:5153906007",
     "company": "Easygo",
     "title": "Staff Frontend Software Engineer",
@@ -352,17 +363,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:thetradedesk:5087851007",
-    "company": "The Trade Desk",
-    "title": "Senior Software Engineer",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5087851007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
     "id": "gh:thetradedesk:5166572007",
     "company": "The Trade Desk",
     "title": "Senior Software Engineer",
@@ -374,11 +374,11 @@
     "firstSeen": "2026-06-17T11:13:43.702Z"
   },
   {
-    "id": "gh:thetradedesk:5159472007",
+    "id": "gh:thetradedesk:5087851007",
     "company": "The Trade Desk",
-    "title": "Software Engineer II",
+    "title": "Senior Software Engineer",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5087851007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
@@ -390,6 +390,17 @@
     "title": "Software Engineer II",
     "location": "Sydney",
     "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-10T04:52:13.396Z"
+  },
+  {
+    "id": "gh:thetradedesk:5159472007",
+    "company": "The Trade Desk",
+    "title": "Software Engineer II",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
