@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-09T04:06:15.287Z
+
+- closed: Software Engineer 3: Backend - 12 Month Fixed Term Contract at Deputy
+
 ## 2026-07-07T09:57:42.044Z
 
 - closed: Website Developer at Deputy
