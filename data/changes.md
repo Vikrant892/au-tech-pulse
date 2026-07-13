@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-13T14:54:36.245Z
+
+- closed: Senior Front-End Software Engineer, Sportsbook at Easygo
+
 ## 2026-07-13T03:48:52.461Z
 
 - closed: Senior Software Engineer - Device Experience at Easygo
