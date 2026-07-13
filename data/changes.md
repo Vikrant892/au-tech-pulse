@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-13T03:48:52.461Z
+
+- closed: Senior Software Engineer - Device Experience at Easygo
+
 ## 2026-07-09T09:54:31.372Z
 
 - new: Software Engineer - Design Systems at Easygo (Melbourne, Australia)

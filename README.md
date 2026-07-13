@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Mon, 13 July 2026, 07:30 am (Adelaide time) · run #60
+**Last updated:** Mon, 13 July 2026, 01:18 pm (Adelaide time) · run #60
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **38** |
+| Open tech roles tracked | **37** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **2** |
 | Companies hiring | **7** |
@@ -24,7 +24,7 @@ touching a keyboard.
 Data Engineering            1  #...........................
 Machine Learning & AI       4  #####.......................
 Cyber Security              2  ###.........................
-Software Engineering       22  ############################
+Software Engineering       21  ############################
 Cloud & DevOps              2  ###.........................
 Other Tech                  7  #########...................
 ```
@@ -34,15 +34,15 @@ Other Tech                  7  #########...................
 Open roles tracked across the last 60 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 19.9,112.0 31.9,112.0 43.8,112.0 55.7,112.0 67.7,112.0 79.6,112.0 91.5,112.0 103.5,112.0 115.4,112.0 127.3,112.0 139.3,112.0 151.2,112.0 163.1,112.0 175.1,112.0 187.0,112.0 198.9,112.0 210.8,112.0 222.8,112.0 234.7,42.7 246.6,42.7 258.6,42.7 270.5,42.7 282.4,8.0 294.4,42.7 306.3,42.7 318.2,42.7 330.2,42.7 342.1,42.7 354.0,42.7 366.0,42.7 377.9,42.7 389.8,42.7 401.8,42.7 413.7,42.7 425.6,77.3 437.6,42.7 449.5,42.7 461.4,42.7 473.4,42.7 485.3,42.7 497.2,42.7 509.2,42.7 521.1,42.7 533.0,42.7 544.9,42.7 556.9,42.7 568.8,42.7 580.7,42.7 592.7,42.7 604.6,42.7 616.5,42.7 628.5,42.7 640.4,42.7 652.3,42.7 664.3,42.7 676.2,42.7 688.1,42.7 700.1,42.7 712.0,42.7" />
-  <circle cx="712.0" cy="42.7" r="3.5" fill="#22d3ee" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 19.9,112.0 31.9,112.0 43.8,112.0 55.7,112.0 67.7,112.0 79.6,112.0 91.5,112.0 103.5,112.0 115.4,112.0 127.3,112.0 139.3,112.0 151.2,112.0 163.1,112.0 175.1,112.0 187.0,112.0 198.9,112.0 210.8,112.0 222.8,42.7 234.7,42.7 246.6,42.7 258.6,42.7 270.5,8.0 282.4,42.7 294.4,42.7 306.3,42.7 318.2,42.7 330.2,42.7 342.1,42.7 354.0,42.7 366.0,42.7 377.9,42.7 389.8,42.7 401.8,42.7 413.7,77.3 425.6,42.7 437.6,42.7 449.5,42.7 461.4,42.7 473.4,42.7 485.3,42.7 497.2,42.7 509.2,42.7 521.1,42.7 533.0,42.7 544.9,42.7 556.9,42.7 568.8,42.7 580.7,42.7 592.7,42.7 604.6,42.7 616.5,42.7 628.5,42.7 640.4,42.7 652.3,42.7 664.3,42.7 676.2,42.7 688.1,42.7 700.1,42.7 712.0,77.3" />
+  <circle cx="712.0" cy="77.3" r="3.5" fill="#22d3ee" />
 </svg>
 
 ## Companies hiring the most
 
 | # | Company | Open tech roles |
 | --- | --- | --- |
-| 1 | Easygo | 18 |
+| 1 | Easygo | 17 |
 | 2 | The Trade Desk | 7 |
 | 3 | Deputy | 4 |
 | 4 | Relevance AI | 4 |
@@ -67,8 +67,8 @@ Open roles tracked across the last 60 runs:
 | [Senior Software Engineer - (Full Stack) - Casino team](https://job-boards.greenhouse.io/easygo/jobs/5168017007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Frontend Engineer - KICK Creator Tools & Engagement](https://job-boards.greenhouse.io/easygo/jobs/5000593007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer](https://job-boards.greenhouse.io/thetradedesk/jobs/5166572007) | The Trade Desk | Sydney | Software Engineering |
-| [Senior Software Engineer - Device Experience](https://job-boards.greenhouse.io/easygo/jobs/5164497007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994439) | Culture Amp | Sydney | Machine Learning & AI |
+| [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994437) | Culture Amp | Melbourne | Machine Learning & AI |
 
 ## How it works
 
