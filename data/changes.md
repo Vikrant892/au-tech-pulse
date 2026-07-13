@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-13T19:41:31.293Z
+
+- closed: Senior Software Engineer at The Trade Desk
+
 ## 2026-07-13T14:54:36.245Z
 
 - closed: Senior Front-End Software Engineer, Sportsbook at Easygo
