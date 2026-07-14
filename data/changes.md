@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-14T03:21:58.860Z
+
+- closed: Business Systems Engineer at Deputy
+
 ## 2026-07-13T19:41:31.293Z
 
 - closed: Senior Software Engineer at The Trade Desk
