@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-07-15T08:30:10.370Z
+
+- new: Senior Frontend Engineer - KICK Discovery & Presence at Easygo (Melbourne, Australia)
+- new: Senior Software Engineer - Engagement at Easygo (Melbourne, Australia)
+
 ## 2026-07-15T03:22:17.372Z
 
 - closed: Senior Data Analyst - Kick (Modelling) at Easygo
