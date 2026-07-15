@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-07-15T03:22:17.372Z
+
+- closed: Senior Data Analyst - Kick (Modelling) at Easygo
+- closed: Senior Software Engineer - (Full Stack) - Casino team at Easygo
+
 ## 2026-07-14T03:21:58.860Z
 
 - closed: Business Systems Engineer at Deputy
