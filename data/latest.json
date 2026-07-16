@@ -55,26 +55,26 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "lever:deputy:5dcaffbc-79bd-4e4f-9494-c7d243d5ce06",
+    "id": "lever:deputy:ef5bcbd3-3b65-4c5e-8350-4af852113be9",
     "company": "Deputy",
-    "title": "Design Systems Engineer",
+    "title": "Lead DevOps Engineer",
     "location": "Sydney",
-    "url": "https://jobs.lever.co/deputy/5dcaffbc-79bd-4e4f-9494-c7d243d5ce06",
-    "category": "Other Tech",
+    "url": "https://jobs.lever.co/deputy/ef5bcbd3-3b65-4c5e-8350-4af852113be9",
+    "category": "Cloud & DevOps",
     "adelaide": false,
     "remote": false,
-    "firstSeen": "2026-07-06T10:56:41.885Z"
+    "firstSeen": "2026-07-16T08:27:55.281Z"
   },
   {
-    "id": "lever:deputy:5b856e9e-63ac-4be5-ba84-5564ff93f7c5",
+    "id": "lever:deputy:41506091-6b34-4bac-977c-c0ae7d342e1f",
     "company": "Deputy",
-    "title": "Lead Platform Security Engineer",
-    "location": "Australia",
-    "url": "https://jobs.lever.co/deputy/5b856e9e-63ac-4be5-ba84-5564ff93f7c5",
-    "category": "Cyber Security",
+    "title": "Senior Frontend Engineer, Design Systems",
+    "location": "Sydney",
+    "url": "https://jobs.lever.co/deputy/41506091-6b34-4bac-977c-c0ae7d342e1f",
+    "category": "Software Engineering",
     "adelaide": false,
-    "remote": true,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
+    "remote": false,
+    "firstSeen": "2026-07-16T08:27:55.281Z"
   },
   {
     "id": "lever:deputy:5bb3ec32-8157-4115-8c34-b2e6ee04440c",
@@ -341,22 +341,22 @@
     "firstSeen": "2026-06-17T11:13:43.702Z"
   },
   {
-    "id": "gh:thetradedesk:4972481007",
+    "id": "gh:thetradedesk:5159472007",
     "company": "The Trade Desk",
     "title": "Software Engineer II",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:thetradedesk:5159472007",
+    "id": "gh:thetradedesk:4972481007",
     "company": "The Trade Desk",
     "title": "Software Engineer II",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,

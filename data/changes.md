@@ -1,5 +1,12 @@
 # Change log
 
+## 2026-07-16T08:27:55.281Z
+
+- new: Lead DevOps Engineer at Deputy (Sydney)
+- new: Senior Frontend Engineer, Design Systems at Deputy (Sydney)
+- closed: Design Systems Engineer at Deputy
+- closed: Lead Platform Security Engineer at Deputy
+
 ## 2026-07-15T08:30:10.370Z
 
 - new: Senior Frontend Engineer - KICK Discovery & Presence at Easygo (Melbourne, Australia)
