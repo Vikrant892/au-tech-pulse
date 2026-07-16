@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-16T14:14:12.486Z
+
+- closed: Application Security Engineer at Bugcrowd
+
 ## 2026-07-16T08:27:55.281Z
 
 - new: Lead DevOps Engineer at Deputy (Sydney)
