@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-17T10:55:37.760Z
+
+- new: Sr Incident Response Engineer at The Trade Desk (Sydney)
+
 ## 2026-07-16T14:14:12.486Z
 
 - closed: Application Security Engineer at Bugcrowd
