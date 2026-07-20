@@ -99,17 +99,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:easygo:5000593007",
-    "company": "Easygo",
-    "title": "Senior Frontend Engineer - KICK Creator Tools & Engagement",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5000593007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-17T11:13:43.702Z"
-  },
-  {
     "id": "gh:easygo:5174811007",
     "company": "Easygo",
     "title": "Senior Frontend Engineer - KICK Discovery & Presence",
@@ -174,17 +163,6 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
-    "id": "gh:easygo:4585417007",
-    "company": "Easygo",
-    "title": "Software Engineer - Design Systems",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/4585417007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-07-09T09:54:31.372Z"
   },
   {
     "id": "gh:easygo:5153906007",
@@ -330,22 +308,22 @@
     "firstSeen": "2026-06-17T11:13:43.702Z"
   },
   {
-    "id": "gh:thetradedesk:4972481007",
+    "id": "gh:thetradedesk:5159472007",
     "company": "The Trade Desk",
     "title": "Software Engineer II",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:thetradedesk:5159472007",
+    "id": "gh:thetradedesk:4972481007",
     "company": "The Trade Desk",
     "title": "Software Engineer II",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,

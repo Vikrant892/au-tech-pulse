@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-07-20T09:30:55.411Z
+
+- closed: Senior Frontend Engineer - KICK Creator Tools & Engagement at Easygo
+- closed: Software Engineer - Design Systems at Easygo
+
 ## 2026-07-17T10:55:37.760Z
 
 - new: Sr Incident Response Engineer at The Trade Desk (Sydney)
