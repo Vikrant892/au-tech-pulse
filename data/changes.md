@@ -1,5 +1,11 @@
 # Change log
 
+## 2026-07-21T03:34:39.853Z
+
+- new: Senior Backend Engineer - Engine at Easygo (Melbourne, Australia)
+- new: Software Engineer, Mobile (Android) at Easygo (Melbourne)
+- new: Software Engineering Manager at Easygo (Melbourne)
+
 ## 2026-07-20T09:30:55.411Z
 
 - closed: Senior Frontend Engineer - KICK Creator Tools & Engagement at Easygo
