@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Tue, 21 July 2026, 11:44 pm (Adelaide time) · run #60
+**Last updated:** Wed, 22 July 2026, 02:07 am (Adelaide time) · run #60
 
 ## Right now
 
@@ -34,7 +34,7 @@ Other Tech                  6  ########....................
 Open roles tracked across the last 60 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,8.0 19.9,8.0 31.9,25.3 43.8,25.3 55.7,42.7 67.7,42.7 79.6,60.0 91.5,60.0 103.5,77.3 115.4,77.3 127.3,77.3 139.3,77.3 151.2,77.3 163.1,77.3 175.1,77.3 187.0,112.0 198.9,77.3 210.8,77.3 222.8,77.3 234.7,77.3 246.6,77.3 258.6,77.3 270.5,77.3 282.4,77.3 294.4,77.3 306.3,94.7 318.2,94.7 330.2,94.7 342.1,94.7 354.0,94.7 366.0,94.7 377.9,77.3 389.8,77.3 401.8,77.3 413.7,77.3 425.6,77.3 437.6,77.3 449.5,77.3 461.4,77.3 473.4,77.3 485.3,77.3 497.2,77.3 509.2,77.3 521.1,77.3 533.0,77.3 544.9,77.3 556.9,77.3 568.8,77.3 580.7,77.3 592.7,77.3 604.6,77.3 616.5,112.0 628.5,112.0 640.4,112.0 652.3,112.0 664.3,112.0 676.2,60.0 688.1,60.0 700.1,60.0 712.0,60.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,8.0 19.9,25.3 31.9,25.3 43.8,42.7 55.7,42.7 67.7,60.0 79.6,60.0 91.5,77.3 103.5,77.3 115.4,77.3 127.3,77.3 139.3,77.3 151.2,77.3 163.1,77.3 175.1,112.0 187.0,77.3 198.9,77.3 210.8,77.3 222.8,77.3 234.7,77.3 246.6,77.3 258.6,77.3 270.5,77.3 282.4,77.3 294.4,94.7 306.3,94.7 318.2,94.7 330.2,94.7 342.1,94.7 354.0,94.7 366.0,77.3 377.9,77.3 389.8,77.3 401.8,77.3 413.7,77.3 425.6,77.3 437.6,77.3 449.5,77.3 461.4,77.3 473.4,77.3 485.3,77.3 497.2,77.3 509.2,77.3 521.1,77.3 533.0,77.3 544.9,77.3 556.9,77.3 568.8,77.3 580.7,77.3 592.7,77.3 604.6,112.0 616.5,112.0 628.5,112.0 640.4,112.0 652.3,112.0 664.3,60.0 676.2,60.0 688.1,60.0 700.1,60.0 712.0,60.0" />
   <circle cx="712.0" cy="60.0" r="3.5" fill="#22d3ee" />
 </svg>
 
@@ -67,7 +67,7 @@ Open roles tracked across the last 60 runs:
 | [Senior Applied AI Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/7573350) | Culture Amp | Melbourne | Machine Learning & AI |
 | [Staff Software Engineer, Full-Stack (Sydney)](https://job-boards.greenhouse.io/easygo/jobs/5039619007) | Easygo | Sydney, Australia | Software Engineering |
 | [Senior Software Engineer](https://job-boards.greenhouse.io/thetradedesk/jobs/5166572007) | The Trade Desk | Sydney | Software Engineering |
-| [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994439) | Culture Amp | Sydney | Machine Learning & AI |
+| [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994437) | Culture Amp | Melbourne | Machine Learning & AI |
 
 ## How it works
 
