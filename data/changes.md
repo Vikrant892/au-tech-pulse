@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-22T11:15:32.646Z
+
+- closed: Staff Software Engineer, Full-Stack (Sydney) at Easygo
+
 ## 2026-07-21T03:34:39.853Z
 
 - new: Senior Backend Engineer - Engine at Easygo (Melbourne, Australia)
