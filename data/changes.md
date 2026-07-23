@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-23T08:42:23.275Z
+
+- new: Senior Software Quality Engineer at Easygo (Sydney)
+
 ## 2026-07-22T11:15:32.646Z
 
 - closed: Staff Software Engineer, Full-Stack (Sydney) at Easygo
