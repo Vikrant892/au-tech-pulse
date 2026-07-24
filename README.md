@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Fri, 24 July 2026, 06:08 pm (Adelaide time) · run #60
+**Last updated:** Fri, 24 July 2026, 08:38 pm (Adelaide time) · run #60
 
 ## Right now
 
@@ -34,7 +34,7 @@ Other Tech                  7  ##########..................
 Open roles tracked across the last 60 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,42.7 19.9,42.7 31.9,42.7 43.8,42.7 55.7,42.7 67.7,42.7 79.6,77.3 91.5,77.3 103.5,77.3 115.4,77.3 127.3,77.3 139.3,77.3 151.2,42.7 163.1,42.7 175.1,42.7 187.0,42.7 198.9,42.7 210.8,42.7 222.8,42.7 234.7,42.7 246.6,42.7 258.6,42.7 270.5,42.7 282.4,42.7 294.4,42.7 306.3,42.7 318.2,42.7 330.2,42.7 342.1,42.7 354.0,42.7 366.0,42.7 377.9,42.7 389.8,112.0 401.8,112.0 413.7,112.0 425.6,112.0 437.6,112.0 449.5,8.0 461.4,8.0 473.4,8.0 485.3,8.0 497.2,8.0 509.2,8.0 521.1,8.0 533.0,8.0 544.9,8.0 556.9,42.7 568.8,42.7 580.7,42.7 592.7,42.7 604.6,42.7 616.5,42.7 628.5,8.0 640.4,8.0 652.3,8.0 664.3,8.0 676.2,8.0 688.1,8.0 700.1,8.0 712.0,8.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,42.7 19.9,42.7 31.9,42.7 43.8,42.7 55.7,42.7 67.7,77.3 79.6,77.3 91.5,77.3 103.5,77.3 115.4,77.3 127.3,77.3 139.3,42.7 151.2,42.7 163.1,42.7 175.1,42.7 187.0,42.7 198.9,42.7 210.8,42.7 222.8,42.7 234.7,42.7 246.6,42.7 258.6,42.7 270.5,42.7 282.4,42.7 294.4,42.7 306.3,42.7 318.2,42.7 330.2,42.7 342.1,42.7 354.0,42.7 366.0,42.7 377.9,112.0 389.8,112.0 401.8,112.0 413.7,112.0 425.6,112.0 437.6,8.0 449.5,8.0 461.4,8.0 473.4,8.0 485.3,8.0 497.2,8.0 509.2,8.0 521.1,8.0 533.0,8.0 544.9,42.7 556.9,42.7 568.8,42.7 580.7,42.7 592.7,42.7 604.6,42.7 616.5,8.0 628.5,8.0 640.4,8.0 652.3,8.0 664.3,8.0 676.2,8.0 688.1,8.0 700.1,8.0 712.0,8.0" />
   <circle cx="712.0" cy="8.0" r="3.5" fill="#22d3ee" />
 </svg>
 
@@ -67,7 +67,7 @@ Open roles tracked across the last 60 runs:
 | [DevOps Engineer](https://jobs.lever.co/brighte/98f020ad-a2a2-4e97-8920-92136bb48e3e) | Brighte | Sydney, NSW | Cloud & DevOps |
 | [Senior Applied AI Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/7573350) | Culture Amp | Melbourne | Machine Learning & AI |
 | [Senior Software Engineer](https://job-boards.greenhouse.io/thetradedesk/jobs/5166572007) | The Trade Desk | Sydney | Software Engineering |
-| [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994439) | Culture Amp | Sydney | Machine Learning & AI |
+| [Staff Applied AI Scientist](https://job-boards.greenhouse.io/cultureamp/jobs/7994437) | Culture Amp | Melbourne | Machine Learning & AI |
 
 ## How it works
 
