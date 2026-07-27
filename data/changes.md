@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-27T03:55:48.170Z
+
+- closed: Senior Software Engineer - KICK Creator Tools & Engagement at Easygo
+
 ## 2026-07-23T08:42:23.275Z
 
 - new: Senior Software Quality Engineer at Easygo (Sydney)
