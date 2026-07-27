@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-07-27T10:05:20.929Z
+
+- closed: Senior Software Engineer (Payments & Billing) at Relevance AI
+
 ## 2026-07-27T03:55:48.170Z
 
 - closed: Senior Software Engineer - KICK Creator Tools & Engagement at Easygo
