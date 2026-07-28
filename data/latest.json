@@ -165,6 +165,17 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
+    "id": "gh:easygo:5156512007",
+    "company": "Easygo",
+    "title": "Senior Software Engineer, Full-Stack (Sydney)",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5156512007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-07-28T03:27:04.465Z"
+  },
+  {
     "id": "gh:easygo:4995138007",
     "company": "Easygo",
     "title": "Senior Software Quality Engineer",
@@ -203,17 +214,6 @@
     "title": "Staff Frontend Software Engineer",
     "location": "Melbourne, Australia",
     "url": "https://job-boards.greenhouse.io/easygo/jobs/5153906007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
-    "id": "gh:easygo:5103176007",
-    "company": "Easygo",
-    "title": "Staff Software Engineer - Casino Team",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5103176007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
@@ -319,22 +319,22 @@
     "firstSeen": "2026-06-17T11:13:43.702Z"
   },
   {
-    "id": "gh:thetradedesk:5159472007",
+    "id": "gh:thetradedesk:4972481007",
     "company": "The Trade Desk",
     "title": "Software Engineer II",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:thetradedesk:4972481007",
+    "id": "gh:thetradedesk:5159472007",
     "company": "The Trade Desk",
     "title": "Software Engineer II",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,

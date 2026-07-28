@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-07-28T03:27:04.465Z
+
+- new: Senior Software Engineer, Full-Stack (Sydney) at Easygo (Sydney, Australia)
+- closed: Staff Software Engineer - Casino Team at Easygo
+
 ## 2026-07-27T10:05:20.929Z
 
 - closed: Senior Software Engineer (Payments & Billing) at Relevance AI
