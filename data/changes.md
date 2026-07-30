@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-07-30T08:43:14.526Z
+
+- new: Technical Support Engineer - Tier 3 at Deputy (Sydney)
+- closed: Technical Support Engineer - Tier 3 at Deputy
+
 ## 2026-07-30T03:16:51.338Z
 
 - closed: Senior Software Engineer, Full-Stack (Sydney) at Easygo

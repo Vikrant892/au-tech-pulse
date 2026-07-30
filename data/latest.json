@@ -66,15 +66,15 @@
     "firstSeen": "2026-07-16T08:27:55.281Z"
   },
   {
-    "id": "lever:deputy:5bb3ec32-8157-4115-8c34-b2e6ee04440c",
+    "id": "lever:deputy:f22f8969-4a6d-44cc-95fb-a2f205264a10",
     "company": "Deputy",
     "title": "Technical Support Engineer - Tier 3",
     "location": "Sydney",
-    "url": "https://jobs.lever.co/deputy/5bb3ec32-8157-4115-8c34-b2e6ee04440c",
+    "url": "https://jobs.lever.co/deputy/f22f8969-4a6d-44cc-95fb-a2f205264a10",
     "category": "Other Tech",
     "adelaide": false,
     "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
+    "firstSeen": "2026-07-30T08:43:14.526Z"
   },
   {
     "id": "gh:easygo:5153842007",
@@ -297,22 +297,22 @@
     "firstSeen": "2026-06-17T11:13:43.702Z"
   },
   {
-    "id": "gh:thetradedesk:4972481007",
+    "id": "gh:thetradedesk:5159472007",
     "company": "The Trade Desk",
     "title": "Software Engineer II",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:thetradedesk:5159472007",
+    "id": "gh:thetradedesk:4972481007",
     "company": "The Trade Desk",
     "title": "Software Engineer II",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
