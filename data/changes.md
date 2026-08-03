@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-03T10:02:02.420Z
+
+- new: Senior Platform Engineer at Immutable (Sydney)
+
 ## 2026-08-03T03:45:51.690Z
 
 - new: Senior Data Analyst - Kick (Modelling) at Easygo (Melbourne, Australia)

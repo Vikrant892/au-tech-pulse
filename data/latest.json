@@ -22,22 +22,22 @@
     "firstSeen": "2026-06-30T04:20:11.473Z"
   },
   {
-    "id": "gh:cultureamp:7994437",
+    "id": "gh:cultureamp:7994439",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Melbourne",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:cultureamp:7994439",
+    "id": "gh:cultureamp:7994437",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
+    "location": "Melbourne",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
@@ -240,6 +240,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
+  },
+  {
+    "id": "lever:immutable:fcd9fcb4-e568-4a40-a67e-fd57442171de",
+    "company": "Immutable",
+    "title": "Senior Platform Engineer",
+    "location": "Sydney",
+    "url": "https://jobs.lever.co/immutable/fcd9fcb4-e568-4a40-a67e-fd57442171de",
+    "category": "Data Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-08-03T10:02:02.420Z"
   },
   {
     "id": "ashby:relevanceai:a104c172-046e-4e47-962c-de14f184b022",
