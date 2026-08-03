@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-03T03:45:51.690Z
+
+- new: Senior Data Analyst - Kick (Modelling) at Easygo (Melbourne, Australia)
+
 ## 2026-07-30T08:43:14.526Z
 
 - new: Technical Support Engineer - Tier 3 at Deputy (Sydney)
