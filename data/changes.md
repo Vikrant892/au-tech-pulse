@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-04T16:59:16.553Z
+
+- closed: 2026 Australia Software Engineering Internship at The Trade Desk
+
 ## 2026-08-04T08:50:39.008Z
 
 - new: Senior Frontend Engineer - KICK Video/Ads at Easygo (Melbourne, Australia)
