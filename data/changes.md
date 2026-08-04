@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-04T08:50:39.008Z
+
+- new: Senior Frontend Engineer - KICK Video/Ads at Easygo (Melbourne, Australia)
+
 ## 2026-08-03T10:02:02.420Z
 
 - new: Senior Platform Engineer at Immutable (Sydney)
