@@ -209,28 +209,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:easygo:5097647007",
-    "company": "Easygo",
-    "title": "Staff Software Engineer - Frontend Web Platform KICK",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5097647007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
-    "id": "gh:easygo:5153931007",
-    "company": "Easygo",
-    "title": "Staff Software Engineer - Payments (Crypto & Fiat)",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5153931007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
     "id": "gh:easygo:5103198007",
     "company": "Easygo",
     "title": "Staff Software Engineer, (Full-Stack) - Engagement team",
@@ -264,26 +242,37 @@
     "firstSeen": "2026-07-07T04:11:28.825Z"
   },
   {
-    "id": "ashby:relevanceai:a13f1860-17db-4026-9b17-7c77d6738c08",
+    "id": "ashby:relevanceai:4fca67c5-d41e-4bef-946d-9cc0a74aaf2c",
     "company": "Relevance AI",
-    "title": "Senior Software Engineer",
+    "title": "Engineering Manager, AI",
     "location": "Sydney, Australia",
-    "url": "https://jobs.ashbyhq.com/relevanceai/a13f1860-17db-4026-9b17-7c77d6738c08",
-    "category": "Software Engineering",
+    "url": "https://jobs.ashbyhq.com/relevanceai/4fca67c5-d41e-4bef-946d-9cc0a74aaf2c",
+    "category": "Other Tech",
     "adelaide": false,
     "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
+    "firstSeen": "2026-08-05T08:48:07.879Z"
   },
   {
-    "id": "ashby:relevanceai:d8e30b89-74b3-488c-b7c9-641870dbe956",
+    "id": "ashby:relevanceai:ddc1b147-ecfc-4389-a1aa-fbdfb11a2cb6",
     "company": "Relevance AI",
-    "title": "Staff Software Engineer",
+    "title": "Senior AI Product Engineer",
     "location": "Sydney, Australia",
-    "url": "https://jobs.ashbyhq.com/relevanceai/d8e30b89-74b3-488c-b7c9-641870dbe956",
-    "category": "Software Engineering",
+    "url": "https://jobs.ashbyhq.com/relevanceai/ddc1b147-ecfc-4389-a1aa-fbdfb11a2cb6",
+    "category": "Other Tech",
     "adelaide": false,
     "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
+    "firstSeen": "2026-08-05T08:48:07.879Z"
+  },
+  {
+    "id": "ashby:relevanceai:48ce82ea-0772-4e51-a979-eb56c32ca019",
+    "company": "Relevance AI",
+    "title": "Staff AI Product Engineer",
+    "location": "Sydney, Australia",
+    "url": "https://jobs.ashbyhq.com/relevanceai/48ce82ea-0772-4e51-a979-eb56c32ca019",
+    "category": "Other Tech",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-08-05T08:48:07.879Z"
   },
   {
     "id": "gh:thetradedesk:5000637007",

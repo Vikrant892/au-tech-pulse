@@ -1,5 +1,15 @@
 # Change log
 
+## 2026-08-05T08:48:07.879Z
+
+- new: Engineering Manager, AI at Relevance AI (Sydney, Australia)
+- new: Senior AI Product Engineer at Relevance AI (Sydney, Australia)
+- new: Staff AI Product Engineer at Relevance AI (Sydney, Australia)
+- closed: Staff Software Engineer - Frontend Web Platform KICK at Easygo
+- closed: Staff Software Engineer - Payments (Crypto & Fiat) at Easygo
+- closed: Senior Software Engineer at Relevance AI
+- closed: Staff Software Engineer at Relevance AI
+
 ## 2026-08-05T03:24:55.928Z
 
 - closed: Senior Frontend Engineer - KICK Discovery & Presence at Easygo
