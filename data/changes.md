@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-05T03:24:55.928Z
+
+- closed: Senior Frontend Engineer - KICK Discovery & Presence at Easygo
+
 ## 2026-08-04T16:59:16.553Z
 
 - closed: 2026 Australia Software Engineering Internship at The Trade Desk
