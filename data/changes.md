@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-06T03:28:04.796Z
+
+- closed: Atlassian Engineer at Easygo
+
 ## 2026-08-05T08:48:07.879Z
 
 - new: Engineering Manager, AI at Relevance AI (Sydney, Australia)
