@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-06T11:29:31.657Z
+
+- new: Staff AI Platform Engineer at Relevance AI (Sydney, Australia)
+
 ## 2026-08-06T03:28:04.796Z
 
 - closed: Atlassian Engineer at Easygo

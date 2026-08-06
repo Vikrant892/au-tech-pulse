@@ -253,6 +253,17 @@
     "firstSeen": "2026-08-05T08:48:07.879Z"
   },
   {
+    "id": "ashby:relevanceai:cfc7da1e-7e0a-488a-a39c-26536baeefba",
+    "company": "Relevance AI",
+    "title": "Staff AI Platform Engineer",
+    "location": "Sydney, Australia",
+    "url": "https://jobs.ashbyhq.com/relevanceai/cfc7da1e-7e0a-488a-a39c-26536baeefba",
+    "category": "Cloud & DevOps",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-08-06T11:29:31.657Z"
+  },
+  {
     "id": "ashby:relevanceai:48ce82ea-0772-4e51-a979-eb56c32ca019",
     "company": "Relevance AI",
     "title": "Staff AI Product Engineer",
@@ -286,22 +297,22 @@
     "firstSeen": "2026-06-17T11:13:43.702Z"
   },
   {
-    "id": "gh:thetradedesk:4972481007",
+    "id": "gh:thetradedesk:5159472007",
     "company": "The Trade Desk",
     "title": "Software Engineer II",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:thetradedesk:5159472007",
+    "id": "gh:thetradedesk:4972481007",
     "company": "The Trade Desk",
     "title": "Software Engineer II",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5159472007",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4972481007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
