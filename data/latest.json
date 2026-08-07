@@ -1,16 +1,5 @@
 [
   {
-    "id": "lever:brighte:98f020ad-a2a2-4e97-8920-92136bb48e3e",
-    "company": "Brighte",
-    "title": "DevOps Engineer",
-    "location": "Sydney, NSW",
-    "url": "https://jobs.lever.co/brighte/98f020ad-a2a2-4e97-8920-92136bb48e3e",
-    "category": "Cloud & DevOps",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-07-06T10:56:41.885Z"
-  },
-  {
     "id": "gh:cultureamp:7573350",
     "company": "Culture Amp",
     "title": "Senior Applied AI Engineer",
@@ -251,6 +240,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-08-05T08:48:07.879Z"
+  },
+  {
+    "id": "ashby:relevanceai:800c3d0b-865a-4169-b792-e3127b5a2c30",
+    "company": "Relevance AI",
+    "title": "Staff AI Application Security Engineer",
+    "location": "Sydney, Australia",
+    "url": "https://jobs.ashbyhq.com/relevanceai/800c3d0b-865a-4169-b792-e3127b5a2c30",
+    "category": "Cyber Security",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-08-07T04:59:59.691Z"
   },
   {
     "id": "ashby:relevanceai:cfc7da1e-7e0a-488a-a39c-26536baeefba",

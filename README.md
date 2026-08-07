@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Fri, 07 Aug 2026, 09:40 am (Adelaide time) · run #60
+**Last updated:** Fri, 07 Aug 2026, 02:29 pm (Adelaide time) · run #60
 
 ## Right now
 
@@ -16,16 +16,16 @@ touching a keyboard.
 | Open tech roles tracked | **31** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **0** |
-| Companies hiring | **7** |
+| Companies hiring | **6** |
 
 ## By field
 
 ```
 Data Engineering            2  #####.......................
 Machine Learning & AI       4  #########...................
-Cyber Security              1  ##..........................
+Cyber Security              2  #####.......................
 Software Engineering       12  ############################
-Cloud & DevOps              5  ############................
+Cloud & DevOps              4  #########...................
 Other Tech                  7  ################............
 ```
 
@@ -34,7 +34,7 @@ Other Tech                  7  ################............
 Open roles tracked across the last 60 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,60.0 19.9,60.0 31.9,60.0 43.8,60.0 55.7,60.0 67.7,60.0 79.6,60.0 91.5,60.0 103.5,60.0 115.4,86.0 127.3,86.0 139.3,86.0 151.2,86.0 163.1,86.0 175.1,86.0 187.0,86.0 198.9,86.0 210.8,86.0 222.8,86.0 234.7,86.0 246.6,86.0 258.6,86.0 270.5,86.0 282.4,86.0 294.4,86.0 306.3,86.0 318.2,86.0 330.2,86.0 342.1,86.0 354.0,86.0 366.0,86.0 377.9,86.0 389.8,86.0 401.8,86.0 413.7,86.0 425.6,86.0 437.6,60.0 449.5,34.0 461.4,34.0 473.4,34.0 485.3,34.0 497.2,34.0 509.2,8.0 521.1,8.0 533.0,8.0 544.9,34.0 556.9,34.0 568.8,34.0 580.7,60.0 592.7,86.0 604.6,86.0 616.5,86.0 628.5,86.0 640.4,86.0 652.3,86.0 664.3,112.0 676.2,112.0 688.1,86.0 700.1,86.0 712.0,86.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,60.0 19.9,60.0 31.9,60.0 43.8,60.0 55.7,60.0 67.7,60.0 79.6,60.0 91.5,60.0 103.5,86.0 115.4,86.0 127.3,86.0 139.3,86.0 151.2,86.0 163.1,86.0 175.1,86.0 187.0,86.0 198.9,86.0 210.8,86.0 222.8,86.0 234.7,86.0 246.6,86.0 258.6,86.0 270.5,86.0 282.4,86.0 294.4,86.0 306.3,86.0 318.2,86.0 330.2,86.0 342.1,86.0 354.0,86.0 366.0,86.0 377.9,86.0 389.8,86.0 401.8,86.0 413.7,86.0 425.6,60.0 437.6,34.0 449.5,34.0 461.4,34.0 473.4,34.0 485.3,34.0 497.2,8.0 509.2,8.0 521.1,8.0 533.0,34.0 544.9,34.0 556.9,34.0 568.8,60.0 580.7,86.0 592.7,86.0 604.6,86.0 616.5,86.0 628.5,86.0 640.4,86.0 652.3,112.0 664.3,112.0 676.2,86.0 688.1,86.0 700.1,86.0 712.0,86.0" />
   <circle cx="712.0" cy="86.0" r="3.5" fill="#22d3ee" />
 </svg>
 
@@ -43,17 +43,17 @@ Open roles tracked across the last 60 runs:
 | # | Company | Open tech roles |
 | --- | --- | --- |
 | 1 | Easygo | 12 |
-| 2 | The Trade Desk | 6 |
-| 3 | Relevance AI | 5 |
+| 2 | Relevance AI | 6 |
+| 3 | The Trade Desk | 6 |
 | 4 | Culture Amp | 3 |
 | 5 | Deputy | 3 |
-| 6 | Brighte | 1 |
-| 7 | Immutable | 1 |
+| 6 | Immutable | 1 |
 
 ## Newest roles
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [Staff AI Application Security Engineer](https://jobs.ashbyhq.com/relevanceai/800c3d0b-865a-4169-b792-e3127b5a2c30) | Relevance AI | Sydney, Australia | Cyber Security |
 | [Staff AI Platform Engineer](https://jobs.ashbyhq.com/relevanceai/cfc7da1e-7e0a-488a-a39c-26536baeefba) | Relevance AI | Sydney, Australia | Cloud & DevOps |
 | [Engineering Manager, AI](https://jobs.ashbyhq.com/relevanceai/4fca67c5-d41e-4bef-946d-9cc0a74aaf2c) | Relevance AI | Sydney, Australia | Other Tech |
 | [Senior AI Product Engineer](https://jobs.ashbyhq.com/relevanceai/ddc1b147-ecfc-4389-a1aa-fbdfb11a2cb6) | Relevance AI | Sydney, Australia | Other Tech |
@@ -68,7 +68,6 @@ Open roles tracked across the last 60 runs:
 | [Sr Incident Response Engineer](https://job-boards.greenhouse.io/thetradedesk/jobs/5189449007) | The Trade Desk | Sydney | Cyber Security |
 | [Lead DevOps Engineer](https://jobs.lever.co/deputy/ef5bcbd3-3b65-4c5e-8350-4af852113be9) | Deputy | Sydney | Cloud & DevOps |
 | [Senior Frontend Engineer, Design Systems](https://jobs.lever.co/deputy/41506091-6b34-4bac-977c-c0ae7d342e1f) | Deputy | Sydney | Software Engineering |
-| [Senior Software Engineer - Engagement](https://job-boards.greenhouse.io/easygo/jobs/5123541007) | Easygo | Melbourne, Australia | Software Engineering |
 
 ## How it works
 

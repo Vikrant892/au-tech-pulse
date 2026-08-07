@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-08-07T04:59:59.691Z
+
+- new: Staff AI Application Security Engineer at Relevance AI (Sydney, Australia)
+- closed: DevOps Engineer at Brighte
+
 ## 2026-08-06T11:29:31.657Z
 
 - new: Staff AI Platform Engineer at Relevance AI (Sydney, Australia)
