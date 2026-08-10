@@ -128,6 +128,56 @@ data files:
 No API keys, no scraping of private pages, no personal data. Everything is
 sourced from feeds the companies publish for their own careers pages.
 
+## Pipeline
+
+\`\`\`mermaid
+flowchart LR
+    A[Cron: every 3 hours] --> B[Typecheck + tests]
+    B -->|gate| C[Fetch job feeds]
+    C --> C1[Greenhouse]
+    C --> C2[Lever]
+    C --> C3[Ashby]
+    C1 --> D[Normalise to common schema]
+    C2 --> D
+    C3 --> D
+    D --> E[Filter: Australia or remote-AU]
+    E --> F[Categorise by field]
+    F --> G[Diff against previous snapshot]
+    G --> H[(timeseries.csv)]
+    G --> I[(latest.json)]
+    G --> J[(changes.md)]
+    H --> K[Render README]
+    I --> K
+    K --> L[Commit back to repo]
+\`\`\`
+
+Design notes, for anyone reading this as an engineering sample:
+
+- **Every run is gated by CI.** \`npm run typecheck\` and \`npm test\` both have to
+  pass before any collection happens, so a broken parser can never write a bad
+  measurement into the history.
+- **Runs are serialised.** A concurrency group prevents two scheduled runs from
+  overlapping and double-committing the same window.
+- **The history is append-only.** Each run adds one row to the time series rather
+  than rewriting it, so the trend line is a real record and not a recomputation.
+- **The README is generated, not hand-edited.** This file is rendered from
+  \`src/dashboard.ts\` on every run, which is why the numbers above are never stale.
+- **Failure is visible.** A ten-minute timeout and a scoped write permission mean
+  a hung or misbehaving run fails loudly instead of silently skipping.
+
+Built with TypeScript on Node 20, no runtime dependencies beyond the standard
+toolchain, and no database: the repository itself is the datastore.
+
+## Run it yourself
+
+\`\`\`bash
+git clone https://github.com/Vikrant892/au-tech-pulse.git
+cd au-tech-pulse
+npm ci
+npm run typecheck && npm test
+npm run pulse          # writes data/ and regenerates this README
+\`\`\`
+
 ## Why this exists
 
 Job boards show you a slice of a single day. A time series shows you where the
