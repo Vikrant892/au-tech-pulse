@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-10T02:27:05.772Z
+
+- closed: Software Engineer, Mobile (Android) at Easygo
+
 ## 2026-08-07T04:59:59.691Z
 
 - new: Staff AI Application Security Engineer at Relevance AI (Sydney, Australia)
