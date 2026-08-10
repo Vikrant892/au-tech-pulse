@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Mon, 10 Aug 2026, 07:55 pm (Adelaide time) · run #60
+**Last updated:** Mon, 10 Aug 2026, 11:05 pm (Adelaide time) · run #60
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **30** |
+| Open tech roles tracked | **29** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **0** |
 | Companies hiring | **6** |
@@ -21,12 +21,12 @@ touching a keyboard.
 ## By field
 
 ```
-Data Engineering            2  #####.......................
-Machine Learning & AI       4  ##########..................
-Cyber Security              2  #####.......................
-Software Engineering       11  ############################
-Cloud & DevOps              4  ##########..................
-Other Tech                  7  ##################..........
+Data Engineering            2  ######......................
+Machine Learning & AI       4  ###########.................
+Cyber Security              2  ######......................
+Software Engineering       10  ############################
+Cloud & DevOps              4  ###########.................
+Other Tech                  7  ####################........
 ```
 
 ## Trend
@@ -34,7 +34,7 @@ Other Tech                  7  ##################..........
 Open roles tracked across the last 60 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,86.0 19.9,86.0 31.9,86.0 43.8,86.0 55.7,86.0 67.7,86.0 79.6,86.0 91.5,86.0 103.5,60.0 115.4,34.0 127.3,34.0 139.3,34.0 151.2,34.0 163.1,34.0 175.1,8.0 187.0,8.0 198.9,8.0 210.8,34.0 222.8,34.0 234.7,34.0 246.6,60.0 258.6,86.0 270.5,86.0 282.4,86.0 294.4,86.0 306.3,86.0 318.2,86.0 330.2,112.0 342.1,112.0 354.0,86.0 366.0,86.0 377.9,86.0 389.8,86.0 401.8,86.0 413.7,86.0 425.6,86.0 437.6,86.0 449.5,86.0 461.4,86.0 473.4,86.0 485.3,86.0 497.2,86.0 509.2,86.0 521.1,86.0 533.0,86.0 544.9,86.0 556.9,86.0 568.8,86.0 580.7,86.0 592.7,86.0 604.6,86.0 616.5,86.0 628.5,86.0 640.4,86.0 652.3,86.0 664.3,112.0 676.2,112.0 688.1,112.0 700.1,112.0 712.0,112.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,70.4 19.9,70.4 31.9,70.4 43.8,70.4 55.7,70.4 67.7,70.4 79.6,70.4 91.5,49.6 103.5,28.8 115.4,28.8 127.3,28.8 139.3,28.8 151.2,28.8 163.1,8.0 175.1,8.0 187.0,8.0 198.9,28.8 210.8,28.8 222.8,28.8 234.7,49.6 246.6,70.4 258.6,70.4 270.5,70.4 282.4,70.4 294.4,70.4 306.3,70.4 318.2,91.2 330.2,91.2 342.1,70.4 354.0,70.4 366.0,70.4 377.9,70.4 389.8,70.4 401.8,70.4 413.7,70.4 425.6,70.4 437.6,70.4 449.5,70.4 461.4,70.4 473.4,70.4 485.3,70.4 497.2,70.4 509.2,70.4 521.1,70.4 533.0,70.4 544.9,70.4 556.9,70.4 568.8,70.4 580.7,70.4 592.7,70.4 604.6,70.4 616.5,70.4 628.5,70.4 640.4,70.4 652.3,91.2 664.3,91.2 676.2,91.2 688.1,91.2 700.1,91.2 712.0,112.0" />
   <circle cx="712.0" cy="112.0" r="3.5" fill="#22d3ee" />
 </svg>
 
@@ -44,7 +44,7 @@ Open roles tracked across the last 60 runs:
 | --- | --- | --- |
 | 1 | Easygo | 11 |
 | 2 | Relevance AI | 6 |
-| 3 | The Trade Desk | 6 |
+| 3 | The Trade Desk | 5 |
 | 4 | Culture Amp | 3 |
 | 5 | Deputy | 3 |
 | 6 | Immutable | 1 |

@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-10T13:35:34.642Z
+
+- closed: Software Engineer II at The Trade Desk
+
 ## 2026-08-10T02:27:05.772Z
 
 - closed: Software Engineer, Mobile (Android) at Easygo
