@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Tue, 11 Aug 2026, 11:50 am (Adelaide time) · run #60
+**Last updated:** Tue, 11 Aug 2026, 02:04 pm (Adelaide time) · run #60
 
 ## Right now
 
@@ -34,7 +34,7 @@ Other Tech                  7  ####################........
 Open roles tracked across the last 60 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,70.4 19.9,70.4 31.9,70.4 43.8,49.6 55.7,28.8 67.7,28.8 79.6,28.8 91.5,28.8 103.5,28.8 115.4,8.0 127.3,8.0 139.3,8.0 151.2,28.8 163.1,28.8 175.1,28.8 187.0,49.6 198.9,70.4 210.8,70.4 222.8,70.4 234.7,70.4 246.6,70.4 258.6,70.4 270.5,91.2 282.4,91.2 294.4,70.4 306.3,70.4 318.2,70.4 330.2,70.4 342.1,70.4 354.0,70.4 366.0,70.4 377.9,70.4 389.8,70.4 401.8,70.4 413.7,70.4 425.6,70.4 437.6,70.4 449.5,70.4 461.4,70.4 473.4,70.4 485.3,70.4 497.2,70.4 509.2,70.4 521.1,70.4 533.0,70.4 544.9,70.4 556.9,70.4 568.8,70.4 580.7,70.4 592.7,70.4 604.6,91.2 616.5,91.2 628.5,91.2 640.4,91.2 652.3,91.2 664.3,112.0 676.2,112.0 688.1,112.0 700.1,112.0 712.0,112.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,70.4 19.9,70.4 31.9,49.6 43.8,28.8 55.7,28.8 67.7,28.8 79.6,28.8 91.5,28.8 103.5,8.0 115.4,8.0 127.3,8.0 139.3,28.8 151.2,28.8 163.1,28.8 175.1,49.6 187.0,70.4 198.9,70.4 210.8,70.4 222.8,70.4 234.7,70.4 246.6,70.4 258.6,91.2 270.5,91.2 282.4,70.4 294.4,70.4 306.3,70.4 318.2,70.4 330.2,70.4 342.1,70.4 354.0,70.4 366.0,70.4 377.9,70.4 389.8,70.4 401.8,70.4 413.7,70.4 425.6,70.4 437.6,70.4 449.5,70.4 461.4,70.4 473.4,70.4 485.3,70.4 497.2,70.4 509.2,70.4 521.1,70.4 533.0,70.4 544.9,70.4 556.9,70.4 568.8,70.4 580.7,70.4 592.7,91.2 604.6,91.2 616.5,91.2 628.5,91.2 640.4,91.2 652.3,112.0 664.3,112.0 676.2,112.0 688.1,112.0 700.1,112.0 712.0,112.0" />
   <circle cx="712.0" cy="112.0" r="3.5" fill="#22d3ee" />
 </svg>
 
@@ -42,17 +42,18 @@ Open roles tracked across the last 60 runs:
 
 | # | Company | Open tech roles |
 | --- | --- | --- |
-| 1 | Easygo | 11 |
+| 1 | Easygo | 12 |
 | 2 | Relevance AI | 6 |
 | 3 | The Trade Desk | 5 |
 | 4 | Culture Amp | 3 |
-| 5 | Deputy | 3 |
+| 5 | Deputy | 2 |
 | 6 | Immutable | 1 |
 
 ## Newest roles
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [Backend Engineer - Engine](https://job-boards.greenhouse.io/easygo/jobs/5208919007) | Easygo | Melbourne, Victoria, Australia | Cloud & DevOps |
 | [Staff AI Application Security Engineer](https://jobs.ashbyhq.com/relevanceai/800c3d0b-865a-4169-b792-e3127b5a2c30) | Relevance AI | Sydney, Australia | Cyber Security |
 | [Staff AI Platform Engineer](https://jobs.ashbyhq.com/relevanceai/cfc7da1e-7e0a-488a-a39c-26536baeefba) | Relevance AI | Sydney, Australia | Cloud & DevOps |
 | [Engineering Manager, AI](https://jobs.ashbyhq.com/relevanceai/4fca67c5-d41e-4bef-946d-9cc0a74aaf2c) | Relevance AI | Sydney, Australia | Other Tech |
@@ -65,7 +66,6 @@ Open roles tracked across the last 60 runs:
 | [Senior Backend Engineer - Engine](https://job-boards.greenhouse.io/easygo/jobs/5191644007) | Easygo | Melbourne, Australia | Cloud & DevOps |
 | [Software Engineering Manager](https://job-boards.greenhouse.io/easygo/jobs/5152558007) | Easygo | Melbourne | Other Tech |
 | [Sr Incident Response Engineer](https://job-boards.greenhouse.io/thetradedesk/jobs/5189449007) | The Trade Desk | Sydney | Cyber Security |
-| [Lead DevOps Engineer](https://jobs.lever.co/deputy/ef5bcbd3-3b65-4c5e-8350-4af852113be9) | Deputy | Sydney | Cloud & DevOps |
 | [Senior Frontend Engineer, Design Systems](https://jobs.lever.co/deputy/41506091-6b34-4bac-977c-c0ae7d342e1f) | Deputy | Sydney | Software Engineering |
 | [Senior Software Engineer - Engagement](https://job-boards.greenhouse.io/easygo/jobs/5123541007) | Easygo | Melbourne, Australia | Software Engineering |
 

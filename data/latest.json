@@ -33,17 +33,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "lever:deputy:ef5bcbd3-3b65-4c5e-8350-4af852113be9",
-    "company": "Deputy",
-    "title": "Lead DevOps Engineer",
-    "location": "Sydney",
-    "url": "https://jobs.lever.co/deputy/ef5bcbd3-3b65-4c5e-8350-4af852113be9",
-    "category": "Cloud & DevOps",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-07-16T08:27:55.281Z"
-  },
-  {
     "id": "lever:deputy:41506091-6b34-4bac-977c-c0ae7d342e1f",
     "company": "Deputy",
     "title": "Senior Frontend Engineer, Design Systems",
@@ -64,6 +53,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-07-30T08:43:14.526Z"
+  },
+  {
+    "id": "gh:easygo:5208919007",
+    "company": "Easygo",
+    "title": "Backend Engineer - Engine",
+    "location": "Melbourne, Victoria, Australia",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5208919007",
+    "category": "Cloud & DevOps",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-08-11T04:34:40.277Z"
   },
   {
     "id": "gh:easygo:5191644007",

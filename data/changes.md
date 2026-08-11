@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-08-11T04:34:40.277Z
+
+- new: Backend Engineer - Engine at Easygo (Melbourne, Victoria, Australia)
+- closed: Lead DevOps Engineer at Deputy
+
 ## 2026-08-10T13:35:34.642Z
 
 - closed: Software Engineer II at The Trade Desk
