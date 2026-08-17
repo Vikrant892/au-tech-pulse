@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-17T07:10:47.307Z
+
+- new: Senior Frontend Engineer - KICK Creator Tools & Engagement at Easygo (Melbourne, Australia)
+
 ## 2026-08-11T04:34:40.277Z
 
 - new: Backend Engineer - Engine at Easygo (Melbourne, Victoria, Australia)
