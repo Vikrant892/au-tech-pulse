@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-18T06:57:53.046Z
+
+- new: Senior Data Engineer at Octopus Deploy (Australia/New Zealand)
+
 ## 2026-08-17T07:10:47.307Z
 
 - new: Senior Frontend Engineer - KICK Creator Tools & Engagement at Easygo (Melbourne, Australia)
