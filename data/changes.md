@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-19T06:58:49.695Z
+
+- new: Staff Platform Engineer at Culture Amp (Melbourne)
+
 ## 2026-08-18T06:57:53.046Z
 
 - new: Senior Data Engineer at Octopus Deploy (Australia/New Zealand)
