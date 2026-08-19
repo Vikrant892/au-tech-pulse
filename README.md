@@ -7,26 +7,26 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Wed, 19 Aug 2026, 07:12 pm (Adelaide time) · run #60
+**Last updated:** Wed, 19 Aug 2026, 10:32 pm (Adelaide time) · run #60
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **32** |
+| Open tech roles tracked | **33** |
 | Located in Adelaide or South Australia | **0** |
-| Open to remote within Australia | **1** |
+| Open to remote within Australia | **2** |
 | Companies hiring | **7** |
 
 ## By field
 
 ```
-Data Engineering            3  ########....................
-Machine Learning & AI       4  ##########..................
+Data Engineering            3  #######.....................
+Machine Learning & AI       4  #########...................
 Cyber Security              2  #####.......................
-Software Engineering       11  ############################
-Cloud & DevOps              5  #############...............
-Other Tech                  7  ##################..........
+Software Engineering       12  ############################
+Cloud & DevOps              5  ############................
+Other Tech                  7  ################............
 ```
 
 ## Trend
@@ -34,7 +34,7 @@ Other Tech                  7  ##################..........
 Open roles tracked across the last 60 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 19.9,112.0 31.9,112.0 43.8,112.0 55.7,112.0 67.7,112.0 79.6,112.0 91.5,112.0 103.5,112.0 115.4,112.0 127.3,112.0 139.3,112.0 151.2,112.0 163.1,112.0 175.1,112.0 187.0,112.0 198.9,112.0 210.8,112.0 222.8,112.0 234.7,112.0 246.6,112.0 258.6,112.0 270.5,112.0 282.4,112.0 294.4,112.0 306.3,112.0 318.2,112.0 330.2,112.0 342.1,112.0 354.0,112.0 366.0,112.0 377.9,112.0 389.8,112.0 401.8,112.0 413.7,112.0 425.6,112.0 437.6,112.0 449.5,112.0 461.4,112.0 473.4,112.0 485.3,112.0 497.2,112.0 509.2,77.3 521.1,77.3 533.0,77.3 544.9,77.3 556.9,77.3 568.8,77.3 580.7,77.3 592.7,77.3 604.6,42.7 616.5,42.7 628.5,42.7 640.4,42.7 652.3,42.7 664.3,42.7 676.2,42.7 688.1,42.7 700.1,8.0 712.0,8.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 19.9,112.0 31.9,112.0 43.8,112.0 55.7,112.0 67.7,112.0 79.6,112.0 91.5,112.0 103.5,112.0 115.4,112.0 127.3,112.0 139.3,112.0 151.2,112.0 163.1,112.0 175.1,112.0 187.0,112.0 198.9,112.0 210.8,112.0 222.8,112.0 234.7,112.0 246.6,112.0 258.6,112.0 270.5,112.0 282.4,112.0 294.4,112.0 306.3,112.0 318.2,112.0 330.2,112.0 342.1,112.0 354.0,112.0 366.0,112.0 377.9,112.0 389.8,112.0 401.8,112.0 413.7,112.0 425.6,112.0 437.6,112.0 449.5,112.0 461.4,112.0 473.4,112.0 485.3,112.0 497.2,86.0 509.2,86.0 521.1,86.0 533.0,86.0 544.9,86.0 556.9,86.0 568.8,86.0 580.7,86.0 592.7,60.0 604.6,60.0 616.5,60.0 628.5,60.0 640.4,60.0 652.3,60.0 664.3,60.0 676.2,60.0 688.1,34.0 700.1,34.0 712.0,8.0" />
   <circle cx="712.0" cy="8.0" r="3.5" fill="#22d3ee" />
 </svg>
 
@@ -44,7 +44,7 @@ Open roles tracked across the last 60 runs:
 | --- | --- | --- |
 | 1 | Easygo | 13 |
 | 2 | Relevance AI | 6 |
-| 3 | The Trade Desk | 5 |
+| 3 | The Trade Desk | 6 |
 | 4 | Culture Amp | 4 |
 | 5 | Deputy | 2 |
 | 6 | Immutable | 1 |
@@ -54,6 +54,7 @@ Open roles tracked across the last 60 runs:
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [Senior Software Engineer (Data & Distributed Systems)](https://job-boards.greenhouse.io/thetradedesk/jobs/5215959007) | The Trade Desk | Sydney | Software Engineering |
 | [Staff Platform Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8104820) | Culture Amp | Melbourne | Cloud & DevOps |
 | [Senior Data Engineer](https://job-boards.anz.greenhouse.io/octopusdeploy/jobs/4005762201) | Octopus Deploy | Australia/New Zealand | Data Engineering |
 | [Senior Frontend Engineer - KICK Creator Tools & Engagement](https://job-boards.greenhouse.io/easygo/jobs/5000593007) | Easygo | Melbourne, Australia | Software Engineering |
@@ -68,7 +69,6 @@ Open roles tracked across the last 60 runs:
 | [Senior Data Analyst - Kick (Modelling)](https://job-boards.greenhouse.io/easygo/jobs/5097649007) | Easygo | Melbourne, Australia | Data Engineering |
 | [Technical Support Engineer - Tier 3](https://jobs.lever.co/deputy/f22f8969-4a6d-44cc-95fb-a2f205264a10) | Deputy | Sydney | Other Tech |
 | [Senior Backend Engineer - Engine](https://job-boards.greenhouse.io/easygo/jobs/5191644007) | Easygo | Melbourne, Australia | Cloud & DevOps |
-| [Software Engineering Manager](https://job-boards.greenhouse.io/easygo/jobs/5152558007) | Easygo | Melbourne | Other Tech |
 
 ## How it works
 

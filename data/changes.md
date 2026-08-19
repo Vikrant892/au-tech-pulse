@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-19T13:02:24.676Z
+
+- new: Senior Software Engineer (Data & Distributed Systems) at The Trade Desk (Sydney)
+
 ## 2026-08-19T06:58:49.695Z
 
 - new: Staff Platform Engineer at Culture Amp (Melbourne)
