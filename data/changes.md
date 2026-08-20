@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-20T06:59:21.619Z
+
+- new: Lead Software Engineer, AI Scheduling at Deputy (Sydney)
+
 ## 2026-08-20T01:44:59.596Z
 
 - closed: Senior Data Analyst - Kick (Modelling) at Easygo
