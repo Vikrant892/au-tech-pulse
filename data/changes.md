@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-20T09:43:25.469Z
+
+- new: Senior Software Engineer (Front end) - Payments (Crypto & Fiat) at Easygo (Melbourne, Australia)
+
 ## 2026-08-20T06:59:21.619Z
 
 - new: Lead Software Engineer, AI Scheduling at Deputy (Sydney)
