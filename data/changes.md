@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-21T01:51:00.414Z
+
+- new: Salesforce Developer at Culture Amp (Melbourne)
+
 ## 2026-08-20T09:43:25.469Z
 
 - new: Senior Software Engineer (Front end) - Payments (Crypto & Fiat) at Easygo (Melbourne, Australia)
