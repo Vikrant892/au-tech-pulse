@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-23T12:56:07.769Z
+
+- closed: Senior Software Engineer at The Trade Desk
+
 ## 2026-08-21T01:51:00.414Z
 
 - new: Salesforce Developer at Culture Amp (Melbourne)

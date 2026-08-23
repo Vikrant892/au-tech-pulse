@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Sun, 23 Aug 2026, 07:06 pm (Adelaide time) · run #60
+**Last updated:** Sun, 23 Aug 2026, 10:26 pm (Adelaide time) · run #60
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **35** |
+| Open tech roles tracked | **34** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **2** |
 | Companies hiring | **7** |
@@ -22,11 +22,11 @@ touching a keyboard.
 
 ```
 Data Engineering            2  ####........................
-Machine Learning & AI       4  #######.....................
+Machine Learning & AI       4  ########....................
 Cyber Security              2  ####........................
-Software Engineering       15  ############################
-Cloud & DevOps              5  #########...................
-Other Tech                  7  #############...............
+Software Engineering       14  ############################
+Cloud & DevOps              5  ##########..................
+Other Tech                  7  ##############..............
 ```
 
 ## Trend
@@ -34,8 +34,8 @@ Other Tech                  7  #############...............
 Open roles tracked across the last 60 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 19.9,112.0 31.9,112.0 43.8,112.0 55.7,112.0 67.7,112.0 79.6,112.0 91.5,112.0 103.5,112.0 115.4,112.0 127.3,94.7 139.3,94.7 151.2,94.7 163.1,94.7 175.1,94.7 187.0,94.7 198.9,94.7 210.8,94.7 222.8,77.3 234.7,77.3 246.6,77.3 258.6,77.3 270.5,77.3 282.4,77.3 294.4,77.3 306.3,77.3 318.2,60.0 330.2,60.0 342.1,42.7 354.0,42.7 366.0,42.7 377.9,42.7 389.8,60.0 401.8,60.0 413.7,42.7 425.6,25.3 437.6,25.3 449.5,25.3 461.4,25.3 473.4,25.3 485.3,8.0 497.2,8.0 509.2,8.0 521.1,8.0 533.0,8.0 544.9,8.0 556.9,8.0 568.8,8.0 580.7,8.0 592.7,8.0 604.6,8.0 616.5,8.0 628.5,8.0 640.4,8.0 652.3,8.0 664.3,8.0 676.2,8.0 688.1,8.0 700.1,8.0 712.0,8.0" />
-  <circle cx="712.0" cy="8.0" r="3.5" fill="#22d3ee" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 19.9,112.0 31.9,112.0 43.8,112.0 55.7,112.0 67.7,112.0 79.6,112.0 91.5,112.0 103.5,112.0 115.4,94.7 127.3,94.7 139.3,94.7 151.2,94.7 163.1,94.7 175.1,94.7 187.0,94.7 198.9,94.7 210.8,77.3 222.8,77.3 234.7,77.3 246.6,77.3 258.6,77.3 270.5,77.3 282.4,77.3 294.4,77.3 306.3,60.0 318.2,60.0 330.2,42.7 342.1,42.7 354.0,42.7 366.0,42.7 377.9,60.0 389.8,60.0 401.8,42.7 413.7,25.3 425.6,25.3 437.6,25.3 449.5,25.3 461.4,25.3 473.4,8.0 485.3,8.0 497.2,8.0 509.2,8.0 521.1,8.0 533.0,8.0 544.9,8.0 556.9,8.0 568.8,8.0 580.7,8.0 592.7,8.0 604.6,8.0 616.5,8.0 628.5,8.0 640.4,8.0 652.3,8.0 664.3,8.0 676.2,8.0 688.1,8.0 700.1,8.0 712.0,25.3" />
+  <circle cx="712.0" cy="25.3" r="3.5" fill="#22d3ee" />
 </svg>
 
 ## Companies hiring the most
@@ -44,8 +44,8 @@ Open roles tracked across the last 60 runs:
 | --- | --- | --- |
 | 1 | Easygo | 13 |
 | 2 | Relevance AI | 6 |
-| 3 | The Trade Desk | 6 |
-| 4 | Culture Amp | 5 |
+| 3 | Culture Amp | 5 |
+| 4 | The Trade Desk | 5 |
 | 5 | Deputy | 3 |
 | 6 | Immutable | 1 |
 | 7 | Octopus Deploy | 1 |
