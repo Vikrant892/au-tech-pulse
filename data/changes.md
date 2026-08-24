@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-08-24T01:51:22.818Z
+
+- new: Identity & Access Management Engineer at Culture Amp (Melbourne)
+- closed: Engineering Manager, AI at Relevance AI
+
 ## 2026-08-23T12:56:07.769Z
 
 - closed: Senior Software Engineer at The Trade Desk
