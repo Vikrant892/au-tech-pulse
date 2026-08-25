@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-25T09:45:25.054Z
+
+- new: Senior Full Stack Engineer at Brighte (Sydney, NSW)
+
 ## 2026-08-25T03:54:36.305Z
 
 - new: Senior Software Engineer - Onboarding at Easygo (Melbourne, Australia)

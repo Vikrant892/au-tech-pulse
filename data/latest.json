@@ -1,5 +1,16 @@
 [
   {
+    "id": "lever:brighte:181a4529-b6a4-4290-8e92-f1e3f7f2306e",
+    "company": "Brighte",
+    "title": "Senior Full Stack Engineer",
+    "location": "Sydney, NSW",
+    "url": "https://jobs.lever.co/brighte/181a4529-b6a4-4290-8e92-f1e3f7f2306e",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-08-25T09:45:25.054Z"
+  },
+  {
     "id": "gh:cultureamp:8152197",
     "company": "Culture Amp",
     "title": "Identity & Access Management Engineer",
@@ -187,17 +198,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:easygo:4991302007",
-    "company": "Easygo",
-    "title": "Senior Software Engineer - Onboarding",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/4991302007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
     "id": "gh:easygo:5186155007",
     "company": "Easygo",
     "title": "Senior Software Engineer - Onboarding",
@@ -207,6 +207,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-08-25T03:54:36.305Z"
+  },
+  {
+    "id": "gh:easygo:4991302007",
+    "company": "Easygo",
+    "title": "Senior Software Engineer - Onboarding",
+    "location": "Melbourne, Australia",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/4991302007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
     "id": "gh:easygo:5215742007",
