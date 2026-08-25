@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-25T03:54:36.305Z
+
+- new: Senior Software Engineer - Onboarding at Easygo (Melbourne, Australia)
+
 ## 2026-08-24T01:51:22.818Z
 
 - new: Identity & Access Management Engineer at Culture Amp (Melbourne)
