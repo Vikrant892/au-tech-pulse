@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Tue, 25 Aug 2026, 01:24 pm (Adelaide time) · run #60
+**Last updated:** Tue, 25 Aug 2026, 04:31 pm (Adelaide time) · run #60
 
 ## Right now
 
@@ -34,7 +34,7 @@ Other Tech                  7  #############...............
 Open roles tracked across the last 60 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 19.9,112.0 31.9,112.0 43.8,112.0 55.7,91.2 67.7,91.2 79.6,91.2 91.5,91.2 103.5,91.2 115.4,91.2 127.3,91.2 139.3,91.2 151.2,70.4 163.1,70.4 175.1,49.6 187.0,49.6 198.9,49.6 210.8,49.6 222.8,70.4 234.7,70.4 246.6,49.6 258.6,28.8 270.5,28.8 282.4,28.8 294.4,28.8 306.3,28.8 318.2,8.0 330.2,8.0 342.1,8.0 354.0,8.0 366.0,8.0 377.9,8.0 389.8,8.0 401.8,8.0 413.7,8.0 425.6,8.0 437.6,8.0 449.5,8.0 461.4,8.0 473.4,8.0 485.3,8.0 497.2,8.0 509.2,8.0 521.1,8.0 533.0,8.0 544.9,8.0 556.9,28.8 568.8,28.8 580.7,28.8 592.7,28.8 604.6,28.8 616.5,28.8 628.5,28.8 640.4,28.8 652.3,28.8 664.3,28.8 676.2,28.8 688.1,28.8 700.1,28.8 712.0,8.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,112.0 19.9,112.0 31.9,112.0 43.8,91.2 55.7,91.2 67.7,91.2 79.6,91.2 91.5,91.2 103.5,91.2 115.4,91.2 127.3,91.2 139.3,70.4 151.2,70.4 163.1,49.6 175.1,49.6 187.0,49.6 198.9,49.6 210.8,70.4 222.8,70.4 234.7,49.6 246.6,28.8 258.6,28.8 270.5,28.8 282.4,28.8 294.4,28.8 306.3,8.0 318.2,8.0 330.2,8.0 342.1,8.0 354.0,8.0 366.0,8.0 377.9,8.0 389.8,8.0 401.8,8.0 413.7,8.0 425.6,8.0 437.6,8.0 449.5,8.0 461.4,8.0 473.4,8.0 485.3,8.0 497.2,8.0 509.2,8.0 521.1,8.0 533.0,8.0 544.9,28.8 556.9,28.8 568.8,28.8 580.7,28.8 592.7,28.8 604.6,28.8 616.5,28.8 628.5,28.8 640.4,28.8 652.3,28.8 664.3,28.8 676.2,28.8 688.1,28.8 700.1,8.0 712.0,8.0" />
   <circle cx="712.0" cy="8.0" r="3.5" fill="#22d3ee" />
 </svg>
 
@@ -58,7 +58,7 @@ Open roles tracked across the last 60 runs:
 | [Identity & Access Management Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8152197) | Culture Amp | Melbourne | Other Tech |
 | [Salesforce Developer](https://job-boards.greenhouse.io/cultureamp/jobs/8146369) | Culture Amp | Melbourne | Software Engineering |
 | [Senior Software Engineer (Front end) - Payments (Crypto & Fiat)](https://job-boards.greenhouse.io/easygo/jobs/5215742007) | Easygo | Melbourne, Australia | Software Engineering |
-| [Lead Software Engineer, AI Scheduling](https://jobs.lever.co/deputy/74a2c646-2eb9-4f05-9241-5b09bd20f6d5) | Deputy | Sydney | Software Engineering |
+| [Staff Software Engineer, AI Scheduling](https://jobs.lever.co/deputy/74a2c646-2eb9-4f05-9241-5b09bd20f6d5) | Deputy | Sydney | Software Engineering |
 | [Senior Software Engineer (Data & Distributed Systems)](https://job-boards.greenhouse.io/thetradedesk/jobs/5215959007) | The Trade Desk | Sydney | Software Engineering |
 | [Staff Platform Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8104820) | Culture Amp | Melbourne | Cloud & DevOps |
 | [Senior Data Engineer](https://job-boards.anz.greenhouse.io/octopusdeploy/jobs/4005762201) | Octopus Deploy | Australia/New Zealand | Data Engineering |

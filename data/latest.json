@@ -66,17 +66,6 @@
     "firstSeen": "2026-08-19T06:58:49.695Z"
   },
   {
-    "id": "lever:deputy:74a2c646-2eb9-4f05-9241-5b09bd20f6d5",
-    "company": "Deputy",
-    "title": "Lead Software Engineer, AI Scheduling",
-    "location": "Sydney",
-    "url": "https://jobs.lever.co/deputy/74a2c646-2eb9-4f05-9241-5b09bd20f6d5",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-08-20T06:59:21.619Z"
-  },
-  {
     "id": "lever:deputy:41506091-6b34-4bac-977c-c0ae7d342e1f",
     "company": "Deputy",
     "title": "Senior Frontend Engineer, Design Systems",
@@ -86,6 +75,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-07-16T08:27:55.281Z"
+  },
+  {
+    "id": "lever:deputy:74a2c646-2eb9-4f05-9241-5b09bd20f6d5",
+    "company": "Deputy",
+    "title": "Staff Software Engineer, AI Scheduling",
+    "location": "Sydney",
+    "url": "https://jobs.lever.co/deputy/74a2c646-2eb9-4f05-9241-5b09bd20f6d5",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-08-20T06:59:21.619Z"
   },
   {
     "id": "lever:deputy:f22f8969-4a6d-44cc-95fb-a2f205264a10",
@@ -187,17 +187,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:easygo:5186155007",
-    "company": "Easygo",
-    "title": "Senior Software Engineer - Onboarding",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5186155007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-08-25T03:54:36.305Z"
-  },
-  {
     "id": "gh:easygo:4991302007",
     "company": "Easygo",
     "title": "Senior Software Engineer - Onboarding",
@@ -207,6 +196,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
+  },
+  {
+    "id": "gh:easygo:5186155007",
+    "company": "Easygo",
+    "title": "Senior Software Engineer - Onboarding",
+    "location": "Melbourne, Australia",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5186155007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-08-25T03:54:36.305Z"
   },
   {
     "id": "gh:easygo:5215742007",
