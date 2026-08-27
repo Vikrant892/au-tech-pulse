@@ -198,17 +198,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:easygo:5186155007",
-    "company": "Easygo",
-    "title": "Senior Software Engineer - Onboarding",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5186155007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-08-25T03:54:36.305Z"
-  },
-  {
     "id": "gh:easygo:4991302007",
     "company": "Easygo",
     "title": "Senior Software Engineer - Onboarding",
@@ -218,6 +207,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
+  },
+  {
+    "id": "gh:easygo:5186155007",
+    "company": "Easygo",
+    "title": "Senior Software Engineer - Onboarding",
+    "location": "Melbourne, Australia",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5186155007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-08-25T03:54:36.305Z"
   },
   {
     "id": "gh:easygo:5215742007",
