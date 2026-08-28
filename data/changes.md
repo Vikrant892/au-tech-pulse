@@ -1,5 +1,11 @@
 # Change log
 
+## 2026-08-28T15:15:14.305Z
+
+- new: Application Security Engineer II at Bugcrowd (Remote - Brazil)
+- new: Lead Data Engineer at Immutable (Sydney)
+- closed: Software Engineering Manager at Easygo
+
 ## 2026-08-25T09:45:25.054Z
 
 - new: Senior Full Stack Engineer at Brighte (Sydney, NSW)

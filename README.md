@@ -7,26 +7,26 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Fri, 28 Aug 2026, 09:51 am (Adelaide time) · run #60
+**Last updated:** Sat, 29 Aug 2026, 12:45 am (Adelaide time) · run #60
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **36** |
+| Open tech roles tracked | **37** |
 | Located in Adelaide or South Australia | **0** |
-| Open to remote within Australia | **2** |
-| Companies hiring | **8** |
+| Open to remote within Australia | **3** |
+| Companies hiring | **9** |
 
 ## By field
 
 ```
-Data Engineering            2  ####........................
+Data Engineering            3  #####.......................
 Machine Learning & AI       4  #######.....................
-Cyber Security              2  ####........................
+Cyber Security              3  #####.......................
 Software Engineering       16  ############################
 Cloud & DevOps              5  #########...................
-Other Tech                  7  ############................
+Other Tech                  6  ###########.................
 ```
 
 ## Trend
@@ -34,7 +34,7 @@ Other Tech                  7  ############................
 Open roles tracked across the last 60 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,86.0 19.9,86.0 31.9,112.0 43.8,112.0 55.7,86.0 67.7,60.0 79.6,60.0 91.5,60.0 103.5,60.0 115.4,60.0 127.3,34.0 139.3,34.0 151.2,34.0 163.1,34.0 175.1,34.0 187.0,34.0 198.9,34.0 210.8,34.0 222.8,34.0 234.7,34.0 246.6,34.0 258.6,34.0 270.5,34.0 282.4,34.0 294.4,34.0 306.3,34.0 318.2,34.0 330.2,34.0 342.1,34.0 354.0,34.0 366.0,60.0 377.9,60.0 389.8,60.0 401.8,60.0 413.7,60.0 425.6,60.0 437.6,60.0 449.5,60.0 461.4,60.0 473.4,60.0 485.3,60.0 497.2,60.0 509.2,60.0 521.1,34.0 533.0,34.0 544.9,8.0 556.9,8.0 568.8,8.0 580.7,8.0 592.7,8.0 604.6,8.0 616.5,8.0 628.5,8.0 640.4,8.0 652.3,8.0 664.3,8.0 676.2,8.0 688.1,8.0 700.1,8.0 712.0,8.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,91.2 19.9,112.0 31.9,112.0 43.8,91.2 55.7,70.4 67.7,70.4 79.6,70.4 91.5,70.4 103.5,70.4 115.4,49.6 127.3,49.6 139.3,49.6 151.2,49.6 163.1,49.6 175.1,49.6 187.0,49.6 198.9,49.6 210.8,49.6 222.8,49.6 234.7,49.6 246.6,49.6 258.6,49.6 270.5,49.6 282.4,49.6 294.4,49.6 306.3,49.6 318.2,49.6 330.2,49.6 342.1,49.6 354.0,70.4 366.0,70.4 377.9,70.4 389.8,70.4 401.8,70.4 413.7,70.4 425.6,70.4 437.6,70.4 449.5,70.4 461.4,70.4 473.4,70.4 485.3,70.4 497.2,70.4 509.2,49.6 521.1,49.6 533.0,28.8 544.9,28.8 556.9,28.8 568.8,28.8 580.7,28.8 592.7,28.8 604.6,28.8 616.5,28.8 628.5,28.8 640.4,28.8 652.3,28.8 664.3,28.8 676.2,28.8 688.1,28.8 700.1,28.8 712.0,8.0" />
   <circle cx="712.0" cy="8.0" r="3.5" fill="#22d3ee" />
 </svg>
 
@@ -42,19 +42,22 @@ Open roles tracked across the last 60 runs:
 
 | # | Company | Open tech roles |
 | --- | --- | --- |
-| 1 | Easygo | 14 |
+| 1 | Easygo | 13 |
 | 2 | Culture Amp | 6 |
 | 3 | Relevance AI | 5 |
 | 4 | The Trade Desk | 5 |
 | 5 | Deputy | 3 |
-| 6 | Brighte | 1 |
-| 7 | Immutable | 1 |
-| 8 | Octopus Deploy | 1 |
+| 6 | Immutable | 2 |
+| 7 | Brighte | 1 |
+| 8 | Bugcrowd | 1 |
+| 9 | Octopus Deploy | 1 |
 
 ## Newest roles
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [Application Security Engineer II](https://boards.greenhouse.io/bugcrowd/jobs/8157936?gh_jid=8157936) | Bugcrowd | Remote - Brazil | Cyber Security |
+| [Lead Data Engineer](https://jobs.lever.co/immutable/a3e009ba-350d-499c-b923-9e90c057df08) | Immutable | Sydney | Data Engineering |
 | [Senior Full Stack Engineer](https://jobs.lever.co/brighte/181a4529-b6a4-4290-8e92-f1e3f7f2306e) | Brighte | Sydney, NSW | Software Engineering |
 | [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/5186155007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Identity & Access Management Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8152197) | Culture Amp | Melbourne | Other Tech |
@@ -68,8 +71,6 @@ Open roles tracked across the last 60 runs:
 | [Backend Engineer - Engine](https://job-boards.greenhouse.io/easygo/jobs/5208919007) | Easygo | Melbourne, Victoria, Australia | Cloud & DevOps |
 | [Staff AI Application Security Engineer](https://jobs.ashbyhq.com/relevanceai/800c3d0b-865a-4169-b792-e3127b5a2c30) | Relevance AI | Sydney, Australia | Cyber Security |
 | [Staff AI Platform Engineer](https://jobs.ashbyhq.com/relevanceai/cfc7da1e-7e0a-488a-a39c-26536baeefba) | Relevance AI | Sydney, Australia | Cloud & DevOps |
-| [Senior AI Product Engineer](https://jobs.ashbyhq.com/relevanceai/ddc1b147-ecfc-4389-a1aa-fbdfb11a2cb6) | Relevance AI | Sydney, Australia | Other Tech |
-| [Staff AI Product Engineer](https://jobs.ashbyhq.com/relevanceai/48ce82ea-0772-4e51-a979-eb56c32ca019) | Relevance AI | Sydney, Australia | Other Tech |
 
 ## How it works
 

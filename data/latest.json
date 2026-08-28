@@ -11,6 +11,17 @@
     "firstSeen": "2026-08-25T09:45:25.054Z"
   },
   {
+    "id": "gh:bugcrowd:8157936",
+    "company": "Bugcrowd",
+    "title": "Application Security Engineer II",
+    "location": "Remote - Brazil",
+    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8157936?gh_jid=8157936",
+    "category": "Cyber Security",
+    "adelaide": false,
+    "remote": true,
+    "firstSeen": "2026-08-28T15:15:14.305Z"
+  },
+  {
     "id": "gh:cultureamp:8152197",
     "company": "Culture Amp",
     "title": "Identity & Access Management Engineer",
@@ -198,17 +209,6 @@
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:easygo:4991302007",
-    "company": "Easygo",
-    "title": "Senior Software Engineer - Onboarding",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/4991302007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
-  },
-  {
     "id": "gh:easygo:5186155007",
     "company": "Easygo",
     "title": "Senior Software Engineer - Onboarding",
@@ -220,6 +220,17 @@
     "firstSeen": "2026-08-25T03:54:36.305Z"
   },
   {
+    "id": "gh:easygo:4991302007",
+    "company": "Easygo",
+    "title": "Senior Software Engineer - Onboarding",
+    "location": "Melbourne, Australia",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/4991302007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-10T04:52:13.396Z"
+  },
+  {
     "id": "gh:easygo:5215742007",
     "company": "Easygo",
     "title": "Senior Software Engineer (Front end) - Payments (Crypto & Fiat)",
@@ -229,17 +240,6 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-08-20T09:43:25.469Z"
-  },
-  {
-    "id": "gh:easygo:5152558007",
-    "company": "Easygo",
-    "title": "Software Engineering Manager",
-    "location": "Melbourne",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5152558007",
-    "category": "Other Tech",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-07-21T03:34:39.853Z"
   },
   {
     "id": "gh:easygo:5153906007",
@@ -262,6 +262,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
+  },
+  {
+    "id": "lever:immutable:a3e009ba-350d-499c-b923-9e90c057df08",
+    "company": "Immutable",
+    "title": "Lead Data Engineer",
+    "location": "Sydney",
+    "url": "https://jobs.lever.co/immutable/a3e009ba-350d-499c-b923-9e90c057df08",
+    "category": "Data Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-08-28T15:15:14.305Z"
   },
   {
     "id": "lever:immutable:fcd9fcb4-e568-4a40-a67e-fd57442171de",
