@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-08-30T16:35:35.671Z
+
+- closed: Senior Software Engineer (Data & Distributed Systems) at The Trade Desk
+- closed: Software Engineer II at The Trade Desk
+
 ## 2026-08-28T15:15:14.305Z
 
 - new: Application Security Engineer II at Bugcrowd (Remote - Brazil)
