@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-08-31T13:31:30.153Z
+
+- closed: Senior Machine Learning Engineer at Easygo
+
 ## 2026-08-30T16:35:35.671Z
 
 - closed: Senior Software Engineer (Data & Distributed Systems) at The Trade Desk
