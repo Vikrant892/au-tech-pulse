@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-03T04:11:17.041Z
+
+- closed: Staff Frontend Software Engineer at Easygo
+
 ## 2026-08-31T13:31:30.153Z
 
 - closed: Senior Machine Learning Engineer at Easygo
