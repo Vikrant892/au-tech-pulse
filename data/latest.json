@@ -1,5 +1,16 @@
 [
   {
+    "id": "lever:brighte:8269ada9-21e5-4a95-b397-eeb18141965b",
+    "company": "Brighte",
+    "title": "Junior Systems Developer",
+    "location": "Sydney, NSW",
+    "url": "https://jobs.lever.co/brighte/8269ada9-21e5-4a95-b397-eeb18141965b",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-09-04T04:23:48.397Z"
+  },
+  {
     "id": "lever:brighte:181a4529-b6a4-4290-8e92-f1e3f7f2306e",
     "company": "Brighte",
     "title": "Senior Full Stack Engineer",
@@ -328,17 +339,6 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-08-05T08:48:07.879Z"
-  },
-  {
-    "id": "gh:thetradedesk:5000637007",
-    "company": "The Trade Desk",
-    "title": "Senior Database Engineer",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5000637007",
-    "category": "Other Tech",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
     "id": "gh:thetradedesk:5189449007",

@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Fri, 04 Sept 2026, 08:43 am (Adelaide time) · run #60
+**Last updated:** Fri, 04 Sept 2026, 01:53 pm (Adelaide time) · run #60
 
 ## Right now
 
@@ -24,9 +24,9 @@ touching a keyboard.
 Data Engineering            3  ######......................
 Machine Learning & AI       3  ######......................
 Cyber Security              3  ######......................
-Software Engineering       13  ############################
-Cloud & DevOps              5  ###########.................
-Other Tech                  6  #############...............
+Software Engineering       14  ############################
+Cloud & DevOps              5  ##########..................
+Other Tech                  5  ##########..................
 ```
 
 ## Trend
@@ -34,7 +34,7 @@ Other Tech                  6  #############...............
 Open roles tracked across the last 60 runs:
 
 <svg width="720" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,60.0 19.9,86.0 31.9,86.0 43.8,86.0 55.7,86.0 67.7,86.0 79.6,86.0 91.5,86.0 103.5,86.0 115.4,86.0 127.3,86.0 139.3,86.0 151.2,86.0 163.1,86.0 175.1,60.0 187.0,60.0 198.9,34.0 210.8,34.0 222.8,34.0 234.7,34.0 246.6,34.0 258.6,34.0 270.5,34.0 282.4,34.0 294.4,34.0 306.3,34.0 318.2,34.0 330.2,34.0 342.1,34.0 354.0,34.0 366.0,34.0 377.9,8.0 389.8,8.0 401.8,8.0 413.7,8.0 425.6,8.0 437.6,8.0 449.5,8.0 461.4,8.0 473.4,60.0 485.3,60.0 497.2,60.0 509.2,60.0 521.1,86.0 533.0,86.0 544.9,86.0 556.9,86.0 568.8,86.0 580.7,86.0 592.7,86.0 604.6,86.0 616.5,86.0 628.5,86.0 640.4,86.0 652.3,86.0 664.3,112.0 676.2,112.0 688.1,112.0 700.1,112.0 712.0,112.0" />
+  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="8.0,86.0 19.9,86.0 31.9,86.0 43.8,86.0 55.7,86.0 67.7,86.0 79.6,86.0 91.5,86.0 103.5,86.0 115.4,86.0 127.3,86.0 139.3,86.0 151.2,86.0 163.1,60.0 175.1,60.0 187.0,34.0 198.9,34.0 210.8,34.0 222.8,34.0 234.7,34.0 246.6,34.0 258.6,34.0 270.5,34.0 282.4,34.0 294.4,34.0 306.3,34.0 318.2,34.0 330.2,34.0 342.1,34.0 354.0,34.0 366.0,8.0 377.9,8.0 389.8,8.0 401.8,8.0 413.7,8.0 425.6,8.0 437.6,8.0 449.5,8.0 461.4,60.0 473.4,60.0 485.3,60.0 497.2,60.0 509.2,86.0 521.1,86.0 533.0,86.0 544.9,86.0 556.9,86.0 568.8,86.0 580.7,86.0 592.7,86.0 604.6,86.0 616.5,86.0 628.5,86.0 640.4,86.0 652.3,112.0 664.3,112.0 676.2,112.0 688.1,112.0 700.1,112.0 712.0,112.0" />
   <circle cx="712.0" cy="112.0" r="3.5" fill="#22d3ee" />
 </svg>
 
@@ -46,9 +46,9 @@ Open roles tracked across the last 60 runs:
 | 2 | Culture Amp | 6 |
 | 3 | Relevance AI | 5 |
 | 4 | Deputy | 3 |
-| 5 | The Trade Desk | 3 |
+| 5 | Brighte | 2 |
 | 6 | Immutable | 2 |
-| 7 | Brighte | 1 |
+| 7 | The Trade Desk | 2 |
 | 8 | Bugcrowd | 1 |
 | 9 | Octopus Deploy | 1 |
 
@@ -56,6 +56,7 @@ Open roles tracked across the last 60 runs:
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [Junior Systems Developer](https://jobs.lever.co/brighte/8269ada9-21e5-4a95-b397-eeb18141965b) | Brighte | Sydney, NSW | Software Engineering |
 | [Application Security Engineer II  - Contract](https://boards.greenhouse.io/bugcrowd/jobs/8157936?gh_jid=8157936) | Bugcrowd | Remote - Brazil | Cyber Security |
 | [Lead Data Engineer](https://jobs.lever.co/immutable/a3e009ba-350d-499c-b923-9e90c057df08) | Immutable | Sydney | Data Engineering |
 | [Senior Full Stack Engineer](https://jobs.lever.co/brighte/181a4529-b6a4-4290-8e92-f1e3f7f2306e) | Brighte | Sydney, NSW | Software Engineering |
@@ -70,7 +71,6 @@ Open roles tracked across the last 60 runs:
 | [Backend Engineer - Engine](https://job-boards.greenhouse.io/easygo/jobs/5208919007) | Easygo | Melbourne, Victoria, Australia | Cloud & DevOps |
 | [Staff AI Application Security Engineer](https://jobs.ashbyhq.com/relevanceai/800c3d0b-865a-4169-b792-e3127b5a2c30) | Relevance AI | Sydney, Australia | Cyber Security |
 | [Staff AI Platform Engineer](https://jobs.ashbyhq.com/relevanceai/cfc7da1e-7e0a-488a-a39c-26536baeefba) | Relevance AI | Sydney, Australia | Cloud & DevOps |
-| [Senior AI Product Engineer](https://jobs.ashbyhq.com/relevanceai/ddc1b147-ecfc-4389-a1aa-fbdfb11a2cb6) | Relevance AI | Sydney, Australia | Other Tech |
 
 ## How it works
 

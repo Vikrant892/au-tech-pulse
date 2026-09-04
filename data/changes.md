@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-09-04T04:23:48.397Z
+
+- new: Junior Systems Developer at Brighte (Sydney, NSW)
+- closed: Senior Database Engineer at The Trade Desk
+
 ## 2026-09-03T04:11:17.041Z
 
 - closed: Staff Frontend Software Engineer at Easygo
