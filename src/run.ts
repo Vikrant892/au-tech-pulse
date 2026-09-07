@@ -19,6 +19,10 @@ const LATEST = resolve(DATA, 'latest.json');
 const CHANGES = resolve(DATA, 'changes.md');
 const README = resolve(ROOT, 'README.md');
 
+// Runs drawn in the README trend chart. Forty columns plus the axis gutter
+// fits a phone screen without the fenced block scrolling sideways.
+const CHART_RUNS = 40;
+
 async function exists(path: string): Promise<boolean> {
   try {
     await access(path);
@@ -77,13 +81,12 @@ async function appendTimeseries(row: string): Promise<void> {
   await writeFile(TIMESERIES, `${existing}${header}${row}\n`, 'utf-8');
 }
 
-async function readHistory(): Promise<number[]> {
+// Every recorded total, oldest first. The caller decides how much of it to
+// draw; the full length is the real run count.
+async function readTotals(): Promise<number[]> {
   try {
     const lines = (await readFile(TIMESERIES, 'utf-8')).trim().split('\n').slice(1);
-    return lines
-      .map((l) => Number(l.split(',')[1]))
-      .filter((n) => Number.isFinite(n))
-      .slice(-40);
+    return lines.map((l) => Number(l.split(',')[1])).filter((n) => Number.isFinite(n));
   } catch {
     return [];
   }
@@ -123,9 +126,9 @@ async function main(): Promise<void> {
   await writeFile(LATEST, JSON.stringify(roles, null, 2) + '\n', 'utf-8');
   await prependChanges(now, added, removed);
 
-  const history = await readHistory();
-  const runs = history.length;
-  await writeFile(README, renderReadme({ snapshot, roles, history, runs }), 'utf-8');
+  const totals = await readTotals();
+  const history = totals.slice(-CHART_RUNS);
+  await writeFile(README, renderReadme({ snapshot, roles, history, runs: totals.length }), 'utf-8');
 
   console.info(
     `[pulse] ${roles.length} roles, ${snapshot.companies} companies, +${added.length}/-${removed.length} since last run`,
