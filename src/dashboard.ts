@@ -14,21 +14,39 @@ function adelaideStamp(iso: string): string {
   }).format(new Date(iso));
 }
 
-// Sparkline of total open roles over the recorded history. Block characters
-// in a fenced block rather than inline SVG: GitHub strips <svg> from rendered
-// markdown, so a chart has to be text to survive on the repository page.
-const LEVELS = ['▁', '▂', '▃', '▄', '▅', '▆', '▇', '█'] as const;
+// Column chart of total open roles over the recorded history. Drawn with
+// block characters in a fenced block rather than inline SVG: GitHub strips
+// <svg> from rendered markdown, so a chart has to be text to survive on the
+// repository page.
+const CHART_ROWS = 6;
 
-export function trendSpark(history: number[]): string {
+export function trendChart(history: number[]): string {
   if (history.length < 2) return '';
   const max = Math.max(...history);
   const min = Math.min(...history);
-  // A flat history has no shape to show, so draw it mid-height rather than
-  // pinned to the floor, where a flat run would read as zero.
-  if (max === min) return LEVELS[3].repeat(history.length);
-  return history
-    .map((v) => LEVELS[Math.round(((v - min) / (max - min)) * (LEVELS.length - 1))] ?? LEVELS[0])
-    .join('');
+  const span = max - min;
+
+  // A flat history has no shape to show, so sit it mid-height rather than on
+  // the floor, where an unchanging market would read as no roles at all.
+  const heights = history.map((v) =>
+    span === 0 ? Math.ceil(CHART_ROWS / 2) : Math.round(((v - min) / span) * (CHART_ROWS - 1)) + 1,
+  );
+
+  const labels = new Map<number, string>();
+  if (span === 0) labels.set(Math.ceil(CHART_ROWS / 2), String(max));
+  else {
+    labels.set(CHART_ROWS, String(max));
+    labels.set(1, String(min));
+  }
+
+  const gutter = String(max).length;
+  const rows: string[] = [];
+  for (let row = CHART_ROWS; row >= 1; row--) {
+    const bars = heights.map((h) => (h >= row ? '█' : ' ')).join('');
+    rows.push(`${(labels.get(row) ?? '').padStart(gutter)} │${bars}`.trimEnd());
+  }
+  rows.push(`${' '.repeat(gutter)} └${'─'.repeat(history.length)}`);
+  return rows.join('\n');
 }
 
 function bar(label: string, value: number, max: number): string {
@@ -63,9 +81,7 @@ export function renderReadme(d: DashboardData): string {
     })
     .join('\n');
 
-  const trend = trendSpark(history);
-  const low = history.length > 0 ? Math.min(...history) : 0;
-  const high = history.length > 0 ? Math.max(...history) : 0;
+  const trend = trendChart(history);
   const now = history[history.length - 1] ?? 0;
 
   return `# Australia Tech Pulse
@@ -94,7 +110,7 @@ touching a keyboard.
 ${catBars}
 \`\`\`
 
-${trend ? `## Trend\n\nOpen roles tracked across the last ${history.length} runs, oldest to newest. Low ${low}, high ${high}, now ${now}.\n\n\`\`\`\n${trend}\n\`\`\`\n` : ''}
+${trend ? `## Trend\n\nOpen roles tracked across the last ${history.length} runs, oldest on the left. Now ${now}.\n\n\`\`\`\n${trend}\n\`\`\`\n` : ''}
 ## Companies hiring the most
 
 | # | Company | Open tech roles |
