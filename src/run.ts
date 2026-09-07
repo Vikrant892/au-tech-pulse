@@ -83,7 +83,7 @@ async function readHistory(): Promise<number[]> {
     return lines
       .map((l) => Number(l.split(',')[1]))
       .filter((n) => Number.isFinite(n))
-      .slice(-60);
+      .slice(-40);
   } catch {
     return [];
   }
