@@ -14,31 +14,21 @@ function adelaideStamp(iso: string): string {
   }).format(new Date(iso));
 }
 
-// Sparkline of total open roles over the recorded history. Hand-built
-// SVG so the chart has no build step and no client JavaScript.
-function trendSvg(history: number[]): string {
+// Sparkline of total open roles over the recorded history. Block characters
+// in a fenced block rather than inline SVG: GitHub strips <svg> from rendered
+// markdown, so a chart has to be text to survive on the repository page.
+const LEVELS = ['▁', '▂', '▃', '▄', '▅', '▆', '▇', '█'] as const;
+
+export function trendSpark(history: number[]): string {
   if (history.length < 2) return '';
-  const w = 720;
-  const h = 120;
-  const pad = 8;
   const max = Math.max(...history);
   const min = Math.min(...history);
-  const span = Math.max(max - min, 1);
-  const step = (w - pad * 2) / (history.length - 1);
-  const points = history
-    .map((v, i) => {
-      const x = pad + i * step;
-      const y = h - pad - ((v - min) / span) * (h - pad * 2);
-      return `${x.toFixed(1)},${y.toFixed(1)}`;
-    })
-    .join(' ');
-  const last = history[history.length - 1] ?? 0;
-  const lastX = pad + (history.length - 1) * step;
-  const lastY = h - pad - ((last - min) / span) * (h - pad * 2);
-  return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open roles over time">
-  <polyline fill="none" stroke="#22d3ee" stroke-width="2" points="${points}" />
-  <circle cx="${lastX.toFixed(1)}" cy="${lastY.toFixed(1)}" r="3.5" fill="#22d3ee" />
-</svg>`;
+  // A flat history has no shape to show, so draw it mid-height rather than
+  // pinned to the floor, where a flat run would read as zero.
+  if (max === min) return LEVELS[3].repeat(history.length);
+  return history
+    .map((v) => LEVELS[Math.round(((v - min) / (max - min)) * (LEVELS.length - 1))] ?? LEVELS[0])
+    .join('');
 }
 
 function bar(label: string, value: number, max: number): string {
@@ -73,7 +63,10 @@ export function renderReadme(d: DashboardData): string {
     })
     .join('\n');
 
-  const trend = trendSvg(history);
+  const trend = trendSpark(history);
+  const low = history.length > 0 ? Math.min(...history) : 0;
+  const high = history.length > 0 ? Math.max(...history) : 0;
+  const now = history[history.length - 1] ?? 0;
 
   return `# Australia Tech Pulse
 
@@ -101,7 +94,7 @@ touching a keyboard.
 ${catBars}
 \`\`\`
 
-${trend ? `## Trend\n\nOpen roles tracked across the last ${history.length} runs:\n\n${trend}\n` : ''}
+${trend ? `## Trend\n\nOpen roles tracked across the last ${history.length} runs, oldest to newest. Low ${low}, high ${high}, now ${now}.\n\n\`\`\`\n${trend}\n\`\`\`\n` : ''}
 ## Companies hiring the most
 
 | # | Company | Open tech roles |
