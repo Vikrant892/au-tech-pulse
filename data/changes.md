@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-07T12:18:19.987Z
+
+- new: Senior Applied AI Engineer at Culture Amp (Sydney)
+
 ## 2026-09-04T04:23:48.397Z
 
 - new: Junior Systems Developer at Brighte (Sydney, NSW)
