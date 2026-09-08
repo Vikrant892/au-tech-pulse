@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Tue, 08 Sept 2026, 01:53 pm (Adelaide time) · run #566
+**Last updated:** Tue, 08 Sept 2026, 08:37 pm (Adelaide time) · run #567
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **34** |
+| Open tech roles tracked | **35** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **2** |
 | Companies hiring | **9** |
@@ -21,7 +21,7 @@ touching a keyboard.
 ## By field
 
 ```
-Data Engineering            3  ######......................
+Data Engineering            4  ########....................
 Machine Learning & AI       4  ########....................
 Cyber Security              3  ######......................
 Software Engineering       14  ############################
@@ -31,14 +31,14 @@ Other Tech                  5  ##########..................
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 34.
+Open roles tracked across the last 40 runs, oldest on the left. Now 35.
 
 ```
-35 │██
-   │██
-   │██████████████                      ████
-   │██████████████                      ████
-   │██████████████                      ████
+35 │█                                      █
+   │█                                      █
+   │█████████████                      █████
+   │█████████████                      █████
+   │█████████████                      █████
 33 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -47,7 +47,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 34.
 
 | # | Company | Open tech roles |
 | --- | --- | --- |
-| 1 | Easygo | 11 |
+| 1 | Easygo | 12 |
 | 2 | Culture Amp | 7 |
 | 3 | Relevance AI | 5 |
 | 4 | Deputy | 3 |
@@ -61,6 +61,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 34.
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [Senior Data Analyst - Kick (Modelling)](https://job-boards.greenhouse.io/easygo/jobs/5097649007) | Easygo | Melbourne, Australia | Data Engineering |
 | [Senior Applied AI Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8184634) | Culture Amp | Sydney | Machine Learning & AI |
 | [Junior Systems Developer](https://jobs.lever.co/brighte/8269ada9-21e5-4a95-b397-eeb18141965b) | Brighte | Sydney, NSW | Software Engineering |
 | [Application Security Engineer II  - Contract](https://boards.greenhouse.io/bugcrowd/jobs/8157936?gh_jid=8157936) | Bugcrowd | Remote - Brazil | Cyber Security |
@@ -75,7 +76,6 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 34.
 | [Senior Data Engineer](https://job-boards.anz.greenhouse.io/octopusdeploy/jobs/4005762201) | Octopus Deploy | Australia/New Zealand | Data Engineering |
 | [Senior Frontend Engineer - KICK Creator Tools & Engagement](https://job-boards.greenhouse.io/easygo/jobs/5000593007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Backend Engineer - Engine](https://job-boards.greenhouse.io/easygo/jobs/5208919007) | Easygo | Melbourne, Victoria, Australia | Cloud & DevOps |
-| [Staff AI Application Security Engineer](https://jobs.ashbyhq.com/relevanceai/800c3d0b-865a-4169-b792-e3127b5a2c30) | Relevance AI | Sydney, Australia | Cyber Security |
 
 ## How it works
 

@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-08T11:07:35.100Z
+
+- new: Senior Data Analyst - Kick (Modelling) at Easygo (Melbourne, Australia)
+
 ## 2026-09-07T12:18:19.987Z
 
 - new: Senior Applied AI Engineer at Culture Amp (Sydney)
