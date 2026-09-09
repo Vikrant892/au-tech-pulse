@@ -55,17 +55,6 @@
     "firstSeen": "2026-08-21T01:51:00.414Z"
   },
   {
-    "id": "gh:cultureamp:8184634",
-    "company": "Culture Amp",
-    "title": "Senior Applied AI Engineer",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/8184634",
-    "category": "Machine Learning & AI",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-09-07T12:18:19.987Z"
-  },
-  {
     "id": "gh:cultureamp:7573350",
     "company": "Culture Amp",
     "title": "Senior Applied AI Engineer",
@@ -77,15 +66,15 @@
     "firstSeen": "2026-06-30T04:20:11.473Z"
   },
   {
-    "id": "gh:cultureamp:7994439",
+    "id": "gh:cultureamp:8184634",
     "company": "Culture Amp",
-    "title": "Staff Applied AI Scientist",
+    "title": "Senior Applied AI Engineer",
     "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/8184634",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
+    "firstSeen": "2026-09-07T12:18:19.987Z"
   },
   {
     "id": "gh:cultureamp:7994437",
@@ -93,6 +82,17 @@
     "title": "Staff Applied AI Scientist",
     "location": "Melbourne",
     "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
+    "category": "Machine Learning & AI",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-06-10T04:52:13.396Z"
+  },
+  {
+    "id": "gh:cultureamp:7994439",
+    "company": "Culture Amp",
+    "title": "Staff Applied AI Scientist",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
