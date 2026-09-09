@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-09-09T04:28:18.029Z
+
+- new: Senior Software Engineer, Full-Stack (Sydney) at Easygo (Sydney, Australia)
+- new: Staff Backend Software Engineer at Easygo (Melbourne, Australia)
+
 ## 2026-09-08T11:07:35.100Z
 
 - new: Senior Data Analyst - Kick (Modelling) at Easygo (Melbourne, Australia)
