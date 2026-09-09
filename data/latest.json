@@ -264,6 +264,28 @@
     "firstSeen": "2026-08-20T09:43:25.469Z"
   },
   {
+    "id": "gh:easygo:5230837007",
+    "company": "Easygo",
+    "title": "Senior Software Engineer, Full-Stack (Sydney)",
+    "location": "Sydney, Australia",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5230837007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-09-09T04:28:18.029Z"
+  },
+  {
+    "id": "gh:easygo:5153906007",
+    "company": "Easygo",
+    "title": "Staff Backend Software Engineer",
+    "location": "Melbourne, Australia",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5153906007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-09-09T04:28:18.029Z"
+  },
+  {
     "id": "gh:easygo:5103198007",
     "company": "Easygo",
     "title": "Staff Software Engineer, (Full-Stack) - Engagement team",
