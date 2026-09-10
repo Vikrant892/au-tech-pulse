@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-10T11:08:26.524Z
+
+- new: Software Quality Engineer - Juice Games at Easygo (Melbourne)
+
 ## 2026-09-09T04:28:18.029Z
 
 - new: Senior Software Engineer, Full-Stack (Sydney) at Easygo (Sydney, Australia)
