@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-11T04:26:14.073Z
+
+- closed: Software Quality Engineer - Juice Games at Easygo
+
 ## 2026-09-10T11:08:26.524Z
 
 - new: Software Quality Engineer - Juice Games at Easygo (Melbourne)
