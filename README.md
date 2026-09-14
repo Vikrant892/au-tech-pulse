@@ -7,39 +7,39 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Mon, 14 Sept 2026, 02:13 pm (Adelaide time) · run #596
+**Last updated:** Mon, 14 Sept 2026, 10:02 pm (Adelaide time) · run #597
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **37** |
+| Open tech roles tracked | **23** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **2** |
-| Companies hiring | **9** |
+| Companies hiring | **8** |
 
 ## By field
 
 ```
-Data Engineering            4  #######.....................
-Machine Learning & AI       4  #######.....................
-Cyber Security              3  #####.......................
-Software Engineering       16  ############################
-Cloud & DevOps              5  #########...................
-Other Tech                  5  #########...................
+Data Engineering            3  #################...........
+Machine Learning & AI       4  ######################......
+Cyber Security              3  #################...........
+Software Engineering        5  ############################
+Cloud & DevOps              3  #################...........
+Other Tech                  5  ############################
 ```
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 37.
+Open roles tracked across the last 40 runs, oldest on the left. Now 23.
 
 ```
-38 │                    ████
-   │              ██████████████████████████
-   │              ██████████████████████████
-   │          ██████████████████████████████
-   │      ██████████████████████████████████
-33 │████████████████████████████████████████
+38 │             ██████████████████████████
+   │     ██████████████████████████████████
+   │███████████████████████████████████████
+   │███████████████████████████████████████
+   │███████████████████████████████████████
+23 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
 
@@ -47,35 +47,34 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 37.
 
 | # | Company | Open tech roles |
 | --- | --- | --- |
-| 1 | Easygo | 14 |
-| 2 | Culture Amp | 7 |
-| 3 | Relevance AI | 5 |
-| 4 | Deputy | 3 |
-| 5 | Brighte | 2 |
-| 6 | Immutable | 2 |
-| 7 | The Trade Desk | 2 |
-| 8 | Bugcrowd | 1 |
-| 9 | Octopus Deploy | 1 |
+| 1 | Culture Amp | 7 |
+| 2 | Relevance AI | 5 |
+| 3 | Deputy | 3 |
+| 4 | Brighte | 2 |
+| 5 | Immutable | 2 |
+| 6 | The Trade Desk | 2 |
+| 7 | Bugcrowd | 1 |
+| 8 | Octopus Deploy | 1 |
 
 ## Newest roles
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
-| [Senior Software Engineer, Full-Stack (Sydney)](https://job-boards.greenhouse.io/easygo/jobs/5230837007) | Easygo | Sydney, Australia | Software Engineering |
-| [Staff Backend Software Engineer](https://job-boards.greenhouse.io/easygo/jobs/5153906007) | Easygo | Melbourne, Australia | Software Engineering |
-| [Senior Data Analyst - Kick](https://job-boards.greenhouse.io/easygo/jobs/5097649007) | Easygo | Melbourne, Australia | Data Engineering |
 | [Senior Applied AI Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8184634) | Culture Amp | Sydney | Machine Learning & AI |
 | [Junior Systems Developer](https://jobs.lever.co/brighte/8269ada9-21e5-4a95-b397-eeb18141965b) | Brighte | Sydney, NSW | Software Engineering |
 | [Application Security Engineer II  - Contract](https://boards.greenhouse.io/bugcrowd/jobs/8157936?gh_jid=8157936) | Bugcrowd | Remote - Brazil | Cyber Security |
 | [Lead Data Engineer](https://jobs.lever.co/immutable/a3e009ba-350d-499c-b923-9e90c057df08) | Immutable | Sydney | Data Engineering |
 | [Senior Full Stack Engineer](https://jobs.lever.co/brighte/181a4529-b6a4-4290-8e92-f1e3f7f2306e) | Brighte | Sydney, NSW | Software Engineering |
-| [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/5186155007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Identity & Access Management Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8152197) | Culture Amp | Melbourne | Other Tech |
 | [Salesforce Developer](https://job-boards.greenhouse.io/cultureamp/jobs/8146369) | Culture Amp | Melbourne | Software Engineering |
-| [Senior Software Engineer (Front end) - Payments (Crypto & Fiat)](https://job-boards.greenhouse.io/easygo/jobs/5215742007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Staff Software Engineer, AI Scheduling](https://jobs.lever.co/deputy/74a2c646-2eb9-4f05-9241-5b09bd20f6d5) | Deputy | Sydney | Software Engineering |
 | [Staff Platform Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8104820) | Culture Amp | Melbourne | Cloud & DevOps |
 | [Senior Data Engineer](https://job-boards.anz.greenhouse.io/octopusdeploy/jobs/4005762201) | Octopus Deploy | Australia/New Zealand | Data Engineering |
+| [Staff AI Application Security Engineer](https://jobs.ashbyhq.com/relevanceai/800c3d0b-865a-4169-b792-e3127b5a2c30) | Relevance AI | Sydney, Australia | Cyber Security |
+| [Staff AI Platform Engineer](https://jobs.ashbyhq.com/relevanceai/cfc7da1e-7e0a-488a-a39c-26536baeefba) | Relevance AI | Sydney, Australia | Cloud & DevOps |
+| [Senior AI Product Engineer](https://jobs.ashbyhq.com/relevanceai/ddc1b147-ecfc-4389-a1aa-fbdfb11a2cb6) | Relevance AI | Sydney, Australia | Other Tech |
+| [Staff AI Product Engineer](https://jobs.ashbyhq.com/relevanceai/48ce82ea-0772-4e51-a979-eb56c32ca019) | Relevance AI | Sydney, Australia | Other Tech |
+| [Senior Platform Engineer](https://jobs.lever.co/immutable/fcd9fcb4-e568-4a40-a67e-fd57442171de) | Immutable | Sydney | Data Engineering |
 
 ## How it works
 
