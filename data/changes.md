@@ -1,5 +1,22 @@
 # Change log
 
+## 2026-09-14T12:32:54.851Z
+
+- closed: Backend Engineer - Engine at Easygo
+- closed: Senior Backend Engineer - Engine at Easygo
+- closed: Senior Backend Engineer - KICK Platform Trust at Easygo
+- closed: Senior Data Analyst - Kick at Easygo
+- closed: Senior Frontend Engineer - KICK Creator Tools & Engagement at Easygo
+- closed: Senior Frontend Engineer - KICK Video/Ads at Easygo
+- closed: Senior Software Engineer - Engagement at Easygo
+- closed: Senior Software Engineer - KICK Discovery & Presence at Easygo
+- closed: Senior Software Engineer - Onboarding at Easygo
+- closed: Senior Software Engineer - Onboarding at Easygo
+- closed: Senior Software Engineer (Front end) - Payments (Crypto & Fiat) at Easygo
+- closed: Senior Software Engineer, Full-Stack (Sydney) at Easygo
+- closed: Staff Backend Software Engineer at Easygo
+- closed: Staff Software Engineer, (Full-Stack) - Engagement team at Easygo
+
 ## 2026-09-11T04:26:14.073Z
 
 - closed: Software Quality Engineer - Juice Games at Easygo
