@@ -1,5 +1,22 @@
 # Change log
 
+## 2026-09-14T19:48:32.439Z
+
+- new: Backend Engineer - Engine at Easygo (Melbourne, Victoria, Australia)
+- new: Senior Backend Engineer - Engine at Easygo (Melbourne, Australia)
+- new: Senior Backend Engineer - KICK Platform Trust at Easygo (Melbourne, Australia)
+- new: Senior Data Analyst - Kick at Easygo (Melbourne, Australia)
+- new: Senior Frontend Engineer - KICK Creator Tools & Engagement at Easygo (Melbourne, Australia)
+- new: Senior Frontend Engineer - KICK Video/Ads at Easygo (Melbourne, Australia)
+- new: Senior Software Engineer - Engagement at Easygo (Melbourne, Australia)
+- new: Senior Software Engineer - KICK Discovery & Presence at Easygo (Melbourne, Australia)
+- new: Senior Software Engineer - Onboarding at Easygo (Melbourne, Australia)
+- new: Senior Software Engineer - Onboarding at Easygo (Melbourne, Australia)
+- new: Senior Software Engineer (Front end) - Payments (Crypto & Fiat) at Easygo (Melbourne, Australia)
+- new: Senior Software Engineer, Full-Stack (Sydney) at Easygo (Sydney, Australia)
+- new: Staff Backend Software Engineer at Easygo (Melbourne, Australia)
+- new: Staff Software Engineer, (Full-Stack) - Engagement team at Easygo (Melbourne, Australia)
+
 ## 2026-09-14T12:32:54.851Z
 
 - closed: Backend Engineer - Engine at Easygo
