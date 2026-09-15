@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Tue, 15 Sept 2026, 09:19 am (Adelaide time) · run #599
+**Last updated:** Tue, 15 Sept 2026, 02:13 pm (Adelaide time) · run #600
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **37** |
+| Open tech roles tracked | **36** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **2** |
 | Companies hiring | **9** |
@@ -26,19 +26,19 @@ Machine Learning & AI       4  #######.....................
 Cyber Security              3  #####.......................
 Software Engineering       16  ############################
 Cloud & DevOps              5  #########...................
-Other Tech                  5  #########...................
+Other Tech                  4  #######.....................
 ```
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 37.
+Open roles tracked across the last 40 runs, oldest on the left. Now 36.
 
 ```
-38 │           ██████████████████████████ ██
-   │   ██████████████████████████████████ ██
-   │█████████████████████████████████████ ██
-   │█████████████████████████████████████ ██
-   │█████████████████████████████████████ ██
+38 │          ██████████████████████████ ██
+   │  ██████████████████████████████████ ███
+   │████████████████████████████████████ ███
+   │████████████████████████████████████ ███
+   │████████████████████████████████████ ███
 23 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -49,7 +49,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 37.
 | --- | --- | --- |
 | 1 | Easygo | 14 |
 | 2 | Culture Amp | 7 |
-| 3 | Relevance AI | 5 |
+| 3 | Relevance AI | 4 |
 | 4 | Deputy | 3 |
 | 5 | Brighte | 2 |
 | 6 | Immutable | 2 |

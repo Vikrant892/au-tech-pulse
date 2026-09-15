@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-15T04:43:34.657Z
+
+- closed: AI Deployment Strategist at Relevance AI
+
 ## 2026-09-14T19:48:32.439Z
 
 - new: Backend Engineer - Engine at Easygo (Melbourne, Victoria, Australia)
