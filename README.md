@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Tue, 15 Sept 2026, 02:13 pm (Adelaide time) · run #600
+**Last updated:** Tue, 15 Sept 2026, 09:06 pm (Adelaide time) · run #601
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **36** |
+| Open tech roles tracked | **35** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **2** |
 | Companies hiring | **9** |
@@ -23,22 +23,22 @@ touching a keyboard.
 ```
 Data Engineering            4  #######.....................
 Machine Learning & AI       4  #######.....................
-Cyber Security              3  #####.......................
-Software Engineering       16  ############################
+Cyber Security              3  ######......................
+Software Engineering       15  ############################
 Cloud & DevOps              5  #########...................
 Other Tech                  4  #######.....................
 ```
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 36.
+Open roles tracked across the last 40 runs, oldest on the left. Now 35.
 
 ```
-38 │          ██████████████████████████ ██
-   │  ██████████████████████████████████ ███
-   │████████████████████████████████████ ███
-   │████████████████████████████████████ ███
-   │████████████████████████████████████ ███
+38 │         ██████████████████████████ ██
+   │ ██████████████████████████████████ ████
+   │███████████████████████████████████ ████
+   │███████████████████████████████████ ████
+   │███████████████████████████████████ ████
 23 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -51,9 +51,9 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 36.
 | 2 | Culture Amp | 7 |
 | 3 | Relevance AI | 4 |
 | 4 | Deputy | 3 |
-| 5 | Brighte | 2 |
-| 6 | Immutable | 2 |
-| 7 | The Trade Desk | 2 |
+| 5 | Immutable | 2 |
+| 6 | The Trade Desk | 2 |
+| 7 | Brighte | 1 |
 | 8 | Bugcrowd | 1 |
 | 9 | Octopus Deploy | 1 |
 
