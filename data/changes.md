@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-17T11:31:23.945Z
+
+- new: Senior Software Engineer (Backend) at Easygo (Melbourne, Victoria)
+
 ## 2026-09-16T04:39:28.021Z
 
 - new: Lead QA Engineer (12 month contract) at Deputy (Sydney)
