@@ -253,6 +253,17 @@
     "firstSeen": "2026-09-14T19:48:32.439Z"
   },
   {
+    "id": "gh:easygo:5239580007",
+    "company": "Easygo",
+    "title": "Senior Software Engineer (Backend)",
+    "location": "Melbourne, Victoria",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5239580007",
+    "category": "Software Engineering",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-09-17T11:31:23.945Z"
+  },
+  {
     "id": "gh:easygo:5215742007",
     "company": "Easygo",
     "title": "Senior Software Engineer (Front end) - Payments (Crypto & Fiat)",
