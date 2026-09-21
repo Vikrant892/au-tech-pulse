@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-21T12:39:30.980Z
+
+- new: Staff Engineer at Culture Amp (Melbourne)
+
 ## 2026-09-21T04:44:07.532Z
 
 - new: Associate Site Reliability Engineer at Culture Amp (Melbourne)
