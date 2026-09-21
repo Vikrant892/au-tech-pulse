@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-09-21T04:44:07.532Z
+
+- new: Associate Site Reliability Engineer at Culture Amp (Melbourne)
+- closed: Senior Backend Engineer - KICK Platform Trust at Easygo
+
 ## 2026-09-17T11:31:23.945Z
 
 - new: Senior Software Engineer (Backend) at Easygo (Melbourne, Victoria)
