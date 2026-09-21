@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Mon, 21 Sept 2026, 10:09 pm (Adelaide time) · run #628
+**Last updated:** Tue, 22 Sept 2026, 05:26 am (Adelaide time) · run #629
 
 ## Right now
 
@@ -34,11 +34,11 @@ Other Tech                  6  ###########.................
 Open roles tracked across the last 40 runs, oldest on the left. Now 38.
 
 ```
-38 │████████ ██         ████████████████████
-   │████████ ███████████████████████████████
-   │████████ ███████████████████████████████
-   │████████ ███████████████████████████████
-   │████████ ███████████████████████████████
+38 │███████ ██         █████████████████████
+   │███████ ████████████████████████████████
+   │███████ ████████████████████████████████
+   │███████ ████████████████████████████████
+   │███████ ████████████████████████████████
 23 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -61,6 +61,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 38.
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [Application Security Engineer](https://boards.greenhouse.io/bugcrowd/jobs/8157940?gh_jid=8157940) | Bugcrowd | Remote - Brazil | Cyber Security |
 | [Staff Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8220056) | Culture Amp | Melbourne | Other Tech |
 | [Associate Site Reliability Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8219709) | Culture Amp | Melbourne | Cloud & DevOps |
 | [Senior Software Engineer (Backend)](https://job-boards.greenhouse.io/easygo/jobs/5239580007) | Easygo | Melbourne, Victoria | Software Engineering |
@@ -72,10 +73,9 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 38.
 | [Senior Frontend Engineer - KICK Video/Ads](https://job-boards.greenhouse.io/easygo/jobs/5202608007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer - Engagement](https://job-boards.greenhouse.io/easygo/jobs/5123541007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer - KICK Discovery & Presence](https://job-boards.greenhouse.io/easygo/jobs/5117022007) | Easygo | Melbourne, Australia | Software Engineering |
-| [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/4991302007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/5186155007) | Easygo | Melbourne, Australia | Software Engineering |
+| [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/4991302007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer (Front end) - Payments (Crypto & Fiat)](https://job-boards.greenhouse.io/easygo/jobs/5215742007) | Easygo | Melbourne, Australia | Software Engineering |
-| [Senior Software Engineer, Full-Stack (Sydney)](https://job-boards.greenhouse.io/easygo/jobs/5230837007) | Easygo | Sydney, Australia | Software Engineering |
 
 ## How it works
 

@@ -11,15 +11,15 @@
     "firstSeen": "2026-08-25T09:45:25.054Z"
   },
   {
-    "id": "gh:bugcrowd:8157936",
+    "id": "gh:bugcrowd:8157940",
     "company": "Bugcrowd",
-    "title": "Application Security Engineer II  - Contract",
+    "title": "Application Security Engineer",
     "location": "Remote - Brazil",
-    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8157936?gh_jid=8157936",
+    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8157940?gh_jid=8157940",
     "category": "Cyber Security",
     "adelaide": false,
     "remote": true,
-    "firstSeen": "2026-08-28T15:15:14.305Z"
+    "firstSeen": "2026-09-21T19:56:36.235Z"
   },
   {
     "id": "gh:cultureamp:8219709",
@@ -77,22 +77,22 @@
     "firstSeen": "2026-09-07T12:18:19.987Z"
   },
   {
-    "id": "gh:cultureamp:7994439",
+    "id": "gh:cultureamp:7994437",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
+    "location": "Melbourne",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:cultureamp:7994437",
+    "id": "gh:cultureamp:7994439",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Melbourne",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
@@ -242,22 +242,22 @@
     "firstSeen": "2026-09-14T19:48:32.439Z"
   },
   {
-    "id": "gh:easygo:4991302007",
+    "id": "gh:easygo:5186155007",
     "company": "Easygo",
     "title": "Senior Software Engineer - Onboarding",
     "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/4991302007",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5186155007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-09-14T19:48:32.439Z"
   },
   {
-    "id": "gh:easygo:5186155007",
+    "id": "gh:easygo:4991302007",
     "company": "Easygo",
     "title": "Senior Software Engineer - Onboarding",
     "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5186155007",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/4991302007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
