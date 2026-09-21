@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-09-21T19:56:36.235Z
+
+- new: Application Security Engineer at Bugcrowd (Remote - Brazil)
+- closed: Application Security Engineer II  - Contract at Bugcrowd
+
 ## 2026-09-21T12:39:30.980Z
 
 - new: Staff Engineer at Culture Amp (Melbourne)
