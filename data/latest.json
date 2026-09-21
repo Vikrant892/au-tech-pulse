@@ -22,6 +22,17 @@
     "firstSeen": "2026-08-28T15:15:14.305Z"
   },
   {
+    "id": "gh:cultureamp:8219709",
+    "company": "Culture Amp",
+    "title": "Associate Site Reliability Engineer",
+    "location": "Melbourne",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/8219709",
+    "category": "Cloud & DevOps",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-09-21T04:44:07.532Z"
+  },
+  {
     "id": "gh:cultureamp:8152197",
     "company": "Culture Amp",
     "title": "Identity & Access Management Engineer",
@@ -66,22 +77,22 @@
     "firstSeen": "2026-09-07T12:18:19.987Z"
   },
   {
-    "id": "gh:cultureamp:7994439",
+    "id": "gh:cultureamp:7994437",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
+    "location": "Melbourne",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:cultureamp:7994437",
+    "id": "gh:cultureamp:7994439",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Melbourne",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
@@ -165,17 +176,6 @@
     "firstSeen": "2026-09-14T19:48:32.439Z"
   },
   {
-    "id": "gh:easygo:5146144007",
-    "company": "Easygo",
-    "title": "Senior Backend Engineer - KICK Platform Trust",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5146144007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-09-14T19:48:32.439Z"
-  },
-  {
     "id": "gh:easygo:5097649007",
     "company": "Easygo",
     "title": "Senior Data Analyst - Kick",
@@ -231,22 +231,22 @@
     "firstSeen": "2026-09-14T19:48:32.439Z"
   },
   {
-    "id": "gh:easygo:5186155007",
+    "id": "gh:easygo:4991302007",
     "company": "Easygo",
     "title": "Senior Software Engineer - Onboarding",
     "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5186155007",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/4991302007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-09-14T19:48:32.439Z"
   },
   {
-    "id": "gh:easygo:4991302007",
+    "id": "gh:easygo:5186155007",
     "company": "Easygo",
     "title": "Senior Software Engineer - Onboarding",
     "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/4991302007",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5186155007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
