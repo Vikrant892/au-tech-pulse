@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-22T00:00:56.207Z
+
+- closed: Senior Software Engineer - KICK Discovery & Presence at Easygo
+
 ## 2026-09-21T19:56:36.235Z
 
 - new: Application Security Engineer at Bugcrowd (Remote - Brazil)
