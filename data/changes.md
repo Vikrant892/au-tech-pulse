@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-22T04:40:59.627Z
+
+- closed: Senior Frontend Engineer - KICK Video/Ads at Easygo
+
 ## 2026-09-22T00:00:56.207Z
 
 - closed: Senior Software Engineer - KICK Discovery & Presence at Easygo
