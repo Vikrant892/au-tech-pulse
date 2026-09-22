@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Tue, 22 Sept 2026, 08:55 pm (Adelaide time) · run #632
+**Last updated:** Wed, 23 Sept 2026, 02:18 am (Adelaide time) · run #633
 
 ## Right now
 
@@ -34,11 +34,11 @@ Other Tech                  5  ############................
 Open roles tracked across the last 40 runs, oldest on the left. Now 35.
 
 ```
-38 │████ ██         ██████████████████████
-   │████ ███████████████████████████████████
-   │████ ███████████████████████████████████
-   │████ ███████████████████████████████████
-   │████ ███████████████████████████████████
+38 │███ ██         ██████████████████████
+   │███ ████████████████████████████████████
+   │███ ████████████████████████████████████
+   │███ ████████████████████████████████████
+   │███ ████████████████████████████████████
 23 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -71,8 +71,8 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 35.
 | [Senior Data Analyst - Kick](https://job-boards.greenhouse.io/easygo/jobs/5097649007) | Easygo | Melbourne, Australia | Data Engineering |
 | [Senior Frontend Engineer - KICK Creator Tools & Engagement](https://job-boards.greenhouse.io/easygo/jobs/5000593007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer - Engagement](https://job-boards.greenhouse.io/easygo/jobs/5123541007) | Easygo | Melbourne, Australia | Software Engineering |
-| [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/4991302007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/5186155007) | Easygo | Melbourne, Australia | Software Engineering |
+| [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/4991302007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer (Front end) - Payments (Crypto & Fiat)](https://job-boards.greenhouse.io/easygo/jobs/5215742007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer, Full-Stack (Sydney)](https://job-boards.greenhouse.io/easygo/jobs/5230837007) | Easygo | Sydney, Australia | Software Engineering |
 | [Staff Backend Software Engineer](https://job-boards.greenhouse.io/easygo/jobs/5153906007) | Easygo | Melbourne, Australia | Software Engineering |
