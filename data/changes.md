@@ -1,5 +1,11 @@
 # Change log
 
+## 2026-09-22T11:25:55.358Z
+
+- new: Application Security Engineer at Bugcrowd (Remote - Brazil)
+- closed: Lead QA Engineer (12 month contract) at Deputy
+- closed: Senior Frontend Engineer, Design Systems at Deputy
+
 ## 2026-09-22T04:40:59.627Z
 
 - closed: Senior Frontend Engineer - KICK Video/Ads at Easygo

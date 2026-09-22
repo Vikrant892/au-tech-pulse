@@ -22,6 +22,17 @@
     "firstSeen": "2026-09-21T19:56:36.235Z"
   },
   {
+    "id": "gh:bugcrowd:8211988",
+    "company": "Bugcrowd",
+    "title": "Application Security Engineer",
+    "location": "Remote - Brazil",
+    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8211988?gh_jid=8211988",
+    "category": "Cyber Security",
+    "adelaide": false,
+    "remote": true,
+    "firstSeen": "2026-09-22T11:25:55.358Z"
+  },
+  {
     "id": "gh:cultureamp:8219709",
     "company": "Culture Amp",
     "title": "Associate Site Reliability Engineer",
@@ -121,28 +132,6 @@
     "firstSeen": "2026-08-19T06:58:49.695Z"
   },
   {
-    "id": "lever:deputy:94860757-3fc3-4206-9e00-a5ccf6d8a374",
-    "company": "Deputy",
-    "title": "Lead QA Engineer (12 month contract)",
-    "location": "Sydney",
-    "url": "https://jobs.lever.co/deputy/94860757-3fc3-4206-9e00-a5ccf6d8a374",
-    "category": "Other Tech",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-09-16T04:39:28.021Z"
-  },
-  {
-    "id": "lever:deputy:41506091-6b34-4bac-977c-c0ae7d342e1f",
-    "company": "Deputy",
-    "title": "Senior Frontend Engineer, Design Systems",
-    "location": "Sydney",
-    "url": "https://jobs.lever.co/deputy/41506091-6b34-4bac-977c-c0ae7d342e1f",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-07-16T08:27:55.281Z"
-  },
-  {
     "id": "lever:deputy:74a2c646-2eb9-4f05-9241-5b09bd20f6d5",
     "company": "Deputy",
     "title": "Staff Software Engineer, AI Scheduling",
@@ -220,22 +209,22 @@
     "firstSeen": "2026-09-14T19:48:32.439Z"
   },
   {
-    "id": "gh:easygo:5186155007",
+    "id": "gh:easygo:4991302007",
     "company": "Easygo",
     "title": "Senior Software Engineer - Onboarding",
     "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5186155007",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/4991302007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-09-14T19:48:32.439Z"
   },
   {
-    "id": "gh:easygo:4991302007",
+    "id": "gh:easygo:5186155007",
     "company": "Easygo",
     "title": "Senior Software Engineer - Onboarding",
     "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/4991302007",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5186155007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
