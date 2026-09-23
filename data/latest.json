@@ -132,6 +132,17 @@
     "firstSeen": "2026-08-19T06:58:49.695Z"
   },
   {
+    "id": "lever:deputy:94860757-3fc3-4206-9e00-a5ccf6d8a374",
+    "company": "Deputy",
+    "title": "Lead QA Engineer (12 month contract)",
+    "location": "Sydney",
+    "url": "https://jobs.lever.co/deputy/94860757-3fc3-4206-9e00-a5ccf6d8a374",
+    "category": "Other Tech",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-09-23T04:35:53.532Z"
+  },
+  {
     "id": "lever:deputy:74a2c646-2eb9-4f05-9241-5b09bd20f6d5",
     "company": "Deputy",
     "title": "Staff Software Engineer, AI Scheduling",
@@ -240,17 +251,6 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-09-17T11:31:23.945Z"
-  },
-  {
-    "id": "gh:easygo:5215742007",
-    "company": "Easygo",
-    "title": "Senior Software Engineer (Front end) - Payments (Crypto & Fiat)",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5215742007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-09-14T19:48:32.439Z"
   },
   {
     "id": "gh:easygo:5230837007",
