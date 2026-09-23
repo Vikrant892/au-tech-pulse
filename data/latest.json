@@ -11,17 +11,6 @@
     "firstSeen": "2026-08-25T09:45:25.054Z"
   },
   {
-    "id": "gh:bugcrowd:8211988",
-    "company": "Bugcrowd",
-    "title": "Application Security Engineer",
-    "location": "Remote - Brazil",
-    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8211988?gh_jid=8211988",
-    "category": "Cyber Security",
-    "adelaide": false,
-    "remote": true,
-    "firstSeen": "2026-09-22T11:25:55.358Z"
-  },
-  {
     "id": "gh:bugcrowd:8157940",
     "company": "Bugcrowd",
     "title": "Application Security Engineer",
@@ -31,6 +20,17 @@
     "adelaide": false,
     "remote": true,
     "firstSeen": "2026-09-21T19:56:36.235Z"
+  },
+  {
+    "id": "gh:bugcrowd:8211988",
+    "company": "Bugcrowd",
+    "title": "Application Security Engineer",
+    "location": "Remote - Brazil",
+    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8211988?gh_jid=8211988",
+    "category": "Cyber Security",
+    "adelaide": false,
+    "remote": true,
+    "firstSeen": "2026-09-22T11:25:55.358Z"
   },
   {
     "id": "gh:cultureamp:8219709",
@@ -88,22 +88,22 @@
     "firstSeen": "2026-09-07T12:18:19.987Z"
   },
   {
-    "id": "gh:cultureamp:7994437",
+    "id": "gh:cultureamp:7994439",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Melbourne",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:cultureamp:7994439",
+    "id": "gh:cultureamp:7994437",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
+    "location": "Melbourne",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
@@ -165,28 +165,6 @@
     "firstSeen": "2026-07-30T08:43:14.526Z"
   },
   {
-    "id": "gh:easygo:5208919007",
-    "company": "Easygo",
-    "title": "Backend Engineer - Engine",
-    "location": "Melbourne, Victoria, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5208919007",
-    "category": "Cloud & DevOps",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-09-14T19:48:32.439Z"
-  },
-  {
-    "id": "gh:easygo:5191644007",
-    "company": "Easygo",
-    "title": "Senior Backend Engineer - Engine",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5191644007",
-    "category": "Cloud & DevOps",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-09-14T19:48:32.439Z"
-  },
-  {
     "id": "gh:easygo:5097649007",
     "company": "Easygo",
     "title": "Senior Data Analyst - Kick",
@@ -220,22 +198,22 @@
     "firstSeen": "2026-09-14T19:48:32.439Z"
   },
   {
-    "id": "gh:easygo:5186155007",
+    "id": "gh:easygo:4991302007",
     "company": "Easygo",
     "title": "Senior Software Engineer - Onboarding",
     "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5186155007",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/4991302007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-09-14T19:48:32.439Z"
   },
   {
-    "id": "gh:easygo:4991302007",
+    "id": "gh:easygo:5186155007",
     "company": "Easygo",
     "title": "Senior Software Engineer - Onboarding",
     "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/4991302007",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5186155007",
     "category": "Software Engineering",
     "adelaide": false,
     "remote": false,
@@ -262,6 +240,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-09-14T19:48:32.439Z"
+  },
+  {
+    "id": "gh:easygo:5194200007",
+    "company": "Easygo",
+    "title": "Software Engineering Manager - Wallet Tribe (Crypto & Fiat)",
+    "location": "Melbourne",
+    "url": "https://job-boards.greenhouse.io/easygo/jobs/5194200007",
+    "category": "Other Tech",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-09-23T11:23:29.447Z"
   },
   {
     "id": "gh:easygo:5153906007",

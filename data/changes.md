@@ -1,5 +1,11 @@
 # Change log
 
+## 2026-09-23T11:23:29.447Z
+
+- new: Software Engineering Manager - Wallet Tribe (Crypto & Fiat) at Easygo (Melbourne)
+- closed: Backend Engineer - Engine at Easygo
+- closed: Senior Backend Engineer - Engine at Easygo
+
 ## 2026-09-23T04:35:53.532Z
 
 - new: Lead QA Engineer (12 month contract) at Deputy (Sydney)
