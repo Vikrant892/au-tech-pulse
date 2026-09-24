@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-24T04:34:12.013Z
+
+- closed: Senior Frontend Engineer - KICK Creator Tools & Engagement at Easygo
+
 ## 2026-09-23T11:23:29.447Z
 
 - new: Software Engineering Manager - Wallet Tribe (Crypto & Fiat) at Easygo (Melbourne)
