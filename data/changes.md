@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-24T11:35:32.698Z
+
+- new: Senior Systems Engineer at Culture Amp (Melbourne)
+
 ## 2026-09-24T04:34:12.013Z
 
 - closed: Senior Frontend Engineer - KICK Creator Tools & Engagement at Easygo
