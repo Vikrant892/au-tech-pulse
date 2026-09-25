@@ -7,38 +7,38 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Fri, 25 Sept 2026, 02:14 pm (Adelaide time) · run #643
+**Last updated:** Fri, 25 Sept 2026, 09:12 pm (Adelaide time) · run #644
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **34** |
+| Open tech roles tracked | **33** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **3** |
-| Companies hiring | **9** |
+| Companies hiring | **8** |
 
 ## By field
 
 ```
-Data Engineering            4  ###########.................
-Machine Learning & AI       4  ###########.................
-Cyber Security              4  ###########.................
-Software Engineering       10  ############################
-Cloud & DevOps              4  ###########.................
-Other Tech                  8  ######################......
+Data Engineering            4  ############................
+Machine Learning & AI       4  ############................
+Cyber Security              4  ############................
+Software Engineering        9  ############################
+Cloud & DevOps              4  ############................
+Other Tech                  8  #########################...
 ```
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 34.
+Open roles tracked across the last 40 runs, oldest on the left. Now 33.
 
 ```
-38 │                        ██
-   │     ██████████████████████
-   │████████████████████████████
-   │████████████████████████████████
-   │███████████████████████████████████ ████
+38 │                       ██
+   │    ██████████████████████
+   │███████████████████████████
+   │███████████████████████████████
+   │██████████████████████████████████ ████
 33 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -54,8 +54,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 34.
 | 5 | Bugcrowd | 2 |
 | 6 | Immutable | 2 |
 | 7 | The Trade Desk | 2 |
-| 8 | Brighte | 1 |
-| 9 | Octopus Deploy | 1 |
+| 8 | Octopus Deploy | 1 |
 
 ## Newest roles
 
