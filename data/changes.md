@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-25T11:42:23.705Z
+
+- closed: Senior Full Stack Engineer at Brighte
+
 ## 2026-09-24T11:35:32.698Z
 
 - new: Senior Systems Engineer at Culture Amp (Melbourne)
