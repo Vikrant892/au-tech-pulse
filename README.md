@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Sat, 26 Sept 2026, 02:16 pm (Adelaide time) · run #647
+**Last updated:** Sat, 26 Sept 2026, 08:45 pm (Adelaide time) · run #648
 
 ## Right now
 
@@ -34,11 +34,11 @@ Other Tech                  8  #########################...
 Open roles tracked across the last 40 runs, oldest on the left. Now 33.
 
 ```
-38 │                    ██
-   │ ██████████████████████
-   │████████████████████████
-   │████████████████████████████
-   │███████████████████████████████ ████
+38 │                   ██
+   │██████████████████████
+   │███████████████████████
+   │███████████████████████████
+   │██████████████████████████████ ████
 33 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -70,8 +70,8 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 33.
 | [Senior Software Engineer (Backend)](https://job-boards.greenhouse.io/easygo/jobs/5239580007) | Easygo | Melbourne, Victoria | Software Engineering |
 | [Senior Data Analyst - Kick](https://job-boards.greenhouse.io/easygo/jobs/5097649007) | Easygo | Melbourne, Australia | Data Engineering |
 | [Senior Software Engineer - Engagement](https://job-boards.greenhouse.io/easygo/jobs/5123541007) | Easygo | Melbourne, Australia | Software Engineering |
-| [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/4991302007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/5186155007) | Easygo | Melbourne, Australia | Software Engineering |
+| [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/4991302007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer, Full-Stack (Sydney)](https://job-boards.greenhouse.io/easygo/jobs/5230837007) | Easygo | Sydney, Australia | Software Engineering |
 | [Staff Backend Software Engineer](https://job-boards.greenhouse.io/easygo/jobs/5153906007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Staff Software Engineer, (Full-Stack) - Engagement team](https://job-boards.greenhouse.io/easygo/jobs/5103198007) | Easygo | Melbourne, Australia | Software Engineering |
