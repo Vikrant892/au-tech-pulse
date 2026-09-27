@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-27T11:54:27.019Z
+
+- closed: Senior AI Product Engineer at Relevance AI
+
 ## 2026-09-25T11:42:23.705Z
 
 - closed: Senior Full Stack Engineer at Brighte

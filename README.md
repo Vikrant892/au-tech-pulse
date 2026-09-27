@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Sun, 27 Sept 2026, 02:38 pm (Adelaide time) · run #652
+**Last updated:** Sun, 27 Sept 2026, 09:24 pm (Adelaide time) · run #653
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **33** |
+| Open tech roles tracked | **32** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **3** |
 | Companies hiring | **8** |
@@ -26,20 +26,20 @@ Machine Learning & AI       4  ############................
 Cyber Security              4  ############................
 Software Engineering        9  ############################
 Cloud & DevOps              4  ############................
-Other Tech                  8  #########################...
+Other Tech                  7  ######################......
 ```
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 33.
+Open roles tracked across the last 40 runs, oldest on the left. Now 32.
 
 ```
-38 │               ██
-   │██████████████████
-   │███████████████████
-   │███████████████████████
-   │██████████████████████████ ████
-33 │████████████████████████████████████████
+38 │              ██
+   │█████████████████
+   │██████████████████████
+   │█████████████████████████ ████
+   │███████████████████████████████████████
+32 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
 
@@ -49,8 +49,8 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 33.
 | --- | --- | --- |
 | 1 | Culture Amp | 10 |
 | 2 | Easygo | 9 |
-| 3 | Relevance AI | 4 |
-| 4 | Deputy | 3 |
+| 3 | Deputy | 3 |
+| 4 | Relevance AI | 3 |
 | 5 | Bugcrowd | 2 |
 | 6 | Immutable | 2 |
 | 7 | The Trade Desk | 2 |
