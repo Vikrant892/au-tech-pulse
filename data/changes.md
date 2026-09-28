@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-28T05:11:53.401Z
+
+- new: Senior Backend Engineer - Engine at Easygo (Melbourne, Australia)
+
 ## 2026-09-27T11:54:27.019Z
 
 - closed: Senior AI Product Engineer at Relevance AI
