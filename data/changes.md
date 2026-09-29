@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-09-29T05:34:08.497Z
+
+- closed: Sr Incident Response Engineer at The Trade Desk
+
 ## 2026-09-28T05:11:53.401Z
 
 - new: Senior Backend Engineer - Engine at Easygo (Melbourne, Australia)
