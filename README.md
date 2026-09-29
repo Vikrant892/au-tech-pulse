@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Tue, 29 Sept 2026, 06:41 am (Adelaide time) · run #658
+**Last updated:** Tue, 29 Sept 2026, 03:04 pm (Adelaide time) · run #659
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **33** |
+| Open tech roles tracked | **32** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **3** |
 | Companies hiring | **8** |
@@ -23,7 +23,7 @@ touching a keyboard.
 ```
 Data Engineering            4  ############................
 Machine Learning & AI       4  ############................
-Cyber Security              4  ############................
+Cyber Security              3  #########...................
 Software Engineering        9  ############################
 Cloud & DevOps              5  ################............
 Other Tech                  7  ######################......
@@ -31,14 +31,14 @@ Other Tech                  7  ######################......
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 33.
+Open roles tracked across the last 40 runs, oldest on the left. Now 32.
 
 ```
-38 │         ██
-   │████████████
-   │█████████████████
-   │████████████████████ ████
-   │██████████████████████████████████   ███
+38 │        ██
+   │███████████
+   │████████████████
+   │███████████████████ ████
+   │█████████████████████████████████   ███
 32 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -53,8 +53,8 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 33.
 | 4 | Relevance AI | 3 |
 | 5 | Bugcrowd | 2 |
 | 6 | Immutable | 2 |
-| 7 | The Trade Desk | 2 |
-| 8 | Octopus Deploy | 1 |
+| 7 | Octopus Deploy | 1 |
+| 8 | The Trade Desk | 1 |
 
 ## Newest roles
 
@@ -71,8 +71,8 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 33.
 | [Senior Software Engineer (Backend)](https://job-boards.greenhouse.io/easygo/jobs/5239580007) | Easygo | Melbourne, Victoria | Software Engineering |
 | [Senior Data Analyst - Kick](https://job-boards.greenhouse.io/easygo/jobs/5097649007) | Easygo | Melbourne, Australia | Data Engineering |
 | [Senior Software Engineer - Engagement](https://job-boards.greenhouse.io/easygo/jobs/5123541007) | Easygo | Melbourne, Australia | Software Engineering |
-| [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/5186155007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/4991302007) | Easygo | Melbourne, Australia | Software Engineering |
+| [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/5186155007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer, Full-Stack (Sydney)](https://job-boards.greenhouse.io/easygo/jobs/5230837007) | Easygo | Sydney, Australia | Software Engineering |
 | [Staff Backend Software Engineer](https://job-boards.greenhouse.io/easygo/jobs/5153906007) | Easygo | Melbourne, Australia | Software Engineering |
 
