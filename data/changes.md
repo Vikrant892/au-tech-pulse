@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-09-30T09:34:41.967Z
+
+- closed: Staff Software Engineer, AI Scheduling at Deputy
+- closed: Staff Backend Software Engineer at Easygo
+
 ## 2026-09-29T05:34:08.497Z
 
 - closed: Sr Incident Response Engineer at The Trade Desk
