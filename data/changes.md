@@ -1,5 +1,13 @@
 # Change log
 
+## 2026-10-01T05:38:10.726Z
+
+- new: Software Engineer - 12 Month Fixed Term Contract at Deputy (Sydney)
+- closed: Salesforce Developer at Culture Amp
+- closed: Staff AI Application Security Engineer at Relevance AI
+- closed: Staff AI Platform Engineer at Relevance AI
+- closed: Staff AI Product Engineer at Relevance AI
+
 ## 2026-09-30T09:34:41.967Z
 
 - closed: Staff Software Engineer, AI Scheduling at Deputy
