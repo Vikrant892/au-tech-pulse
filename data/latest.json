@@ -1,16 +1,5 @@
 [
   {
-    "id": "gh:bugcrowd:8211988",
-    "company": "Bugcrowd",
-    "title": "Application Security Engineer",
-    "location": "Remote - Brazil",
-    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8211988?gh_jid=8211988",
-    "category": "Cyber Security",
-    "adelaide": false,
-    "remote": true,
-    "firstSeen": "2026-09-22T11:25:55.358Z"
-  },
-  {
     "id": "gh:bugcrowd:8157940",
     "company": "Bugcrowd",
     "title": "Application Security Engineer",
@@ -20,6 +9,17 @@
     "adelaide": false,
     "remote": true,
     "firstSeen": "2026-09-21T19:56:36.235Z"
+  },
+  {
+    "id": "gh:bugcrowd:8211988",
+    "company": "Bugcrowd",
+    "title": "Application Security Engineer",
+    "location": "Remote - Brazil",
+    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8211988?gh_jid=8211988",
+    "category": "Cyber Security",
+    "adelaide": false,
+    "remote": true,
+    "firstSeen": "2026-09-22T11:25:55.358Z"
   },
   {
     "id": "gh:cultureamp:8219709",
@@ -77,22 +77,22 @@
     "firstSeen": "2026-09-24T11:35:32.698Z"
   },
   {
-    "id": "gh:cultureamp:7994437",
+    "id": "gh:cultureamp:7994439",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Melbourne",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:cultureamp:7994439",
+    "id": "gh:cultureamp:7994437",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
+    "location": "Melbourne",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
