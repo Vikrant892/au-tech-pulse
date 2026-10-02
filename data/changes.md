@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-10-02T09:37:50.935Z
+
+- closed: Staff Platform Engineer at Culture Amp
+- closed: Lead QA Engineer (12 month contract) at Deputy
+
 ## 2026-10-01T05:38:10.726Z
 
 - new: Software Engineer - 12 Month Fixed Term Contract at Deputy (Sydney)
