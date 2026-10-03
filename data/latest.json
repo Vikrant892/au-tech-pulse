@@ -1,16 +1,5 @@
 [
   {
-    "id": "gh:bugcrowd:8157940",
-    "company": "Bugcrowd",
-    "title": "Application Security Engineer",
-    "location": "Remote - Brazil",
-    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8157940?gh_jid=8157940",
-    "category": "Cyber Security",
-    "adelaide": false,
-    "remote": true,
-    "firstSeen": "2026-09-21T19:56:36.235Z"
-  },
-  {
     "id": "gh:bugcrowd:8211988",
     "company": "Bugcrowd",
     "title": "Application Security Engineer",
@@ -20,6 +9,17 @@
     "adelaide": false,
     "remote": true,
     "firstSeen": "2026-09-22T11:25:55.358Z"
+  },
+  {
+    "id": "gh:bugcrowd:8157940",
+    "company": "Bugcrowd",
+    "title": "Application Security Engineer",
+    "location": "Remote - Brazil",
+    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8157940?gh_jid=8157940",
+    "category": "Cyber Security",
+    "adelaide": false,
+    "remote": true,
+    "firstSeen": "2026-09-21T19:56:36.235Z"
   },
   {
     "id": "gh:cultureamp:8219709",
