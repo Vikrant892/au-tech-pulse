@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Mon, 05 Oct 2026, 05:06 am (Adelaide time) · run #680
+**Last updated:** Mon, 05 Oct 2026, 10:25 am (Adelaide time) · run #681
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **25** |
+| Open tech roles tracked | **26** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **3** |
 | Companies hiring | **7** |
@@ -21,24 +21,24 @@ touching a keyboard.
 ## By field
 
 ```
-Data Engineering            4  ################............
-Machine Learning & AI       4  ################............
-Cyber Security              2  ########....................
-Software Engineering        7  ############################
-Cloud & DevOps              3  ############................
-Other Tech                  5  ####################........
+Data Engineering            4  ##############..............
+Machine Learning & AI       4  ##############..............
+Cyber Security              2  #######.....................
+Software Engineering        8  ############################
+Cloud & DevOps              3  ###########.................
+Other Tech                  5  ##################..........
 ```
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 25.
+Open roles tracked across the last 40 runs, oldest on the left. Now 26.
 
 ```
-34 │███
-   │██████████████████████
-   │█████████████████████████
-   │█████████████████████████
-   │█████████████████████████████
+34 │██
+   │█████████████████████
+   │████████████████████████
+   │████████████████████████
+   │████████████████████████████           █
 25 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -47,7 +47,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 25.
 
 | # | Company | Open tech roles |
 | --- | --- | --- |
-| 1 | Easygo | 9 |
+| 1 | Easygo | 10 |
 | 2 | Culture Amp | 8 |
 | 3 | Bugcrowd | 2 |
 | 4 | Deputy | 2 |
@@ -59,6 +59,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 25.
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [Staff Backend Software Engineer](https://job-boards.greenhouse.io/easygo/jobs/5153906007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Software Engineer - 12 Month Fixed Term Contract](https://jobs.lever.co/deputy/b2e9023a-e9f1-4a54-9f01-17c13290b4b8) | Deputy | Sydney | Software Engineering |
 | [Senior Backend Engineer - Engine](https://job-boards.greenhouse.io/easygo/jobs/5191644007) | Easygo | Melbourne, Australia | Cloud & DevOps |
 | [Senior Systems Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8229754) | Culture Amp | Melbourne | Other Tech |
@@ -73,7 +74,6 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 25.
 | [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/4991302007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/5186155007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer, Full-Stack (Sydney)](https://job-boards.greenhouse.io/easygo/jobs/5230837007) | Easygo | Sydney, Australia | Software Engineering |
-| [Staff Software Engineer, (Full-Stack) - Engagement team](https://job-boards.greenhouse.io/easygo/jobs/5103198007) | Easygo | Melbourne, Australia | Software Engineering |
 
 ## How it works
 
