@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-04T23:55:16.794Z
+
+- new: Staff Backend Software Engineer at Easygo (Melbourne, Australia)
+
 ## 2026-10-02T09:37:50.935Z
 
 - closed: Staff Platform Engineer at Culture Amp
