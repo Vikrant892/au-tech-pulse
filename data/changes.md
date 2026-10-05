@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-05T05:24:07.538Z
+
+- closed: Senior Data Analyst - Kick at Easygo
+
 ## 2026-10-04T23:55:16.794Z
 
 - new: Staff Backend Software Engineer at Easygo (Melbourne, Australia)
