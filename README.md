@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Tue, 06 Oct 2026, 08:27 am (Adelaide time) · run #684
+**Last updated:** Tue, 06 Oct 2026, 04:38 pm (Adelaide time) · run #685
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **25** |
+| Open tech roles tracked | **24** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **3** |
 | Companies hiring | **7** |
@@ -21,7 +21,7 @@ touching a keyboard.
 ## By field
 
 ```
-Data Engineering            3  ###########.................
+Data Engineering            2  #######.....................
 Machine Learning & AI       4  ##############..............
 Cyber Security              2  #######.....................
 Software Engineering        8  ############################
@@ -31,15 +31,15 @@ Other Tech                  5  ##################..........
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 25.
+Open roles tracked across the last 40 runs, oldest on the left. Now 24.
 
 ```
-33 │████████   ███
-   │██████████████████
-   │█████████████████████
-   │█████████████████████
-   │█████████████████████████           █
-25 │████████████████████████████████████████
+33 │███████   ███
+   │█████████████████
+   │████████████████████
+   │████████████████████████
+   │███████████████████████████████████████
+24 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
 
@@ -51,7 +51,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 25.
 | 2 | Culture Amp | 8 |
 | 3 | Bugcrowd | 2 |
 | 4 | Deputy | 2 |
-| 5 | Immutable | 2 |
+| 5 | Immutable | 1 |
 | 6 | Octopus Deploy | 1 |
 | 7 | The Trade Desk | 1 |
 

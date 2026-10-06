@@ -231,17 +231,6 @@
     "firstSeen": "2026-09-14T19:48:32.439Z"
   },
   {
-    "id": "lever:immutable:a3e009ba-350d-499c-b923-9e90c057df08",
-    "company": "Immutable",
-    "title": "Lead Data Engineer",
-    "location": "Sydney",
-    "url": "https://jobs.lever.co/immutable/a3e009ba-350d-499c-b923-9e90c057df08",
-    "category": "Data Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-08-28T15:15:14.305Z"
-  },
-  {
     "id": "lever:immutable:fcd9fcb4-e568-4a40-a67e-fd57442171de",
     "company": "Immutable",
     "title": "Senior Platform Engineer",
