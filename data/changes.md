@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-06T06:08:58.956Z
+
+- closed: Lead Data Engineer at Immutable
+
 ## 2026-10-05T05:24:07.538Z
 
 - closed: Senior Data Analyst - Kick at Easygo
