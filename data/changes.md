@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-06T15:50:32.656Z
+
+- closed: Application Security Engineer at Bugcrowd
+
 ## 2026-10-06T06:08:58.956Z
 
 - closed: Lead Data Engineer at Immutable

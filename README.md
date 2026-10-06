@@ -7,15 +7,15 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Tue, 06 Oct 2026, 04:38 pm (Adelaide time) · run #685
+**Last updated:** Wed, 07 Oct 2026, 02:20 am (Adelaide time) · run #686
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **24** |
+| Open tech roles tracked | **23** |
 | Located in Adelaide or South Australia | **0** |
-| Open to remote within Australia | **3** |
+| Open to remote within Australia | **2** |
 | Companies hiring | **7** |
 
 ## By field
@@ -23,7 +23,7 @@ touching a keyboard.
 ```
 Data Engineering            2  #######.....................
 Machine Learning & AI       4  ##############..............
-Cyber Security              2  #######.....................
+Cyber Security              1  ####........................
 Software Engineering        8  ############################
 Cloud & DevOps              3  ###########.................
 Other Tech                  5  ##################..........
@@ -31,15 +31,15 @@ Other Tech                  5  ##################..........
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 24.
+Open roles tracked across the last 40 runs, oldest on the left. Now 23.
 
 ```
-33 │███████   ███
-   │█████████████████
-   │████████████████████
-   │████████████████████████
+33 │████████████████
+   │███████████████████
+   │███████████████████
+   │███████████████████████           █
    │███████████████████████████████████████
-24 │████████████████████████████████████████
+23 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
 
@@ -49,8 +49,8 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 24.
 | --- | --- | --- |
 | 1 | Easygo | 9 |
 | 2 | Culture Amp | 8 |
-| 3 | Bugcrowd | 2 |
-| 4 | Deputy | 2 |
+| 3 | Deputy | 2 |
+| 4 | Bugcrowd | 1 |
 | 5 | Immutable | 1 |
 | 6 | Octopus Deploy | 1 |
 | 7 | The Trade Desk | 1 |
@@ -65,7 +65,6 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 24.
 | [Senior Systems Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8229754) | Culture Amp | Melbourne | Other Tech |
 | [Software Engineering Manager - Wallet Tribe (Crypto & Fiat)](https://job-boards.greenhouse.io/easygo/jobs/5194200007) | Easygo | Melbourne | Other Tech |
 | [Application Security Engineer](https://boards.greenhouse.io/bugcrowd/jobs/8211988?gh_jid=8211988) | Bugcrowd | Remote - Brazil | Cyber Security |
-| [Application Security Engineer](https://boards.greenhouse.io/bugcrowd/jobs/8157940?gh_jid=8157940) | Bugcrowd | Remote - Brazil | Cyber Security |
 | [Staff Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8220056) | Culture Amp | Melbourne | Other Tech |
 | [Associate Site Reliability Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8219709) | Culture Amp | Melbourne | Cloud & DevOps |
 | [Senior Software Engineer (Backend)](https://job-boards.greenhouse.io/easygo/jobs/5239580007) | Easygo | Melbourne, Victoria | Software Engineering |
@@ -74,6 +73,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 24.
 | [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/5186155007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer, Full-Stack (Sydney)](https://job-boards.greenhouse.io/easygo/jobs/5230837007) | Easygo | Sydney, Australia | Software Engineering |
 | [Staff Software Engineer, (Full-Stack) - Engagement team](https://job-boards.greenhouse.io/easygo/jobs/5103198007) | Easygo | Melbourne, Australia | Software Engineering |
+| [Senior Applied AI Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8184634) | Culture Amp | Sydney | Machine Learning & AI |
 
 ## How it works
 
