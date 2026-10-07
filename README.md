@@ -7,21 +7,21 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Wed, 07 Oct 2026, 09:05 am (Adelaide time) · run #687
+**Last updated:** Wed, 07 Oct 2026, 04:13 pm (Adelaide time) · run #688
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **23** |
+| Open tech roles tracked | **22** |
 | Located in Adelaide or South Australia | **0** |
-| Open to remote within Australia | **2** |
-| Companies hiring | **7** |
+| Open to remote within Australia | **1** |
+| Companies hiring | **6** |
 
 ## By field
 
 ```
-Data Engineering            2  #######.....................
+Data Engineering            1  ####........................
 Machine Learning & AI       4  ##############..............
 Cyber Security              1  ####........................
 Software Engineering        8  ############################
@@ -31,15 +31,15 @@ Other Tech                  5  ##################..........
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 23.
+Open roles tracked across the last 40 runs, oldest on the left. Now 22.
 
 ```
-33 │███████████████
-   │██████████████████
-   │██████████████████
-   │██████████████████████           █
-   │██████████████████████████████████████
-23 │████████████████████████████████████████
+33 │██████████████
+   │█████████████████
+   │█████████████████
+   │█████████████████████           █
+   │█████████████████████████████████████
+22 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
 
@@ -47,19 +47,18 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 23.
 
 | # | Company | Open tech roles |
 | --- | --- | --- |
-| 1 | Easygo | 9 |
-| 2 | Culture Amp | 8 |
+| 1 | Culture Amp | 8 |
+| 2 | Easygo | 8 |
 | 3 | Deputy | 2 |
-| 4 | Bugcrowd | 1 |
-| 5 | Immutable | 1 |
-| 6 | Octopus Deploy | 1 |
-| 7 | The Trade Desk | 1 |
+| 4 | Immutable | 2 |
+| 5 | Bugcrowd | 1 |
+| 6 | The Trade Desk | 1 |
 
 ## Newest roles
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
-| [Staff Backend Software Engineer](https://job-boards.greenhouse.io/easygo/jobs/5153906007) | Easygo | Melbourne, Australia | Software Engineering |
+| [Software Engineer](https://jobs.lever.co/immutable/0279e748-a186-4254-bf9b-349edcc850b8) | Immutable | Sydney | Software Engineering |
 | [Software Engineer - 12 Month Fixed Term Contract](https://jobs.lever.co/deputy/b2e9023a-e9f1-4a54-9f01-17c13290b4b8) | Deputy | Sydney | Software Engineering |
 | [Senior Backend Engineer - Engine](https://job-boards.greenhouse.io/easygo/jobs/5191644007) | Easygo | Melbourne, Australia | Cloud & DevOps |
 | [Senior Systems Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8229754) | Culture Amp | Melbourne | Other Tech |

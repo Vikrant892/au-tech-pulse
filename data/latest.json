@@ -66,22 +66,22 @@
     "firstSeen": "2026-09-24T11:35:32.698Z"
   },
   {
-    "id": "gh:cultureamp:7994439",
+    "id": "gh:cultureamp:7994437",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
+    "location": "Melbourne",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-06-10T04:52:13.396Z"
   },
   {
-    "id": "gh:cultureamp:7994437",
+    "id": "gh:cultureamp:7994439",
     "company": "Culture Amp",
     "title": "Staff Applied AI Scientist",
-    "location": "Melbourne",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994437",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
     "category": "Machine Learning & AI",
     "adelaide": false,
     "remote": false,
@@ -198,17 +198,6 @@
     "firstSeen": "2026-09-23T11:23:29.447Z"
   },
   {
-    "id": "gh:easygo:5153906007",
-    "company": "Easygo",
-    "title": "Staff Backend Software Engineer",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5153906007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-10-04T23:55:16.794Z"
-  },
-  {
     "id": "gh:easygo:5103198007",
     "company": "Easygo",
     "title": "Staff Software Engineer, (Full-Stack) - Engagement team",
@@ -231,15 +220,15 @@
     "firstSeen": "2026-08-03T10:02:02.420Z"
   },
   {
-    "id": "gh:octopusdeploy:4005762201",
-    "company": "Octopus Deploy",
-    "title": "Senior Data Engineer",
-    "location": "Australia/New Zealand",
-    "url": "https://job-boards.anz.greenhouse.io/octopusdeploy/jobs/4005762201",
-    "category": "Data Engineering",
+    "id": "lever:immutable:0279e748-a186-4254-bf9b-349edcc850b8",
+    "company": "Immutable",
+    "title": "Software Engineer",
+    "location": "Sydney",
+    "url": "https://jobs.lever.co/immutable/0279e748-a186-4254-bf9b-349edcc850b8",
+    "category": "Software Engineering",
     "adelaide": false,
-    "remote": true,
-    "firstSeen": "2026-08-18T06:57:53.046Z"
+    "remote": false,
+    "firstSeen": "2026-10-07T05:43:47.942Z"
   },
   {
     "id": "gh:thetradedesk:5090393007",
