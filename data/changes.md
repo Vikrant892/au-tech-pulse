@@ -1,5 +1,11 @@
 # Change log
 
+## 2026-10-07T05:43:47.942Z
+
+- new: Software Engineer at Immutable (Sydney)
+- closed: Staff Backend Software Engineer at Easygo
+- closed: Senior Data Engineer at Octopus Deploy
+
 ## 2026-10-06T15:50:32.656Z
 
 - closed: Application Security Engineer at Bugcrowd
