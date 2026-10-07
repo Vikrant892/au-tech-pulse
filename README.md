@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Wed, 07 Oct 2026, 04:13 pm (Adelaide time) · run #688
+**Last updated:** Wed, 07 Oct 2026, 11:40 pm (Adelaide time) · run #689
 
 ## Right now
 
@@ -34,11 +34,11 @@ Other Tech                  5  ##################..........
 Open roles tracked across the last 40 runs, oldest on the left. Now 22.
 
 ```
-33 │██████████████
-   │█████████████████
-   │█████████████████
-   │█████████████████████           █
-   │█████████████████████████████████████
+33 │█████████████
+   │████████████████
+   │████████████████
+   │████████████████████           █
+   │████████████████████████████████████
 22 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
