@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-08T00:55:17.674Z
+
+- closed: Senior Software Engineer - Onboarding at Easygo
+
 ## 2026-10-07T05:43:47.942Z
 
 - new: Software Engineer at Immutable (Sydney)
