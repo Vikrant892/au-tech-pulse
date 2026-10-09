@@ -7,16 +7,16 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Fri, 09 Oct 2026, 11:39 am (Adelaide time) · run #694
+**Last updated:** Fri, 09 Oct 2026, 08:52 pm (Adelaide time) · run #695
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **21** |
+| Open tech roles tracked | **22** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **1** |
-| Companies hiring | **6** |
+| Companies hiring | **7** |
 
 ## By field
 
@@ -25,20 +25,20 @@ Data Engineering            1  ####........................
 Machine Learning & AI       4  ################............
 Cyber Security              1  ####........................
 Software Engineering        7  ############################
-Cloud & DevOps              3  ############................
+Cloud & DevOps              4  ################............
 Other Tech                  5  ####################........
 ```
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 21.
+Open roles tracked across the last 40 runs, oldest on the left. Now 22.
 
 ```
-33 │████████
-   │███████████
-   │███████████████
-   │██████████████████████████████
-   │█████████████████████████████████
+33 │███████
+   │██████████
+   │██████████████
+   │█████████████████████████████
+   │████████████████████████████████
 21 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -52,12 +52,14 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 21.
 | 3 | Deputy | 3 |
 | 4 | Immutable | 2 |
 | 5 | Bugcrowd | 1 |
-| 6 | The Trade Desk | 1 |
+| 6 | Relevance AI | 1 |
+| 7 | The Trade Desk | 1 |
 
 ## Newest roles
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [Senior AI Platform Engineer](https://jobs.ashbyhq.com/relevanceai/cfc7da1e-7e0a-488a-a39c-26536baeefba) | Relevance AI | Sydney, Australia | Cloud & DevOps |
 | [Senior Software Engineer, AI Scheduling](https://jobs.lever.co/deputy/3b74806c-695c-492f-a0ef-ea332dc8bb41) | Deputy | Sydney | Software Engineering |
 | [Software Engineer](https://jobs.lever.co/immutable/0279e748-a186-4254-bf9b-349edcc850b8) | Immutable | Sydney | Software Engineering |
 | [Software Engineer - 12 Month Fixed Term Contract](https://jobs.lever.co/deputy/b2e9023a-e9f1-4a54-9f01-17c13290b4b8) | Deputy | Sydney | Software Engineering |
@@ -72,7 +74,6 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 21.
 | [Senior Software Engineer, Full-Stack (Sydney)](https://job-boards.greenhouse.io/easygo/jobs/5230837007) | Easygo | Sydney, Australia | Software Engineering |
 | [Staff Software Engineer, (Full-Stack) - Engagement team](https://job-boards.greenhouse.io/easygo/jobs/5103198007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Applied AI Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8184634) | Culture Amp | Sydney | Machine Learning & AI |
-| [Identity & Access Management Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8152197) | Culture Amp | Melbourne | Other Tech |
 
 ## How it works
 

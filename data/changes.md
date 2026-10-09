@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-09T10:22:30.165Z
+
+- new: Senior AI Platform Engineer at Relevance AI (Sydney, Australia)
+
 ## 2026-10-09T01:09:26.030Z
 
 - new: Senior Software Engineer, AI Scheduling at Deputy (Sydney)
