@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-10-09T01:09:26.030Z
+
+- new: Senior Software Engineer, AI Scheduling at Deputy (Sydney)
+- closed: Senior Software Engineer - Onboarding at Easygo
+
 ## 2026-10-08T00:55:17.674Z
 
 - closed: Senior Software Engineer - Onboarding at Easygo

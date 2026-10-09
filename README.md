@@ -7,7 +7,7 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Fri, 09 Oct 2026, 05:17 am (Adelaide time) · run #693
+**Last updated:** Fri, 09 Oct 2026, 11:39 am (Adelaide time) · run #694
 
 ## Right now
 
@@ -34,11 +34,11 @@ Other Tech                  5  ####################........
 Open roles tracked across the last 40 runs, oldest on the left. Now 21.
 
 ```
-33 │█████████
-   │████████████
-   │████████████████
-   │███████████████████████████████
-   │██████████████████████████████████
+33 │████████
+   │███████████
+   │███████████████
+   │██████████████████████████████
+   │█████████████████████████████████
 21 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -48,8 +48,8 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 21.
 | # | Company | Open tech roles |
 | --- | --- | --- |
 | 1 | Culture Amp | 8 |
-| 2 | Easygo | 7 |
-| 3 | Deputy | 2 |
+| 2 | Easygo | 6 |
+| 3 | Deputy | 3 |
 | 4 | Immutable | 2 |
 | 5 | Bugcrowd | 1 |
 | 6 | The Trade Desk | 1 |
@@ -58,6 +58,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 21.
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [Senior Software Engineer, AI Scheduling](https://jobs.lever.co/deputy/3b74806c-695c-492f-a0ef-ea332dc8bb41) | Deputy | Sydney | Software Engineering |
 | [Software Engineer](https://jobs.lever.co/immutable/0279e748-a186-4254-bf9b-349edcc850b8) | Immutable | Sydney | Software Engineering |
 | [Software Engineer - 12 Month Fixed Term Contract](https://jobs.lever.co/deputy/b2e9023a-e9f1-4a54-9f01-17c13290b4b8) | Deputy | Sydney | Software Engineering |
 | [Senior Backend Engineer - Engine](https://job-boards.greenhouse.io/easygo/jobs/5191644007) | Easygo | Melbourne, Australia | Cloud & DevOps |
@@ -68,7 +69,6 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 21.
 | [Associate Site Reliability Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8219709) | Culture Amp | Melbourne | Cloud & DevOps |
 | [Senior Software Engineer (Backend)](https://job-boards.greenhouse.io/easygo/jobs/5239580007) | Easygo | Melbourne, Victoria | Software Engineering |
 | [Senior Software Engineer - Engagement](https://job-boards.greenhouse.io/easygo/jobs/5123541007) | Easygo | Melbourne, Australia | Software Engineering |
-| [Senior Software Engineer - Onboarding](https://job-boards.greenhouse.io/easygo/jobs/5186155007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Software Engineer, Full-Stack (Sydney)](https://job-boards.greenhouse.io/easygo/jobs/5230837007) | Easygo | Sydney, Australia | Software Engineering |
 | [Staff Software Engineer, (Full-Stack) - Engagement team](https://job-boards.greenhouse.io/easygo/jobs/5103198007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Applied AI Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8184634) | Culture Amp | Sydney | Machine Learning & AI |
