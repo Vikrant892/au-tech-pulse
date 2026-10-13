@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Tue, 13 Oct 2026, 07:42 am (Adelaide time) · run #706
+**Last updated:** Tue, 13 Oct 2026, 05:09 pm (Adelaide time) · run #707
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **22** |
+| Open tech roles tracked | **20** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **1** |
 | Companies hiring | **7** |
@@ -22,7 +22,7 @@ touching a keyboard.
 
 ```
 Data Engineering            1  ####........................
-Machine Learning & AI       4  ################............
+Machine Learning & AI       2  ########....................
 Cyber Security              1  ####........................
 Software Engineering        7  ############################
 Cloud & DevOps              4  ################............
@@ -31,15 +31,15 @@ Other Tech                  5  ####################........
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 22.
+Open roles tracked across the last 40 runs, oldest on the left. Now 20.
 
 ```
-27 │███
-   │███           █
-   │███████████████████
-   │█████████████████████
-   │████████████████████████    ████████████
-21 │████████████████████████████████████████
+27 │██
+   │█████████████████
+   │██████████████████
+   │████████████████████
+   │███████████████████████████████████████
+20 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
 
@@ -47,7 +47,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 22.
 
 | # | Company | Open tech roles |
 | --- | --- | --- |
-| 1 | Culture Amp | 8 |
+| 1 | Culture Amp | 6 |
 | 2 | Easygo | 6 |
 | 3 | Deputy | 3 |
 | 4 | Immutable | 2 |

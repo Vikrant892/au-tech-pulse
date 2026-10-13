@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-10-13T06:39:39.171Z
+
+- closed: Staff Applied AI Scientist at Culture Amp
+- closed: Staff Applied AI Scientist at Culture Amp
+
 ## 2026-10-09T10:22:30.165Z
 
 - new: Senior AI Platform Engineer at Relevance AI (Sydney, Australia)
