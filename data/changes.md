@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-14T17:01:44.582Z
+
+- new: Product Security Engineer at Bugcrowd (Remote - Costa Rica)
+
 ## 2026-10-13T06:39:39.171Z
 
 - closed: Staff Applied AI Scientist at Culture Amp
