@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-16T04:19:13.912Z
+
+- closed: Senior Software Engineer (Backend) at Easygo
+
 ## 2026-10-14T17:01:44.582Z
 
 - new: Product Security Engineer at Bugcrowd (Remote - Costa Rica)
