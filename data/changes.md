@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-10-20T23:46:39.229Z
+
+- closed: Senior Applied AI Engineer at Culture Amp
+- closed: Senior Applied AI Engineer at Culture Amp
+
 ## 2026-10-20T08:24:42.686Z
 
 - closed: Associate Site Reliability Engineer at Culture Amp
