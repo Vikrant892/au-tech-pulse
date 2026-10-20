@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-20T00:13:06.471Z
+
+- closed: Senior Software Engineer, Full-Stack (Sydney) at Easygo
+
 ## 2026-10-16T04:19:13.912Z
 
 - closed: Senior Software Engineer (Backend) at Easygo
