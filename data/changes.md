@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-10-20T08:24:42.686Z
+
+- closed: Associate Site Reliability Engineer at Culture Amp
+- closed: Identity & Access Management Engineer at Culture Amp
+
 ## 2026-10-20T00:13:06.471Z
 
 - closed: Senior Software Engineer, Full-Stack (Sydney) at Easygo
