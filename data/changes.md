@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-22T17:03:05.636Z
+
+- closed: Application Security Engineer at Bugcrowd
+
 ## 2026-10-22T04:28:41.390Z
 
 - new: Senior Software Engineer (React-Native, Mobile) at Easygo (Melbourne, Victoria)
