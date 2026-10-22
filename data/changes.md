@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-22T04:28:41.390Z
+
+- new: Senior Software Engineer (React-Native, Mobile) at Easygo (Melbourne, Victoria)
+
 ## 2026-10-20T23:46:39.229Z
 
 - closed: Senior Applied AI Engineer at Culture Amp
