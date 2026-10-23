@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-23T04:34:02.696Z
+
+- new: Senior Security Engineer (Product Security) at Immutable (Sydney)
+
 ## 2026-10-22T17:03:05.636Z
 
 - closed: Application Security Engineer at Bugcrowd
