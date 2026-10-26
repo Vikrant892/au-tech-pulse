@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-26T04:31:15.289Z
+
+- new: Identity Engineer at Easygo (Melbourne, Australia)
+
 ## 2026-10-23T04:34:02.696Z
 
 - new: Senior Security Engineer (Product Security) at Immutable (Sydney)
