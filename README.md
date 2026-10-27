@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Tue, 27 Oct 2026, 10:50 am (Adelaide time) · run #766
+**Last updated:** Tue, 27 Oct 2026, 07:21 pm (Adelaide time) · run #767
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **17** |
+| Open tech roles tracked | **16** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **1** |
 | Companies hiring | **7** |
@@ -21,24 +21,24 @@ touching a keyboard.
 ## By field
 
 ```
-Data Engineering            1  #####.......................
+Data Engineering            1  ######......................
 Machine Learning & AI       0  ............................
-Cyber Security              2  #########...................
-Software Engineering        6  ############################
-Cloud & DevOps              3  ##############..............
-Other Tech                  5  #######################.....
+Cyber Security              2  ###########.................
+Software Engineering        5  ############################
+Cloud & DevOps              3  #################...........
+Other Tech                  5  ############################
 ```
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 17.
+Open roles tracked across the last 40 runs, oldest on the left. Now 16.
 
 ```
-20 │█████████
-   │██████████
-   │██████████
-   │█████████████                       ████
-   │█████████████     ██  ██████████████████
+20 │████████
+   │█████████
+   │█████████
+   │████████████                       ████
+   │████████████     ██  ███████████████████
 15 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -47,7 +47,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 17.
 
 | # | Company | Open tech roles |
 | --- | --- | --- |
-| 1 | Easygo | 6 |
+| 1 | Easygo | 5 |
 | 2 | Deputy | 3 |
 | 3 | Immutable | 3 |
 | 4 | Culture Amp | 2 |
@@ -72,8 +72,8 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 17.
 | [Software Engineering Manager - Wallet Tribe (Crypto & Fiat)](https://job-boards.greenhouse.io/easygo/jobs/5194200007) | Easygo | Melbourne | Other Tech |
 | [Staff Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8220056) | Culture Amp | Melbourne | Other Tech |
 | [Senior Software Engineer - Engagement](https://job-boards.greenhouse.io/easygo/jobs/5123541007) | Easygo | Melbourne, Australia | Software Engineering |
-| [Staff Software Engineer, (Full-Stack) - Engagement team](https://job-boards.greenhouse.io/easygo/jobs/5103198007) | Easygo | Melbourne, Australia | Software Engineering |
 | [Senior Platform Engineer](https://jobs.lever.co/immutable/fcd9fcb4-e568-4a40-a67e-fd57442171de) | Immutable | Sydney | Data Engineering |
+| [Technical Support Engineer - Tier 3](https://jobs.lever.co/deputy/f22f8969-4a6d-44cc-95fb-a2f205264a10) | Deputy | Sydney | Other Tech |
 
 ## How it works
 

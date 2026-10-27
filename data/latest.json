@@ -121,17 +121,6 @@
     "firstSeen": "2026-09-23T11:23:29.447Z"
   },
   {
-    "id": "gh:easygo:5103198007",
-    "company": "Easygo",
-    "title": "Staff Software Engineer, (Full-Stack) - Engagement team",
-    "location": "Melbourne, Australia",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5103198007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-09-14T19:48:32.439Z"
-  },
-  {
     "id": "lever:immutable:fcd9fcb4-e568-4a40-a67e-fd57442171de",
     "company": "Immutable",
     "title": "Senior Platform Engineer",

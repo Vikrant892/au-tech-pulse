@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-27T08:51:53.949Z
+
+- closed: Staff Software Engineer, (Full-Stack) - Engagement team at Easygo
+
 ## 2026-10-26T04:31:15.289Z
 
 - new: Identity Engineer at Easygo (Melbourne, Australia)
