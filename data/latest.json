@@ -22,17 +22,6 @@
     "firstSeen": "2026-09-24T11:35:32.698Z"
   },
   {
-    "id": "gh:cultureamp:8220056",
-    "company": "Culture Amp",
-    "title": "Staff Engineer",
-    "location": "Melbourne",
-    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/8220056",
-    "category": "Other Tech",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-09-21T12:39:30.980Z"
-  },
-  {
     "id": "lever:deputy:3b74806c-695c-492f-a0ef-ea332dc8bb41",
     "company": "Deputy",
     "title": "Senior Software Engineer, AI Scheduling",
@@ -126,7 +115,7 @@
     "title": "Senior Platform Engineer",
     "location": "Sydney",
     "url": "https://jobs.lever.co/immutable/fcd9fcb4-e568-4a40-a67e-fd57442171de",
-    "category": "Data Engineering",
+    "category": "Cloud & DevOps",
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-08-03T10:02:02.420Z"
@@ -163,16 +152,5 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-10-09T10:22:30.165Z"
-  },
-  {
-    "id": "gh:thetradedesk:5090393007",
-    "company": "The Trade Desk",
-    "title": "Sr Site Reliability Engineer",
-    "location": "Sydney",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5090393007",
-    "category": "Cloud & DevOps",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-06-10T04:52:13.396Z"
   }
 ]

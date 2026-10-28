@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-10-28T05:25:10.004Z
+
+- closed: Staff Engineer at Culture Amp
+- closed: Sr Site Reliability Engineer at The Trade Desk
+
 ## 2026-10-27T08:51:53.949Z
 
 - closed: Staff Software Engineer, (Full-Stack) - Engagement team at Easygo
