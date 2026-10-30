@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-10-30T09:52:21.715Z
+
+- closed: Senior Software Engineer - Engagement at Easygo
+
 ## 2026-10-28T05:25:10.004Z
 
 - closed: Staff Engineer at Culture Amp
