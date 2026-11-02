@@ -99,17 +99,6 @@
     "firstSeen": "2026-09-23T11:23:29.447Z"
   },
   {
-    "id": "lever:immutable:fcd9fcb4-e568-4a40-a67e-fd57442171de",
-    "company": "Immutable",
-    "title": "Senior Platform Engineer",
-    "location": "Sydney",
-    "url": "https://jobs.lever.co/immutable/fcd9fcb4-e568-4a40-a67e-fd57442171de",
-    "category": "Cloud & DevOps",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-08-03T10:02:02.420Z"
-  },
-  {
     "id": "lever:immutable:80353766-d815-497e-bf5f-17594677fcd9",
     "company": "Immutable",
     "title": "Senior Security Engineer (Product Security)",

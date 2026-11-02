@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-11-02T10:52:50.644Z
+
+- closed: Senior Platform Engineer at Immutable
+
 ## 2026-10-30T09:52:21.715Z
 
 - closed: Senior Software Engineer - Engagement at Easygo
