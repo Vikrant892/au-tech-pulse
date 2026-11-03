@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-11-03T16:58:03.445Z
+
+- new: Application Security Engineer - (5 months Contract) at Bugcrowd (Remote - Brazil)
+
 ## 2026-11-02T10:52:50.644Z
 
 - closed: Senior Platform Engineer at Immutable
