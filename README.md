@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Wed, 04 Nov 2026, 09:42 am (Adelaide time) · run #792
+**Last updated:** Wed, 04 Nov 2026, 04:31 pm (Adelaide time) · run #793
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **13** |
+| Open tech roles tracked | **11** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **2** |
 | Companies hiring | **6** |
@@ -24,22 +24,22 @@ touching a keyboard.
 Data Engineering            0  ............................
 Machine Learning & AI       0  ............................
 Cyber Security              3  #####################.......
-Software Engineering        4  ############################
+Software Engineering        2  ##############..............
 Cloud & DevOps              2  ##############..............
 Other Tech                  4  ############################
 ```
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 13.
+Open roles tracked across the last 40 runs, oldest on the left. Now 11.
 
 ```
-17 │          ████
-   │█████████████████
-   │█████████████████
-   │████████████████████████
-   │███████████████████████████████████   ██
-12 │████████████████████████████████████████
+17 │         ████
+   │████████████████
+   │███████████████████████
+   │██████████████████████████████████   ██
+   │███████████████████████████████████████
+11 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
 
@@ -48,10 +48,10 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 13.
 | # | Company | Open tech roles |
 | --- | --- | --- |
 | 1 | Easygo | 4 |
-| 2 | Deputy | 3 |
-| 3 | Bugcrowd | 2 |
-| 4 | Immutable | 2 |
-| 5 | Culture Amp | 1 |
+| 2 | Bugcrowd | 2 |
+| 3 | Immutable | 2 |
+| 4 | Culture Amp | 1 |
+| 5 | Deputy | 1 |
 | 6 | Relevance AI | 1 |
 
 ## Newest roles
@@ -64,9 +64,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 13.
 | [Senior Software Engineer (React-Native, Mobile)](https://job-boards.greenhouse.io/easygo/jobs/5270767007) | Easygo | Melbourne, Victoria | Software Engineering |
 | [Product Security Engineer](https://boards.greenhouse.io/bugcrowd/jobs/8202018?gh_jid=8202018) | Bugcrowd | Remote - Costa Rica | Cyber Security |
 | [Senior AI Platform Engineer](https://jobs.ashbyhq.com/relevanceai/cfc7da1e-7e0a-488a-a39c-26536baeefba) | Relevance AI | Sydney, Australia | Cloud & DevOps |
-| [Senior Software Engineer, AI Scheduling](https://jobs.lever.co/deputy/3b74806c-695c-492f-a0ef-ea332dc8bb41) | Deputy | Sydney | Software Engineering |
 | [Software Engineer](https://jobs.lever.co/immutable/0279e748-a186-4254-bf9b-349edcc850b8) | Immutable | Sydney | Software Engineering |
-| [Software Engineer - 12 Month Fixed Term Contract](https://jobs.lever.co/deputy/b2e9023a-e9f1-4a54-9f01-17c13290b4b8) | Deputy | Sydney | Software Engineering |
 | [Senior Backend Engineer - Engine](https://job-boards.greenhouse.io/easygo/jobs/5191644007) | Easygo | Melbourne, Australia | Cloud & DevOps |
 | [Senior Systems Engineer](https://job-boards.greenhouse.io/cultureamp/jobs/8229754) | Culture Amp | Melbourne | Other Tech |
 | [Software Engineering Manager - Wallet Tribe (Crypto & Fiat)](https://job-boards.greenhouse.io/easygo/jobs/5194200007) | Easygo | Melbourne | Other Tech |

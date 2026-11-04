@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-11-04T06:01:07.110Z
+
+- closed: Senior Software Engineer, AI Scheduling at Deputy
+- closed: Software Engineer - 12 Month Fixed Term Contract at Deputy
+
 ## 2026-11-03T16:58:03.445Z
 
 - new: Application Security Engineer - (5 months Contract) at Bugcrowd (Remote - Brazil)
