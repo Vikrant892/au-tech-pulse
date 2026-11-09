@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-11-09T15:59:39.752Z
+
+- closed: Senior Systems Engineer at Culture Amp
+
 ## 2026-11-04T06:01:07.110Z
 
 - closed: Senior Software Engineer, AI Scheduling at Deputy
