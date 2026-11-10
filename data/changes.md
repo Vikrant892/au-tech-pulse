@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-11-10T01:26:14.431Z
+
+- closed: Software Engineer at Immutable
+
 ## 2026-11-09T15:59:39.752Z
 
 - closed: Senior Systems Engineer at Culture Amp

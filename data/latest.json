@@ -88,17 +88,6 @@
     "firstSeen": "2026-10-23T04:34:02.696Z"
   },
   {
-    "id": "lever:immutable:0279e748-a186-4254-bf9b-349edcc850b8",
-    "company": "Immutable",
-    "title": "Software Engineer",
-    "location": "Sydney",
-    "url": "https://jobs.lever.co/immutable/0279e748-a186-4254-bf9b-349edcc850b8",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-10-07T05:43:47.942Z"
-  },
-  {
     "id": "ashby:relevanceai:cfc7da1e-7e0a-488a-a39c-26536baeefba",
     "company": "Relevance AI",
     "title": "Senior AI Platform Engineer",
