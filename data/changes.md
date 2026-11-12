@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-11-12T02:12:00.298Z
+
+- closed: Senior Backend Engineer - Engine at Easygo
+
 ## 2026-11-10T01:26:14.431Z
 
 - closed: Software Engineer at Immutable
