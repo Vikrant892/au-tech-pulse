@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-11-12T19:49:13.908Z
+
+- closed: Application Security Engineer - (5 months Contract) at Bugcrowd
+
 ## 2026-11-12T02:12:00.298Z
 
 - closed: Senior Backend Engineer - Engine at Easygo

@@ -7,15 +7,15 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Thu, 12 Nov 2026, 09:23 pm (Adelaide time) · run #818
+**Last updated:** Fri, 13 Nov 2026, 06:19 am (Adelaide time) · run #819
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **8** |
+| Open tech roles tracked | **7** |
 | Located in Adelaide or South Australia | **0** |
-| Open to remote within Australia | **2** |
+| Open to remote within Australia | **1** |
 | Companies hiring | **5** |
 
 ## By field
@@ -23,23 +23,23 @@ touching a keyboard.
 ```
 Data Engineering            0  ............................
 Machine Learning & AI       0  ............................
-Cyber Security              4  ############################
-Software Engineering        1  #######.....................
-Cloud & DevOps              1  #######.....................
-Other Tech                  2  ##############..............
+Cyber Security              3  ############################
+Software Engineering        1  #########...................
+Cloud & DevOps              1  #########...................
+Other Tech                  2  ###################.........
 ```
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 8.
+Open roles tracked across the last 40 runs, oldest on the left. Now 7.
 
 ```
-13 │█████████   ██
-   │██████████████
+13 │████████   ██
+   │█████████████
    │███████████████████████████████
-   │████████████████████████████████
-   │██████████████████████████████████████
- 8 │████████████████████████████████████████
+   │█████████████████████████████████████
+   │███████████████████████████████████████
+ 7 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
 
@@ -48,7 +48,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 8.
 | # | Company | Open tech roles |
 | --- | --- | --- |
 | 1 | Easygo | 3 |
-| 2 | Bugcrowd | 2 |
+| 2 | Bugcrowd | 1 |
 | 3 | Deputy | 1 |
 | 4 | Immutable | 1 |
 | 5 | Relevance AI | 1 |
@@ -57,7 +57,6 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 8.
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
-| [Application Security Engineer - (5 months Contract)](https://boards.greenhouse.io/bugcrowd/jobs/8310677?gh_jid=8310677) | Bugcrowd | Remote - Brazil | Cyber Security |
 | [Identity Engineer](https://job-boards.greenhouse.io/easygo/jobs/5274710007) | Easygo | Melbourne, Australia | Cyber Security |
 | [Senior Security Engineer (Product Security)](https://jobs.lever.co/immutable/80353766-d815-497e-bf5f-17594677fcd9) | Immutable | Sydney | Cyber Security |
 | [Senior Software Engineer (React-Native, Mobile)](https://job-boards.greenhouse.io/easygo/jobs/5270767007) | Easygo | Melbourne, Victoria | Software Engineering |
