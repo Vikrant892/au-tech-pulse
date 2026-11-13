@@ -1,5 +1,10 @@
 # Change log
 
+## 2026-11-13T01:45:18.341Z
+
+- new: DevOps Support Engineer (Western AU) at Octopus Deploy (Australia)
+- closed: Senior Software Engineer (React-Native, Mobile) at Easygo
+
 ## 2026-11-12T19:49:13.908Z
 
 - closed: Application Security Engineer - (5 months Contract) at Bugcrowd

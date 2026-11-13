@@ -33,17 +33,6 @@
     "firstSeen": "2026-10-26T04:31:15.289Z"
   },
   {
-    "id": "gh:easygo:5270767007",
-    "company": "Easygo",
-    "title": "Senior Software Engineer (React-Native, Mobile)",
-    "location": "Melbourne, Victoria",
-    "url": "https://job-boards.greenhouse.io/easygo/jobs/5270767007",
-    "category": "Software Engineering",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-10-22T04:28:41.390Z"
-  },
-  {
     "id": "gh:easygo:5194200007",
     "company": "Easygo",
     "title": "Software Engineering Manager - Wallet Tribe (Crypto & Fiat)",
@@ -64,6 +53,17 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-10-23T04:34:02.696Z"
+  },
+  {
+    "id": "gh:octopusdeploy:4008870201",
+    "company": "Octopus Deploy",
+    "title": "DevOps Support Engineer (Western AU)",
+    "location": "Australia",
+    "url": "https://job-boards.anz.greenhouse.io/octopusdeploy/jobs/4008870201",
+    "category": "Cloud & DevOps",
+    "adelaide": false,
+    "remote": true,
+    "firstSeen": "2026-11-13T01:45:18.341Z"
   },
   {
     "id": "ashby:relevanceai:cfc7da1e-7e0a-488a-a39c-26536baeefba",
