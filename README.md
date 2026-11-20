@@ -7,15 +7,15 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Fri, 20 Nov 2026, 09:49 pm (Adelaide time) · run #841
+**Last updated:** Sat, 21 Nov 2026, 06:28 am (Adelaide time) · run #842
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **8** |
+| Open tech roles tracked | **9** |
 | Located in Adelaide or South Australia | **0** |
-| Open to remote within Australia | **2** |
+| Open to remote within Australia | **3** |
 | Companies hiring | **7** |
 
 ## By field
@@ -23,22 +23,22 @@ touching a keyboard.
 ```
 Data Engineering            0  ............................
 Machine Learning & AI       0  ............................
-Cyber Security              3  ############################
+Cyber Security              3  #####################.......
 Software Engineering        0  ............................
-Cloud & DevOps              3  ############################
-Other Tech                  2  ###################.........
+Cloud & DevOps              4  ############################
+Other Tech                  2  ##############..............
 ```
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 8.
+Open roles tracked across the last 40 runs, oldest on the left. Now 9.
 
 ```
-11 │████████
-   │█████████
-   │███████████████
-   │███████████████
-   │█████████████████                      █
+11 │███████
+   │████████
+   │██████████████                         █
+   │██████████████                         █
+   │████████████████                      ██
  7 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -48,10 +48,10 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 8.
 | # | Company | Open tech roles |
 | --- | --- | --- |
 | 1 | Easygo | 2 |
-| 2 | Bugcrowd | 1 |
-| 3 | Deputy | 1 |
-| 4 | Immutable | 1 |
-| 5 | Octopus Deploy | 1 |
+| 2 | Octopus Deploy | 2 |
+| 3 | Bugcrowd | 1 |
+| 4 | Deputy | 1 |
+| 5 | Immutable | 1 |
 | 6 | Relevance AI | 1 |
 | 7 | The Trade Desk | 1 |
 
@@ -59,6 +59,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 8.
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [DevOps Support Specialist (Western AU)](https://job-boards.anz.greenhouse.io/octopusdeploy/jobs/4009866201) | Octopus Deploy | Australia | Cloud & DevOps |
 | [Software Engineer II, Observability](https://job-boards.greenhouse.io/thetradedesk/jobs/5302971007) | The Trade Desk | Sydney | Cloud & DevOps |
 | [DevOps Support Engineer (Western AU)](https://job-boards.anz.greenhouse.io/octopusdeploy/jobs/4008870201) | Octopus Deploy | Australia | Cloud & DevOps |
 | [Identity Engineer](https://job-boards.greenhouse.io/easygo/jobs/5274710007) | Easygo | Melbourne, Australia | Cyber Security |
