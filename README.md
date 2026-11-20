@@ -7,16 +7,16 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Fri, 20 Nov 2026, 12:43 pm (Adelaide time) · run #840
+**Last updated:** Fri, 20 Nov 2026, 09:49 pm (Adelaide time) · run #841
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **7** |
+| Open tech roles tracked | **8** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **2** |
-| Companies hiring | **6** |
+| Companies hiring | **7** |
 
 ## By field
 
@@ -25,20 +25,20 @@ Data Engineering            0  ............................
 Machine Learning & AI       0  ............................
 Cyber Security              3  ############################
 Software Engineering        0  ............................
-Cloud & DevOps              2  ###################.........
+Cloud & DevOps              3  ############################
 Other Tech                  2  ###################.........
 ```
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 7.
+Open roles tracked across the last 40 runs, oldest on the left. Now 8.
 
 ```
-11 │█████████
-   │██████████
-   │████████████████
-   │████████████████
-   │██████████████████
+11 │████████
+   │█████████
+   │███████████████
+   │███████████████
+   │█████████████████                      █
  7 │████████████████████████████████████████
    └────────────────────────────────────────
 ```
@@ -53,11 +53,13 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 7.
 | 4 | Immutable | 1 |
 | 5 | Octopus Deploy | 1 |
 | 6 | Relevance AI | 1 |
+| 7 | The Trade Desk | 1 |
 
 ## Newest roles
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [Software Engineer II, Observability](https://job-boards.greenhouse.io/thetradedesk/jobs/5302971007) | The Trade Desk | Sydney | Cloud & DevOps |
 | [DevOps Support Engineer (Western AU)](https://job-boards.anz.greenhouse.io/octopusdeploy/jobs/4008870201) | Octopus Deploy | Australia | Cloud & DevOps |
 | [Identity Engineer](https://job-boards.greenhouse.io/easygo/jobs/5274710007) | Easygo | Melbourne, Australia | Cyber Security |
 | [Senior Security Engineer (Product Security)](https://jobs.lever.co/immutable/80353766-d815-497e-bf5f-17594677fcd9) | Immutable | Sydney | Cyber Security |

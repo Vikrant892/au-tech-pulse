@@ -75,5 +75,16 @@
     "adelaide": false,
     "remote": false,
     "firstSeen": "2026-10-09T10:22:30.165Z"
+  },
+  {
+    "id": "gh:thetradedesk:5302971007",
+    "company": "The Trade Desk",
+    "title": "Software Engineer II, Observability",
+    "location": "Sydney",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5302971007",
+    "category": "Cloud & DevOps",
+    "adelaide": false,
+    "remote": false,
+    "firstSeen": "2026-11-20T11:19:56.035Z"
   }
 ]

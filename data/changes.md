@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-11-20T11:19:56.035Z
+
+- new: Software Engineer II, Observability at The Trade Desk (Sydney)
+
 ## 2026-11-13T01:45:18.341Z
 
 - new: DevOps Support Engineer (Western AU) at Octopus Deploy (Australia)
