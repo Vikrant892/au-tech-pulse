@@ -7,16 +7,16 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Wed, 25 Nov 2026, 10:20 am (Adelaide time) · run #853
+**Last updated:** Wed, 25 Nov 2026, 06:44 pm (Adelaide time) · run #854
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **9** |
+| Open tech roles tracked | **8** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **3** |
-| Companies hiring | **7** |
+| Companies hiring | **6** |
 
 ## By field
 
@@ -26,19 +26,19 @@ Machine Learning & AI       0  ............................
 Cyber Security              3  #####################.......
 Software Engineering        0  ............................
 Cloud & DevOps              4  ############################
-Other Tech                  2  ##############..............
+Other Tech                  1  #######.....................
 ```
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 9.
+Open roles tracked across the last 40 runs, oldest on the left. Now 8.
 
 ```
-9 │███                         ████████████
-  │███                         ████████████
-  │█████                      █████████████
-  │█████                      █████████████
-  │█████                      █████████████
+9 │██                         ████████████
+  │██                         ████████████
+  │████                      ██████████████
+  │████                      ██████████████
+  │████                      ██████████████
 7 │████████████████████████████████████████
   └────────────────────────────────────────
 ```
@@ -50,10 +50,9 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 9.
 | 1 | Easygo | 2 |
 | 2 | Octopus Deploy | 2 |
 | 3 | Bugcrowd | 1 |
-| 4 | Deputy | 1 |
-| 5 | Immutable | 1 |
-| 6 | Relevance AI | 1 |
-| 7 | The Trade Desk | 1 |
+| 4 | Immutable | 1 |
+| 5 | Relevance AI | 1 |
+| 6 | The Trade Desk | 1 |
 
 ## Newest roles
 
@@ -67,7 +66,6 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 9.
 | [Product Security Engineer](https://boards.greenhouse.io/bugcrowd/jobs/8202018?gh_jid=8202018) | Bugcrowd | Remote - Costa Rica | Cyber Security |
 | [Senior AI Platform Engineer](https://jobs.ashbyhq.com/relevanceai/cfc7da1e-7e0a-488a-a39c-26536baeefba) | Relevance AI | Sydney, Australia | Cloud & DevOps |
 | [Software Engineering Manager - Wallet Tribe (Crypto & Fiat)](https://job-boards.greenhouse.io/easygo/jobs/5194200007) | Easygo | Melbourne | Other Tech |
-| [Technical Support Engineer - Tier 3](https://jobs.lever.co/deputy/f22f8969-4a6d-44cc-95fb-a2f205264a10) | Deputy | Sydney | Other Tech |
 
 ## How it works
 

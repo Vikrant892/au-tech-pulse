@@ -11,17 +11,6 @@
     "firstSeen": "2026-10-14T17:01:44.582Z"
   },
   {
-    "id": "lever:deputy:f22f8969-4a6d-44cc-95fb-a2f205264a10",
-    "company": "Deputy",
-    "title": "Technical Support Engineer - Tier 3",
-    "location": "Sydney",
-    "url": "https://jobs.lever.co/deputy/f22f8969-4a6d-44cc-95fb-a2f205264a10",
-    "category": "Other Tech",
-    "adelaide": false,
-    "remote": false,
-    "firstSeen": "2026-07-30T08:43:14.526Z"
-  },
-  {
     "id": "gh:easygo:5274710007",
     "company": "Easygo",
     "title": "Identity Engineer",

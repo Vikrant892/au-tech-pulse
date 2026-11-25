@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-11-25T08:14:32.416Z
+
+- closed: Technical Support Engineer - Tier 3 at Deputy
+
 ## 2026-11-20T19:58:28.977Z
 
 - new: DevOps Support Specialist (Western AU) at Octopus Deploy (Australia)
