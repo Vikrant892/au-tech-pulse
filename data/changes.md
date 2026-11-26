@@ -1,5 +1,9 @@
 # Change log
 
+## 2026-11-26T16:45:00.270Z
+
+- new: Senior Data Analyst at Easygo (Melbourne, Australia)
+
 ## 2026-11-25T08:14:32.416Z
 
 - closed: Technical Support Engineer - Tier 3 at Deputy

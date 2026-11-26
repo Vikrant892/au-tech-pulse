@@ -7,13 +7,13 @@ from public company hiring feeds several times a day and committed straight back
 to this repository, so the numbers below track the live market without anyone
 touching a keyboard.
 
-**Last updated:** Thu, 26 Nov 2026, 01:58 pm (Adelaide time) · run #856
+**Last updated:** Fri, 27 Nov 2026, 03:15 am (Adelaide time) · run #857
 
 ## Right now
 
 | Metric | Count |
 | --- | --- |
-| Open tech roles tracked | **8** |
+| Open tech roles tracked | **9** |
 | Located in Adelaide or South Australia | **0** |
 | Open to remote within Australia | **3** |
 | Companies hiring | **6** |
@@ -21,7 +21,7 @@ touching a keyboard.
 ## By field
 
 ```
-Data Engineering            0  ............................
+Data Engineering            1  #######.....................
 Machine Learning & AI       0  ............................
 Cyber Security              3  #####################.......
 Software Engineering        0  ............................
@@ -31,14 +31,14 @@ Other Tech                  1  #######.....................
 
 ## Trend
 
-Open roles tracked across the last 40 runs, oldest on the left. Now 8.
+Open roles tracked across the last 40 runs, oldest on the left. Now 9.
 
 ```
-9 │                         ████████████
-  │                         ████████████
-  │██                      ████████████████
-  │██                      ████████████████
-  │██                      ████████████████
+9 │                        ████████████   █
+  │                        ████████████   █
+  │█                      █████████████████
+  │█                      █████████████████
+  │█                      █████████████████
 7 │████████████████████████████████████████
   └────────────────────────────────────────
 ```
@@ -47,7 +47,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 8.
 
 | # | Company | Open tech roles |
 | --- | --- | --- |
-| 1 | Easygo | 2 |
+| 1 | Easygo | 3 |
 | 2 | Octopus Deploy | 2 |
 | 3 | Bugcrowd | 1 |
 | 4 | Immutable | 1 |
@@ -58,6 +58,7 @@ Open roles tracked across the last 40 runs, oldest on the left. Now 8.
 
 | Role | Company | Location | Field |
 | --- | --- | --- | --- |
+| [Senior Data Analyst](https://job-boards.greenhouse.io/easygo/jobs/5309921007) | Easygo | Melbourne, Australia | Data Engineering |
 | [DevOps Support Specialist (Western AU)](https://job-boards.anz.greenhouse.io/octopusdeploy/jobs/4009866201) | Octopus Deploy | Australia | Cloud & DevOps |
 | [Software Engineer II, Observability](https://job-boards.greenhouse.io/thetradedesk/jobs/5302971007) | The Trade Desk | Sydney | Cloud & DevOps |
 | [DevOps Support Engineer (Western AU)](https://job-boards.anz.greenhouse.io/octopusdeploy/jobs/4008870201) | Octopus Deploy | Australia | Cloud & DevOps |
